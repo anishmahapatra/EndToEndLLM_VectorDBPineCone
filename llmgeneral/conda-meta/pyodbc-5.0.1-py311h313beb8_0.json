@@ -1,0 +1,119 @@
+{
+  "build": "py311h313beb8_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "libcxx >=14.0.6",
+    "python >=3.11,<3.12.0a0",
+    "unixodbc >=2.3.11,<2.4.0a0"
+  ],
+  "extracted_package_dir": "/Users/anishmahapatra/anaconda3/pkgs/pyodbc-5.0.1-py311h313beb8_0",
+  "features": "",
+  "files": [
+    "lib/python3.11/site-packages/pyodbc-5.0.1.dist-info/INSTALLER",
+    "lib/python3.11/site-packages/pyodbc-5.0.1.dist-info/LICENSE.txt",
+    "lib/python3.11/site-packages/pyodbc-5.0.1.dist-info/METADATA",
+    "lib/python3.11/site-packages/pyodbc-5.0.1.dist-info/RECORD",
+    "lib/python3.11/site-packages/pyodbc-5.0.1.dist-info/REQUESTED",
+    "lib/python3.11/site-packages/pyodbc-5.0.1.dist-info/WHEEL",
+    "lib/python3.11/site-packages/pyodbc-5.0.1.dist-info/direct_url.json",
+    "lib/python3.11/site-packages/pyodbc-5.0.1.dist-info/top_level.txt",
+    "lib/python3.11/site-packages/pyodbc.cpython-311-darwin.so",
+    "lib/python3.11/site-packages/pyodbc.pyi"
+  ],
+  "fn": "pyodbc-5.0.1-py311h313beb8_0.conda",
+  "legacy_bz2_md5": "4d94dc23f4e0560a7e94c96702c30743",
+  "license": "MIT-0",
+  "license_family": "MIT",
+  "link": {
+    "source": "/Users/anishmahapatra/anaconda3/pkgs/pyodbc-5.0.1-py311h313beb8_0",
+    "type": 1
+  },
+  "md5": "a337e01036c6ace2502c3cef331920cf",
+  "name": "pyodbc",
+  "package_tarball_full_path": "/Users/anishmahapatra/anaconda3/pkgs/pyodbc-5.0.1-py311h313beb8_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.11/site-packages/pyodbc-5.0.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pyodbc-5.0.1.dist-info/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "9859c85770c91b7866b0f769c938e36d64d0260141b529b947b4ead96883eab4",
+        "sha256_in_prefix": "9859c85770c91b7866b0f769c938e36d64d0260141b529b947b4ead96883eab4",
+        "size_in_bytes": 868
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pyodbc-5.0.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "4dd8cd6a3e496ff2809dd877c519468302a2298037433a5608e74a9f4c5de503",
+        "sha256_in_prefix": "4dd8cd6a3e496ff2809dd877c519468302a2298037433a5608e74a9f4c5de503",
+        "size_in_bytes": 2717
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pyodbc-5.0.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "d5d81b76db5d81361721bd1c423e8b0c53a24d59f61bab36a81191ff87a5d73c",
+        "sha256_in_prefix": "d5d81b76db5d81361721bd1c423e8b0c53a24d59f61bab36a81191ff87a5d73c",
+        "size_in_bytes": 815
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pyodbc-5.0.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pyodbc-5.0.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "79a0d36cc79d5a87d5abc2198dec3da9e024a00e52c3630e536a6974846bd498",
+        "sha256_in_prefix": "79a0d36cc79d5a87d5abc2198dec3da9e024a00e52c3630e536a6974846bd498",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pyodbc-5.0.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "de0534efb5edbb188fca0c5f1018b41c55991fecb32d84b23baba43f6d3e17c5",
+        "sha256_in_prefix": "de0534efb5edbb188fca0c5f1018b41c55991fecb32d84b23baba43f6d3e17c5",
+        "size_in_bytes": 137
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pyodbc-5.0.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "45bebdbd2f9234dfc17e1f7dbd7ede09cbc4009a32ce8c06deee11ed6dfa165c",
+        "sha256_in_prefix": "45bebdbd2f9234dfc17e1f7dbd7ede09cbc4009a32ce8c06deee11ed6dfa165c",
+        "size_in_bytes": 8
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pyodbc.cpython-311-darwin.so",
+        "path_type": "hardlink",
+        "sha256": "5ca8051c14c01199bc27d0c0cc585b383c50ce38198b0a3ac4d3f07e71f84622",
+        "sha256_in_prefix": "5ca8051c14c01199bc27d0c0cc585b383c50ce38198b0a3ac4d3f07e71f84622",
+        "size_in_bytes": 178320
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pyodbc.pyi",
+        "path_type": "hardlink",
+        "sha256": "497903a04b357e9f8a7b8cda8a117b7cca0a8b92e47c2c32010f1ff4543ebd08",
+        "sha256_in_prefix": "497903a04b357e9f8a7b8cda8a117b7cca0a8b92e47c2c32010f1ff4543ebd08",
+        "size_in_bytes": 32351
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "3860db22594d12693d6527d66cfd3b05d743598961dd4034d2e093dbdb203660",
+  "size": 69242,
+  "subdir": "osx-arm64",
+  "timestamp": 1705431471571,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/pyodbc-5.0.1-py311h313beb8_0.conda",
+  "version": "5.0.1"
+}

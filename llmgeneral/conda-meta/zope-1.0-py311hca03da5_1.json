@@ -1,0 +1,52 @@
+{
+  "build": "py311hca03da5_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "python >=3.11,<3.12.0a0"
+  ],
+  "extracted_package_dir": "/Users/anishmahapatra/anaconda3/pkgs/zope-1.0-py311hca03da5_1",
+  "features": "",
+  "files": [
+    "lib/python3.11/site-packages/zope/__init__.py",
+    "lib/python3.11/site-packages/zope/__pycache__/__init__.cpython-311.pyc"
+  ],
+  "fn": "zope-1.0-py311hca03da5_1.conda",
+  "legacy_bz2_md5": "56f8f000274740d6b8230b891be12da6",
+  "license": "BSD",
+  "link": {
+    "source": "/Users/anishmahapatra/anaconda3/pkgs/zope-1.0-py311hca03da5_1",
+    "type": 1
+  },
+  "md5": "5eb02747c8e822ce61b95ddaf367e86a",
+  "name": "zope",
+  "package_tarball_full_path": "/Users/anishmahapatra/anaconda3/pkgs/zope-1.0-py311hca03da5_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.11/site-packages/zope/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "6f5e58238857c93b55a075e2eb3927371ff45a1d1c29a2291f7b1b8a28f2672e",
+        "sha256_in_prefix": "6f5e58238857c93b55a075e2eb3927371ff45a1d1c29a2291f7b1b8a28f2672e",
+        "size_in_bytes": 239
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zope/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "c851f335c1a850bdfa2d362da4678f3f037d5327855d4e15fd8c40d087560cda",
+        "sha256_in_prefix": "c851f335c1a850bdfa2d362da4678f3f037d5327855d4e15fd8c40d087560cda",
+        "size_in_bytes": 154
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "e214a4cc0e860d3cf15bb2677b183a727372d2fa112c3fa970688d6846acd3dd",
+  "size": 5915,
+  "subdir": "osx-arm64",
+  "timestamp": 1678055270567,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/zope-1.0-py311hca03da5_1.conda",
+  "version": "1.0"
+}

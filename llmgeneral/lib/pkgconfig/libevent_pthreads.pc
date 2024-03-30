@@ -1,0 +1,16 @@
+#libevent pkg-config source file
+
+prefix=/Users/anishmahapatra/Work/AI Projects/04 EndToEndLLM_VectorDBPinecone/llmgeneral
+exec_prefix=/Users/anishmahapatra/Work/AI Projects/04 EndToEndLLM_VectorDBPinecone/llmgeneral
+libdir=/Users/anishmahapatra/Work/AI Projects/04 EndToEndLLM_VectorDBPinecone/llmgeneral/lib
+includedir=/Users/anishmahapatra/Work/AI Projects/04 EndToEndLLM_VectorDBPinecone/llmgeneral/include
+
+Name: libevent_pthreads
+Description: libevent_pthreads adds pthreads-based threading support to libevent
+Version: 2.1.12
+Requires: libevent
+Conflicts:
+Libs: -L${libdir} -levent_pthreads
+Libs.private:  
+Cflags: -I${includedir} 
+

@@ -1,0 +1,245 @@
+{
+  "build": "py311hca03da5_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "python >=3.11,<3.12.0a0"
+  ],
+  "extracted_package_dir": "/Users/anishmahapatra/anaconda3/pkgs/xyzservices-2022.9.0-py311hca03da5_1",
+  "features": "",
+  "files": [
+    "lib/python3.11/site-packages/xyzservices-2022.9.0.dist-info/INSTALLER",
+    "lib/python3.11/site-packages/xyzservices-2022.9.0.dist-info/LICENSE",
+    "lib/python3.11/site-packages/xyzservices-2022.9.0.dist-info/METADATA",
+    "lib/python3.11/site-packages/xyzservices-2022.9.0.dist-info/RECORD",
+    "lib/python3.11/site-packages/xyzservices-2022.9.0.dist-info/REQUESTED",
+    "lib/python3.11/site-packages/xyzservices-2022.9.0.dist-info/WHEEL",
+    "lib/python3.11/site-packages/xyzservices-2022.9.0.dist-info/direct_url.json",
+    "lib/python3.11/site-packages/xyzservices-2022.9.0.dist-info/top_level.txt",
+    "lib/python3.11/site-packages/xyzservices/__init__.py",
+    "lib/python3.11/site-packages/xyzservices/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/xyzservices/__pycache__/_version.cpython-311.pyc",
+    "lib/python3.11/site-packages/xyzservices/__pycache__/lib.cpython-311.pyc",
+    "lib/python3.11/site-packages/xyzservices/__pycache__/providers.cpython-311.pyc",
+    "lib/python3.11/site-packages/xyzservices/_version.py",
+    "lib/python3.11/site-packages/xyzservices/data/__init__.py",
+    "lib/python3.11/site-packages/xyzservices/data/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/xyzservices/data/providers.json",
+    "lib/python3.11/site-packages/xyzservices/lib.py",
+    "lib/python3.11/site-packages/xyzservices/providers.py",
+    "lib/python3.11/site-packages/xyzservices/tests/__init__.py",
+    "lib/python3.11/site-packages/xyzservices/tests/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/xyzservices/tests/__pycache__/test_lib.cpython-311.pyc",
+    "lib/python3.11/site-packages/xyzservices/tests/__pycache__/test_providers.cpython-311.pyc",
+    "lib/python3.11/site-packages/xyzservices/tests/test_lib.py",
+    "lib/python3.11/site-packages/xyzservices/tests/test_providers.py",
+    "share/xyzservices/providers.json"
+  ],
+  "fn": "xyzservices-2022.9.0-py311hca03da5_1.conda",
+  "legacy_bz2_md5": "b3a1e5077b28f71298d891fbfb5ff03e",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Users/anishmahapatra/anaconda3/pkgs/xyzservices-2022.9.0-py311hca03da5_1",
+    "type": 1
+  },
+  "md5": "77a7335a486806ceee6b70fbfacca48e",
+  "name": "xyzservices",
+  "package_tarball_full_path": "/Users/anishmahapatra/anaconda3/pkgs/xyzservices-2022.9.0-py311hca03da5_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.11/site-packages/xyzservices-2022.9.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.11/site-packages/xyzservices-2022.9.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "d866b8c6c0e77e67b2c3f6d2cca771ffc05f65bbde1674dcf2e0ec55abb6ad61",
+        "sha256_in_prefix": "d866b8c6c0e77e67b2c3f6d2cca771ffc05f65bbde1674dcf2e0ec55abb6ad61",
+        "size_in_bytes": 1517
+      },
+      {
+        "_path": "lib/python3.11/site-packages/xyzservices-2022.9.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "6be724c96ba54f06abc235a2c775320bf236eb96c1f8f6ebe8599de2dda89609",
+        "sha256_in_prefix": "6be724c96ba54f06abc235a2c775320bf236eb96c1f8f6ebe8599de2dda89609",
+        "size_in_bytes": 3981
+      },
+      {
+        "_path": "lib/python3.11/site-packages/xyzservices-2022.9.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "64cc257df7b5cecc928d8ac5ef19004aaefe55ca64f4d44aa9242d07ef02d09e",
+        "sha256_in_prefix": "64cc257df7b5cecc928d8ac5ef19004aaefe55ca64f4d44aa9242d07ef02d09e",
+        "size_in_bytes": 2017
+      },
+      {
+        "_path": "lib/python3.11/site-packages/xyzservices-2022.9.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.11/site-packages/xyzservices-2022.9.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "sha256_in_prefix": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "lib/python3.11/site-packages/xyzservices-2022.9.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "15296d8d7c7ce56fb992e47f19e0752f04750c6f1f45ba87fd7ecb4b8282cc41",
+        "sha256_in_prefix": "15296d8d7c7ce56fb992e47f19e0752f04750c6f1f45ba87fd7ecb4b8282cc41",
+        "size_in_bytes": 103
+      },
+      {
+        "_path": "lib/python3.11/site-packages/xyzservices-2022.9.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "d31199af918719e5438e07764e67077748cd822c5e173090acf32fb966baee3a",
+        "sha256_in_prefix": "d31199af918719e5438e07764e67077748cd822c5e173090acf32fb966baee3a",
+        "size_in_bytes": 12
+      },
+      {
+        "_path": "lib/python3.11/site-packages/xyzservices/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "406b1f70d6fdfcd58f83c4425e4974a4825e3e90c6c3e7423ef700a261a584f7",
+        "sha256_in_prefix": "406b1f70d6fdfcd58f83c4425e4974a4825e3e90c6c3e7423ef700a261a584f7",
+        "size_in_bytes": 179
+      },
+      {
+        "_path": "lib/python3.11/site-packages/xyzservices/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "381eb5b8beca62c950ec9e7c48b1e4fe6b2ecc49f6fab3af176e89fe59e443d6",
+        "sha256_in_prefix": "381eb5b8beca62c950ec9e7c48b1e4fe6b2ecc49f6fab3af176e89fe59e443d6",
+        "size_in_bytes": 419
+      },
+      {
+        "_path": "lib/python3.11/site-packages/xyzservices/__pycache__/_version.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "a2bceb582c0c733a8b2024c9e05597b000ec039f1dba5b86de2bbacafaa6e820",
+        "sha256_in_prefix": "a2bceb582c0c733a8b2024c9e05597b000ec039f1dba5b86de2bbacafaa6e820",
+        "size_in_bytes": 569
+      },
+      {
+        "_path": "lib/python3.11/site-packages/xyzservices/__pycache__/lib.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "d542995660592d47e70a45165850d913dba8e02074e1b812c808d5aed8edbf95",
+        "sha256_in_prefix": "d542995660592d47e70a45165850d913dba8e02074e1b812c808d5aed8edbf95",
+        "size_in_bytes": 26056
+      },
+      {
+        "_path": "lib/python3.11/site-packages/xyzservices/__pycache__/providers.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "b430db023ca86503942189a8356655ba31618d1cc4119325f7bba7b9274bce2c",
+        "sha256_in_prefix": "b430db023ca86503942189a8356655ba31618d1cc4119325f7bba7b9274bce2c",
+        "size_in_bytes": 1024
+      },
+      {
+        "_path": "lib/python3.11/site-packages/xyzservices/_version.py",
+        "path_type": "hardlink",
+        "sha256": "31b5f26efe35905842fb9707cd6b7289d1576400860920c073da737d27be3181",
+        "sha256_in_prefix": "31b5f26efe35905842fb9707cd6b7289d1576400860920c073da737d27be3181",
+        "size_in_bytes": 500
+      },
+      {
+        "_path": "lib/python3.11/site-packages/xyzservices/data/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.11/site-packages/xyzservices/data/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "3ad563bc5bf49bfb17869a5fc15d5936a81c8902c1635fb2677705ff23c1cf1f",
+        "sha256_in_prefix": "3ad563bc5bf49bfb17869a5fc15d5936a81c8902c1635fb2677705ff23c1cf1f",
+        "size_in_bytes": 166
+      },
+      {
+        "_path": "lib/python3.11/site-packages/xyzservices/data/providers.json",
+        "path_type": "hardlink",
+        "sha256": "5e5fde0473ec55c646141eea57692770b72785e83214e16119b9a2132b5ce52e",
+        "sha256_in_prefix": "5e5fde0473ec55c646141eea57692770b72785e83214e16119b9a2132b5ce52e",
+        "size_in_bytes": 418678
+      },
+      {
+        "_path": "lib/python3.11/site-packages/xyzservices/lib.py",
+        "path_type": "hardlink",
+        "sha256": "084d9436d4a0e9143c95788e54b97d141a126f161584a92b7bcccc142c7fcaef",
+        "sha256_in_prefix": "084d9436d4a0e9143c95788e54b97d141a126f161584a92b7bcccc142c7fcaef",
+        "size_in_bytes": 21612
+      },
+      {
+        "_path": "lib/python3.11/site-packages/xyzservices/providers.py",
+        "path_type": "hardlink",
+        "sha256": "e654dccaadec408cd2a9085732b6c92d45362273149a22be5697fa13a67a9d5b",
+        "sha256_in_prefix": "e654dccaadec408cd2a9085732b6c92d45362273149a22be5697fa13a67a9d5b",
+        "size_in_bytes": 368
+      },
+      {
+        "_path": "lib/python3.11/site-packages/xyzservices/tests/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.11/site-packages/xyzservices/tests/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "b27e1609227c1d8e69397edd7ee9b841a39f1315f08d70ecac71aa08676b5642",
+        "sha256_in_prefix": "b27e1609227c1d8e69397edd7ee9b841a39f1315f08d70ecac71aa08676b5642",
+        "size_in_bytes": 167
+      },
+      {
+        "_path": "lib/python3.11/site-packages/xyzservices/tests/__pycache__/test_lib.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "a3b7ceede59aea255ed1b84c23de9b932ca5278b6f917a2b5b57f0e4bf2c792f",
+        "sha256_in_prefix": "a3b7ceede59aea255ed1b84c23de9b932ca5278b6f917a2b5b57f0e4bf2c792f",
+        "size_in_bytes": 13979
+      },
+      {
+        "_path": "lib/python3.11/site-packages/xyzservices/tests/__pycache__/test_providers.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "a26de0519a9131abac02c477f14e82cf05f4188ac7c7b9e35c7695370ada2675",
+        "sha256_in_prefix": "a26de0519a9131abac02c477f14e82cf05f4188ac7c7b9e35c7695370ada2675",
+        "size_in_bytes": 11657
+      },
+      {
+        "_path": "lib/python3.11/site-packages/xyzservices/tests/test_lib.py",
+        "path_type": "hardlink",
+        "sha256": "5b332b6b474bfebbf481c7bb2009dc42554a6a62ee61c2b310d8b4e330e78e62",
+        "sha256_in_prefix": "5b332b6b474bfebbf481c7bb2009dc42554a6a62ee61c2b310d8b4e330e78e62",
+        "size_in_bytes": 9057
+      },
+      {
+        "_path": "lib/python3.11/site-packages/xyzservices/tests/test_providers.py",
+        "path_type": "hardlink",
+        "sha256": "7c4403755dfeeae59d3b0c764ed8546aa71171aa3df98ae5cd9729e72ba0c3df",
+        "sha256_in_prefix": "7c4403755dfeeae59d3b0c764ed8546aa71171aa3df98ae5cd9729e72ba0c3df",
+        "size_in_bytes": 6397
+      },
+      {
+        "_path": "share/xyzservices/providers.json",
+        "path_type": "hardlink",
+        "sha256": "5e5fde0473ec55c646141eea57692770b72785e83214e16119b9a2132b5ce52e",
+        "sha256_in_prefix": "5e5fde0473ec55c646141eea57692770b72785e83214e16119b9a2132b5ce52e",
+        "size_in_bytes": 418678
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "5437e79fe9e3581dc6ee4dc61fa66974b46ac37b29624bc9e73e871882fd5238",
+  "size": 49966,
+  "subdir": "osx-arm64",
+  "timestamp": 1677927459979,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/xyzservices-2022.9.0-py311hca03da5_1.conda",
+  "version": "2022.9.0"
+}

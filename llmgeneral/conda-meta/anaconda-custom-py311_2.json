@@ -1,0 +1,36 @@
+{
+  "build": "py311_2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "_anaconda_depends",
+    "python >=3.11,<3.12.0a0"
+  ],
+  "extracted_package_dir": "/Users/anishmahapatra/anaconda3/pkgs/anaconda-custom-py311_2",
+  "features": "",
+  "files": [],
+  "fn": "anaconda-custom-py311_2.conda",
+  "legacy_bz2_md5": "f9d9751ed4d564ff08e0029007cb8910",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Users/anishmahapatra/anaconda3/pkgs/anaconda-custom-py311_2",
+    "type": 1
+  },
+  "md5": "b2582e5448fcd1ef1dd01358390cc949",
+  "name": "anaconda",
+  "package_tarball_full_path": "/Users/anishmahapatra/anaconda3/pkgs/anaconda-custom-py311_2.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "anaconda",
+  "sha256": "35ee947a56b3a682bb529828559fc2a88af7d6c3ae3ee5202c4c280aececc4e0",
+  "size": 12890,
+  "subdir": "osx-arm64",
+  "timestamp": 1688669160840,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/anaconda-custom-py311_2.conda",
+  "version": "custom"
+}

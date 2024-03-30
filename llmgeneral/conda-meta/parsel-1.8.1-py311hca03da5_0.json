@@ -1,0 +1,194 @@
+{
+  "build": "py311hca03da5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "cssselect >=1.2.0",
+    "jmespath",
+    "lxml",
+    "packaging",
+    "python >=3.11,<3.12.0a0",
+    "w3lib >=1.19.0"
+  ],
+  "extracted_package_dir": "/Users/anishmahapatra/anaconda3/pkgs/parsel-1.8.1-py311hca03da5_0",
+  "features": "",
+  "files": [
+    "lib/python3.11/site-packages/parsel-1.8.1.dist-info/INSTALLER",
+    "lib/python3.11/site-packages/parsel-1.8.1.dist-info/LICENSE",
+    "lib/python3.11/site-packages/parsel-1.8.1.dist-info/METADATA",
+    "lib/python3.11/site-packages/parsel-1.8.1.dist-info/RECORD",
+    "lib/python3.11/site-packages/parsel-1.8.1.dist-info/REQUESTED",
+    "lib/python3.11/site-packages/parsel-1.8.1.dist-info/WHEEL",
+    "lib/python3.11/site-packages/parsel-1.8.1.dist-info/direct_url.json",
+    "lib/python3.11/site-packages/parsel-1.8.1.dist-info/top_level.txt",
+    "lib/python3.11/site-packages/parsel/__init__.py",
+    "lib/python3.11/site-packages/parsel/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/parsel/__pycache__/csstranslator.cpython-311.pyc",
+    "lib/python3.11/site-packages/parsel/__pycache__/selector.cpython-311.pyc",
+    "lib/python3.11/site-packages/parsel/__pycache__/utils.cpython-311.pyc",
+    "lib/python3.11/site-packages/parsel/__pycache__/xpathfuncs.cpython-311.pyc",
+    "lib/python3.11/site-packages/parsel/csstranslator.py",
+    "lib/python3.11/site-packages/parsel/py.typed",
+    "lib/python3.11/site-packages/parsel/selector.py",
+    "lib/python3.11/site-packages/parsel/utils.py",
+    "lib/python3.11/site-packages/parsel/xpathfuncs.py"
+  ],
+  "fn": "parsel-1.8.1-py311hca03da5_0.conda",
+  "legacy_bz2_md5": "af0536ef95dd54050a1167a130408821",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Users/anishmahapatra/anaconda3/pkgs/parsel-1.8.1-py311hca03da5_0",
+    "type": 1
+  },
+  "md5": "5c314c53cce432acc0652f3ebdc439a8",
+  "name": "parsel",
+  "package_tarball_full_path": "/Users/anishmahapatra/anaconda3/pkgs/parsel-1.8.1-py311hca03da5_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.11/site-packages/parsel-1.8.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.11/site-packages/parsel-1.8.1.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "1238a5c6812856a2696ad0530edad2495ec030489c3e63c1f890f9541672ad97",
+        "sha256_in_prefix": "1238a5c6812856a2696ad0530edad2495ec030489c3e63c1f890f9541672ad97",
+        "size_in_bytes": 1521
+      },
+      {
+        "_path": "lib/python3.11/site-packages/parsel-1.8.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "29dd3e835843353fc8975a38a0014265cb09c0b7a953e9d3e3d60e127d25fca0",
+        "sha256_in_prefix": "29dd3e835843353fc8975a38a0014265cb09c0b7a953e9d3e3d60e127d25fca0",
+        "size_in_bytes": 10620
+      },
+      {
+        "_path": "lib/python3.11/site-packages/parsel-1.8.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "d16feea8ef78e21f3d75d7868c402d2f0ce08b4b70641417aba9bfedba788de8",
+        "sha256_in_prefix": "d16feea8ef78e21f3d75d7868c402d2f0ce08b4b70641417aba9bfedba788de8",
+        "size_in_bytes": 1349
+      },
+      {
+        "_path": "lib/python3.11/site-packages/parsel-1.8.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.11/site-packages/parsel-1.8.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "89896fe5f5f7e7b3d0c914f6a3ab70d5b37e61c2851472aa07f2f01cee703fe8",
+        "sha256_in_prefix": "89896fe5f5f7e7b3d0c914f6a3ab70d5b37e61c2851472aa07f2f01cee703fe8",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "lib/python3.11/site-packages/parsel-1.8.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "8e66466a9d074c1c15b50d743e3335407c3bf1927309dd684df837d22ec2cd77",
+        "sha256_in_prefix": "8e66466a9d074c1c15b50d743e3335407c3bf1927309dd684df837d22ec2cd77",
+        "size_in_bytes": 137
+      },
+      {
+        "_path": "lib/python3.11/site-packages/parsel-1.8.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "763c59c3707d869b83496982fbd03cbc49f661a60c04d82ff2fe2c0618af2bb0",
+        "sha256_in_prefix": "763c59c3707d869b83496982fbd03cbc49f661a60c04d82ff2fe2c0618af2bb0",
+        "size_in_bytes": 7
+      },
+      {
+        "_path": "lib/python3.11/site-packages/parsel/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "688197f4faf130934bbdbbdc0db944c58e89175f3c2cf750d7557ca6a55a160e",
+        "sha256_in_prefix": "688197f4faf130934bbdbbdc0db944c58e89175f3c2cf750d7557ca6a55a160e",
+        "size_in_bytes": 427
+      },
+      {
+        "_path": "lib/python3.11/site-packages/parsel/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "83441d68a86091ff50eb7a028d9e066e435d67feb850cf9fd682adfe51f8e983",
+        "sha256_in_prefix": "83441d68a86091ff50eb7a028d9e066e435d67feb850cf9fd682adfe51f8e983",
+        "size_in_bytes": 699
+      },
+      {
+        "_path": "lib/python3.11/site-packages/parsel/__pycache__/csstranslator.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "5b631e623476b63c2cbd0640820ccfdfba9846223d5c3a1fba3ed0d96411289f",
+        "sha256_in_prefix": "5b631e623476b63c2cbd0640820ccfdfba9846223d5c3a1fba3ed0d96411289f",
+        "size_in_bytes": 8590
+      },
+      {
+        "_path": "lib/python3.11/site-packages/parsel/__pycache__/selector.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "ed7ef12b9956beeabbd7d9395bbacc7e4e04b6621ee169b169ae43bacb9fe4b0",
+        "sha256_in_prefix": "ed7ef12b9956beeabbd7d9395bbacc7e4e04b6621ee169b169ae43bacb9fe4b0",
+        "size_in_bytes": 40206
+      },
+      {
+        "_path": "lib/python3.11/site-packages/parsel/__pycache__/utils.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "a0a2ac7adc0af04b49caed98ec5119ff10684544e3c416b9019385b32587dd18",
+        "sha256_in_prefix": "a0a2ac7adc0af04b49caed98ec5119ff10684544e3c416b9019385b32587dd18",
+        "size_in_bytes": 4738
+      },
+      {
+        "_path": "lib/python3.11/site-packages/parsel/__pycache__/xpathfuncs.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "2ba147d34a243597242a1896af94d89d53765d67c5c3b6bb737ff0f7ad80441a",
+        "sha256_in_prefix": "2ba147d34a243597242a1896af94d89d53765d67c5c3b6bb737ff0f7ad80441a",
+        "size_in_bytes": 2684
+      },
+      {
+        "_path": "lib/python3.11/site-packages/parsel/csstranslator.py",
+        "path_type": "hardlink",
+        "sha256": "4665b3c6c0cea5b98b6ec3aae0138b527c722863a967f0d28aee92a8f3f2fe9e",
+        "sha256_in_prefix": "4665b3c6c0cea5b98b6ec3aae0138b527c722863a967f0d28aee92a8f3f2fe9e",
+        "size_in_bytes": 5258
+      },
+      {
+        "_path": "lib/python3.11/site-packages/parsel/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.11/site-packages/parsel/selector.py",
+        "path_type": "hardlink",
+        "sha256": "c455f48f98c0b43d932662ed9e451976d351a1793aa96a90d861632556e75251",
+        "sha256_in_prefix": "c455f48f98c0b43d932662ed9e451976d351a1793aa96a90d861632556e75251",
+        "size_in_bytes": 28634
+      },
+      {
+        "_path": "lib/python3.11/site-packages/parsel/utils.py",
+        "path_type": "hardlink",
+        "sha256": "18c8e2a688fe34388d0148d56a911b565589c9b00d48d8ee9b96187b5b06dcb1",
+        "sha256_in_prefix": "18c8e2a688fe34388d0148d56a911b565589c9b00d48d8ee9b96187b5b06dcb1",
+        "size_in_bytes": 2942
+      },
+      {
+        "_path": "lib/python3.11/site-packages/parsel/xpathfuncs.py",
+        "path_type": "hardlink",
+        "sha256": "859cc3ab1e1062c4becd2a3d7cb1d3cf9cde68930ee56113bdcda6958ea3961d",
+        "sha256_in_prefix": "859cc3ab1e1062c4becd2a3d7cb1d3cf9cde68930ee56113bdcda6958ea3961d",
+        "size_in_bytes": 1924
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "c7d9558fd2b1a678ccbe553640e64e806a1f557c256c80ce6107d80bde6d6077",
+  "size": 53392,
+  "subdir": "osx-arm64",
+  "timestamp": 1707503482476,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/parsel-1.8.1-py311hca03da5_0.conda",
+  "version": "1.8.1"
+}

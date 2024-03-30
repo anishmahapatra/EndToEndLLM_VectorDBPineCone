@@ -1,0 +1,12 @@
+prefix=/Users/anishmahapatra/Work/AI Projects/04 EndToEndLLM_VectorDBPinecone/llmgeneral
+exec_prefix=${prefix}
+libdir=/Users/anishmahapatra/Work/AI Projects/04 EndToEndLLM_VectorDBPinecone/llmgeneral/lib
+includedir=/Users/anishmahapatra/Work/AI Projects/04 EndToEndLLM_VectorDBPinecone/llmgeneral/include
+
+Name: absl_time_internal_test_util
+Description: Abseil time_internal_test_util library
+URL: https://abseil.io/
+Version: 20230802
+Requires: absl_time = 20230802, absl_config = 20230802, absl_raw_logging_internal = 20230802, absl_time_zone = 20230802
+Libs: -L${libdir}  -labsl_time_internal_test_util 
+Cflags: -I${includedir} -Wno-float-conversion -Wno-implicit-float-conversion -Wno-implicit-int-float-conversion -Wno-unknown-warning-option -DNOMINMAX

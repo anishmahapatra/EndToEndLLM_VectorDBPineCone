@@ -1,0 +1,44 @@
+{
+  "build": "py311hca03da5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "bokeh >=2.4.2",
+    "cytoolz >=0.12.0",
+    "dask-core 2023.11.0.*",
+    "distributed 2023.11.0.*",
+    "jinja2 >=2.10.3",
+    "lz4 >=4.3.2",
+    "numpy >=1.21",
+    "pandas >=1.3",
+    "pyarrow >=7.0",
+    "python >=3.11,<3.12.0a0"
+  ],
+  "extracted_package_dir": "/Users/anishmahapatra/anaconda3/pkgs/dask-2023.11.0-py311hca03da5_0",
+  "features": "",
+  "files": [],
+  "fn": "dask-2023.11.0-py311hca03da5_0.conda",
+  "legacy_bz2_md5": "72efbeec2089b327f3b751c45abeac10",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Users/anishmahapatra/anaconda3/pkgs/dask-2023.11.0-py311hca03da5_0",
+    "type": 1
+  },
+  "md5": "a2103f9e7f1a72b5761830dcb98c5fa3",
+  "name": "dask",
+  "package_tarball_full_path": "/Users/anishmahapatra/anaconda3/pkgs/dask-2023.11.0-py311hca03da5_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "f9e0fee580a0d8ff47b96b0489cba74ed7ce28412956c88a041766aef1b14c5f",
+  "size": 6590,
+  "subdir": "osx-arm64",
+  "timestamp": 1701444902384,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/dask-2023.11.0-py311hca03da5_0.conda",
+  "version": "2023.11.0"
+}

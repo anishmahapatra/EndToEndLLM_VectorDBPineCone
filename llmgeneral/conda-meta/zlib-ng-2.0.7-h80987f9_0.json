@@ -1,0 +1,83 @@
+{
+  "build": "h80987f9_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "/Users/anishmahapatra/anaconda3/pkgs/zlib-ng-2.0.7-h80987f9_0",
+  "features": "",
+  "files": [
+    "include/zconf-ng.h",
+    "include/zlib-ng.h",
+    "lib/libz-ng.2.0.7.dylib",
+    "lib/libz-ng.2.dylib",
+    "lib/libz-ng.dylib",
+    "lib/pkgconfig/zlib-ng.pc"
+  ],
+  "fn": "zlib-ng-2.0.7-h80987f9_0.conda",
+  "legacy_bz2_md5": "6226798fc297a9f3b831d8d162b97224",
+  "license": "Zlib",
+  "license_family": "Other",
+  "link": {
+    "source": "/Users/anishmahapatra/anaconda3/pkgs/zlib-ng-2.0.7-h80987f9_0",
+    "type": 1
+  },
+  "md5": "674b7e31f1878f54648675ee04d0cd37",
+  "name": "zlib-ng",
+  "package_tarball_full_path": "/Users/anishmahapatra/anaconda3/pkgs/zlib-ng-2.0.7-h80987f9_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "include/zconf-ng.h",
+        "path_type": "hardlink",
+        "sha256": "343319574613994487b9831129c4124fbcaaf7a69e7f52b58196d890b7a7c519",
+        "sha256_in_prefix": "343319574613994487b9831129c4124fbcaaf7a69e7f52b58196d890b7a7c519",
+        "size_in_bytes": 4985
+      },
+      {
+        "_path": "include/zlib-ng.h",
+        "path_type": "hardlink",
+        "sha256": "d51896e8411868ed195d5cf41fda4f1c5a9c891832dfd16b559a5ed6beedd890",
+        "sha256_in_prefix": "d51896e8411868ed195d5cf41fda4f1c5a9c891832dfd16b559a5ed6beedd890",
+        "size_in_bytes": 94727
+      },
+      {
+        "_path": "lib/libz-ng.2.0.7.dylib",
+        "path_type": "hardlink",
+        "sha256": "385fbf80b61a2ecc7f1ce0250534e9726567b792d807b269181b00310f317e03",
+        "sha256_in_prefix": "385fbf80b61a2ecc7f1ce0250534e9726567b792d807b269181b00310f317e03",
+        "size_in_bytes": 159696
+      },
+      {
+        "_path": "lib/libz-ng.2.dylib",
+        "path_type": "softlink",
+        "sha256": "385fbf80b61a2ecc7f1ce0250534e9726567b792d807b269181b00310f317e03",
+        "size_in_bytes": 159696
+      },
+      {
+        "_path": "lib/libz-ng.dylib",
+        "path_type": "softlink",
+        "sha256": "385fbf80b61a2ecc7f1ce0250534e9726567b792d807b269181b00310f317e03",
+        "size_in_bytes": 159696
+      },
+      {
+        "_path": "lib/pkgconfig/zlib-ng.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_c1b7jcc7bh/croot/zlib-ng_1680706349518/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "sha256": "655f638c7d9126d897c4a4d07569bd3fdd1bf6b0be0d97ff688d9cc5e258fe18",
+        "sha256_in_prefix": "7e630ef03a4b862719f1a8793f7b2fafaffa38f5dc069691daca4fb8fa4729d6",
+        "size_in_bytes": 512
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "0660479618c9625a3b6dfbc00bbc42aecd2635c7f0c0fa3dd1970b9f40639df7",
+  "size": 93709,
+  "subdir": "osx-arm64",
+  "timestamp": 1680706416318,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/zlib-ng-2.0.7-h80987f9_0.conda",
+  "version": "2.0.7"
+}

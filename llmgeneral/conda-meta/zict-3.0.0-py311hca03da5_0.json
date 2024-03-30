@@ -1,0 +1,527 @@
+{
+  "build": "py311hca03da5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "heapdict",
+    "python >=3.11,<3.12.0a0",
+    "python-lmdb"
+  ],
+  "extracted_package_dir": "/Users/anishmahapatra/anaconda3/pkgs/zict-3.0.0-py311hca03da5_0",
+  "features": "",
+  "files": [
+    "lib/python3.11/site-packages/zict-3.0.0.dist-info/INSTALLER",
+    "lib/python3.11/site-packages/zict-3.0.0.dist-info/LICENSE.txt",
+    "lib/python3.11/site-packages/zict-3.0.0.dist-info/METADATA",
+    "lib/python3.11/site-packages/zict-3.0.0.dist-info/RECORD",
+    "lib/python3.11/site-packages/zict-3.0.0.dist-info/REQUESTED",
+    "lib/python3.11/site-packages/zict-3.0.0.dist-info/WHEEL",
+    "lib/python3.11/site-packages/zict-3.0.0.dist-info/direct_url.json",
+    "lib/python3.11/site-packages/zict-3.0.0.dist-info/top_level.txt",
+    "lib/python3.11/site-packages/zict/__init__.py",
+    "lib/python3.11/site-packages/zict/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/zict/__pycache__/async_buffer.cpython-311.pyc",
+    "lib/python3.11/site-packages/zict/__pycache__/buffer.cpython-311.pyc",
+    "lib/python3.11/site-packages/zict/__pycache__/cache.cpython-311.pyc",
+    "lib/python3.11/site-packages/zict/__pycache__/common.cpython-311.pyc",
+    "lib/python3.11/site-packages/zict/__pycache__/file.cpython-311.pyc",
+    "lib/python3.11/site-packages/zict/__pycache__/func.cpython-311.pyc",
+    "lib/python3.11/site-packages/zict/__pycache__/lmdb.cpython-311.pyc",
+    "lib/python3.11/site-packages/zict/__pycache__/lru.cpython-311.pyc",
+    "lib/python3.11/site-packages/zict/__pycache__/sieve.cpython-311.pyc",
+    "lib/python3.11/site-packages/zict/__pycache__/utils.cpython-311.pyc",
+    "lib/python3.11/site-packages/zict/__pycache__/zip.cpython-311.pyc",
+    "lib/python3.11/site-packages/zict/async_buffer.py",
+    "lib/python3.11/site-packages/zict/buffer.py",
+    "lib/python3.11/site-packages/zict/cache.py",
+    "lib/python3.11/site-packages/zict/common.py",
+    "lib/python3.11/site-packages/zict/file.py",
+    "lib/python3.11/site-packages/zict/func.py",
+    "lib/python3.11/site-packages/zict/lmdb.py",
+    "lib/python3.11/site-packages/zict/lru.py",
+    "lib/python3.11/site-packages/zict/py.typed",
+    "lib/python3.11/site-packages/zict/sieve.py",
+    "lib/python3.11/site-packages/zict/tests/__init__.py",
+    "lib/python3.11/site-packages/zict/tests/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/zict/tests/__pycache__/conftest.cpython-311.pyc",
+    "lib/python3.11/site-packages/zict/tests/__pycache__/test_async_buffer.cpython-311.pyc",
+    "lib/python3.11/site-packages/zict/tests/__pycache__/test_buffer.cpython-311.pyc",
+    "lib/python3.11/site-packages/zict/tests/__pycache__/test_cache.cpython-311.pyc",
+    "lib/python3.11/site-packages/zict/tests/__pycache__/test_common.cpython-311.pyc",
+    "lib/python3.11/site-packages/zict/tests/__pycache__/test_file.cpython-311.pyc",
+    "lib/python3.11/site-packages/zict/tests/__pycache__/test_func.cpython-311.pyc",
+    "lib/python3.11/site-packages/zict/tests/__pycache__/test_lmdb.cpython-311.pyc",
+    "lib/python3.11/site-packages/zict/tests/__pycache__/test_lru.cpython-311.pyc",
+    "lib/python3.11/site-packages/zict/tests/__pycache__/test_sieve.cpython-311.pyc",
+    "lib/python3.11/site-packages/zict/tests/__pycache__/test_utils.cpython-311.pyc",
+    "lib/python3.11/site-packages/zict/tests/__pycache__/test_zip.cpython-311.pyc",
+    "lib/python3.11/site-packages/zict/tests/__pycache__/utils_test.cpython-311.pyc",
+    "lib/python3.11/site-packages/zict/tests/conftest.py",
+    "lib/python3.11/site-packages/zict/tests/test_async_buffer.py",
+    "lib/python3.11/site-packages/zict/tests/test_buffer.py",
+    "lib/python3.11/site-packages/zict/tests/test_cache.py",
+    "lib/python3.11/site-packages/zict/tests/test_common.py",
+    "lib/python3.11/site-packages/zict/tests/test_file.py",
+    "lib/python3.11/site-packages/zict/tests/test_func.py",
+    "lib/python3.11/site-packages/zict/tests/test_lmdb.py",
+    "lib/python3.11/site-packages/zict/tests/test_lru.py",
+    "lib/python3.11/site-packages/zict/tests/test_sieve.py",
+    "lib/python3.11/site-packages/zict/tests/test_utils.py",
+    "lib/python3.11/site-packages/zict/tests/test_zip.py",
+    "lib/python3.11/site-packages/zict/tests/utils_test.py",
+    "lib/python3.11/site-packages/zict/utils.py",
+    "lib/python3.11/site-packages/zict/zip.py"
+  ],
+  "fn": "zict-3.0.0-py311hca03da5_0.conda",
+  "legacy_bz2_md5": "2c13d5a0b62ff7a644a6957829dc54a6",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Users/anishmahapatra/anaconda3/pkgs/zict-3.0.0-py311hca03da5_0",
+    "type": 1
+  },
+  "md5": "813929cb617427f5a5613785ecfc8535",
+  "name": "zict",
+  "package_tarball_full_path": "/Users/anishmahapatra/anaconda3/pkgs/zict-3.0.0-py311hca03da5_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.11/site-packages/zict-3.0.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict-3.0.0.dist-info/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "5e839f9d5dd174ae6815085f534b52f6914201357dfac1d03ae1d3d7a3fbf614",
+        "sha256_in_prefix": "5e839f9d5dd174ae6815085f534b52f6914201357dfac1d03ae1d3d7a3fbf614",
+        "size_in_bytes": 1507
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict-3.0.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "65bdd57ba9888b49d6177f20bc4469e7cfbf709c0012c1c21d85fd3d7b8b4be5",
+        "sha256_in_prefix": "65bdd57ba9888b49d6177f20bc4469e7cfbf709c0012c1c21d85fd3d7b8b4be5",
+        "size_in_bytes": 880
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict-3.0.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "d1d929e5b801b4731467fb59c9141050c6c38f67a3e211d197175ccc0db6640d",
+        "sha256_in_prefix": "d1d929e5b801b4731467fb59c9141050c6c38f67a3e211d197175ccc0db6640d",
+        "size_in_bytes": 3962
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict-3.0.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict-3.0.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "89896fe5f5f7e7b3d0c914f6a3ab70d5b37e61c2851472aa07f2f01cee703fe8",
+        "sha256_in_prefix": "89896fe5f5f7e7b3d0c914f6a3ab70d5b37e61c2851472aa07f2f01cee703fe8",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict-3.0.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "2f05812cf713ee4cb23778919aa71486ab4c02fd63d8ebae9844eccffc3c231b",
+        "sha256_in_prefix": "2f05812cf713ee4cb23778919aa71486ab4c02fd63d8ebae9844eccffc3c231b",
+        "size_in_bytes": 135
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict-3.0.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "aeee32aaf6831a66c50d778489fe2f2413c9bdef3a5a081e712b99d3b6dd6088",
+        "sha256_in_prefix": "aeee32aaf6831a66c50d778489fe2f2413c9bdef3a5a081e712b99d3b6dd6088",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "c37ab131ce21ae72ae17a3de2f402d1f77e04a50286fda023850a3ff45c662a7",
+        "sha256_in_prefix": "c37ab131ce21ae72ae17a3de2f402d1f77e04a50286fda023850a3ff45c662a7",
+        "size_in_bytes": 528
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "a485c9c01aebcd9e68fe61f0a4ab1ed0a22c8f5cc2ab650d846e47e641e864fe",
+        "sha256_in_prefix": "a485c9c01aebcd9e68fe61f0a4ab1ed0a22c8f5cc2ab650d846e47e641e864fe",
+        "size_in_bytes": 810
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/__pycache__/async_buffer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "5c303b8646e221b3cf67a09ba8ed747d492fe4208bd2cfecbfcbbd0df51cd286",
+        "sha256_in_prefix": "5c303b8646e221b3cf67a09ba8ed747d492fe4208bd2cfecbfcbbd0df51cd286",
+        "size_in_bytes": 8726
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/__pycache__/buffer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "5f11fcd612c638fc2964151a0997f61f030d960cd75b448cba4e73f1a5e9f55e",
+        "sha256_in_prefix": "5f11fcd612c638fc2964151a0997f61f030d960cd75b448cba4e73f1a5e9f55e",
+        "size_in_bytes": 15139
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/__pycache__/cache.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "c452bb5bf3eeb4ab667715590916d56a11fb2c57e04e2e1c28ac8260530914b4",
+        "sha256_in_prefix": "c452bb5bf3eeb4ab667715590916d56a11fb2c57e04e2e1c28ac8260530914b4",
+        "size_in_bytes": 7250
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/__pycache__/common.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "a99e1678bb72eb9e1ebdba6521ad7d669b8faaba9def6e1aaf5f4765cd083e80",
+        "sha256_in_prefix": "a99e1678bb72eb9e1ebdba6521ad7d669b8faaba9def6e1aaf5f4765cd083e80",
+        "size_in_bytes": 6914
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/__pycache__/file.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "5b1dd4cea8fa8d8f41f8d52d096fcca23402608970e87364151a25bc3834d1b2",
+        "sha256_in_prefix": "5b1dd4cea8fa8d8f41f8d52d096fcca23402608970e87364151a25bc3834d1b2",
+        "size_in_bytes": 8817
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/__pycache__/func.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "0febf372fc0573d9f3596c9d97f728cab24dd7fc1a095083991a332047276140",
+        "sha256_in_prefix": "0febf372fc0573d9f3596c9d97f728cab24dd7fc1a095083991a332047276140",
+        "size_in_bytes": 5291
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/__pycache__/lmdb.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "e9a1d07a5a3ed809ef3c70bc3a91f90274a4e2db437b6ab237395541e0ebc50b",
+        "sha256_in_prefix": "e9a1d07a5a3ed809ef3c70bc3a91f90274a4e2db437b6ab237395541e0ebc50b",
+        "size_in_bytes": 10760
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/__pycache__/lru.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "cfdaf65a6fa1af8abd40cb538e9ddea0984ca895840b5856091fe5511b6cd613",
+        "sha256_in_prefix": "cfdaf65a6fa1af8abd40cb538e9ddea0984ca895840b5856091fe5511b6cd613",
+        "size_in_bytes": 14488
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/__pycache__/sieve.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "4e82df583560f547e828edbce550f0ab52005d0183198cd46a6aa80f405eabe8",
+        "sha256_in_prefix": "4e82df583560f547e828edbce550f0ab52005d0183198cd46a6aa80f405eabe8",
+        "size_in_bytes": 7359
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/__pycache__/utils.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "a80a6aea50db25aaecc8b635cb9c504c9fe937c09db54147cc73087329d7d1e7",
+        "sha256_in_prefix": "a80a6aea50db25aaecc8b635cb9c504c9fe937c09db54147cc73087329d7d1e7",
+        "size_in_bytes": 3903
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/__pycache__/zip.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "98d4a25b35a30783ce0bb369fce26ad93f2e7313dfa8dfecff643a6d821fe5d0",
+        "sha256_in_prefix": "98d4a25b35a30783ce0bb369fce26ad93f2e7313dfa8dfecff643a6d821fe5d0",
+        "size_in_bytes": 6022
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/async_buffer.py",
+        "path_type": "hardlink",
+        "sha256": "5e38a8cc20588f8e0577e1460bc85272e6f508fb75e6c2238338c9de4fdab19c",
+        "sha256_in_prefix": "5e38a8cc20588f8e0577e1460bc85272e6f508fb75e6c2238338c9de4fdab19c",
+        "size_in_bytes": 6565
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/buffer.py",
+        "path_type": "hardlink",
+        "sha256": "c2be3bbd566f85a2ecf98455aa5b3f5b3c79a9a208339657937b1e2f0f00c100",
+        "sha256_in_prefix": "c2be3bbd566f85a2ecf98455aa5b3f5b3c79a9a208339657937b1e2f0f00c100",
+        "size_in_bytes": 9624
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/cache.py",
+        "path_type": "hardlink",
+        "sha256": "8ee7900bd34e780aa9766dadeb21994c885570835bf6a4ed353d05d21e47ccef",
+        "sha256_in_prefix": "8ee7900bd34e780aa9766dadeb21994c885570835bf6a4ed353d05d21e47ccef",
+        "size_in_bytes": 4857
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/common.py",
+        "path_type": "hardlink",
+        "sha256": "a14889cdc058646c8705a6e19044fdb1843e659029f186f826829e029e030907",
+        "sha256_in_prefix": "a14889cdc058646c8705a6e19044fdb1843e659029f186f826829e029e030907",
+        "size_in_bytes": 3335
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/file.py",
+        "path_type": "hardlink",
+        "sha256": "3d7db74e4480d575f7891b6789ddf5273278a8029649ac9f26be9a3f2db4a4ed",
+        "sha256_in_prefix": "3d7db74e4480d575f7891b6789ddf5273278a8029649ac9f26be9a3f2db4a4ed",
+        "size_in_bytes": 5244
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/func.py",
+        "path_type": "hardlink",
+        "sha256": "09683008a2903d0e42e0db24a78a84f22cefa29a69c5c97a3ff5c54208a36714",
+        "sha256_in_prefix": "09683008a2903d0e42e0db24a78a84f22cefa29a69c5c97a3ff5c54208a36714",
+        "size_in_bytes": 2196
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/lmdb.py",
+        "path_type": "hardlink",
+        "sha256": "c504815bc58be77a7c8a74d744df3fab45396645e089e46d163009685db7a257",
+        "sha256_in_prefix": "c504815bc58be77a7c8a74d744df3fab45396645e089e46d163009685db7a257",
+        "size_in_bytes": 4707
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/lru.py",
+        "path_type": "hardlink",
+        "sha256": "3b42939e50f3879130c771d579799acfca46895e4ef17daad3c25548d8c0ff3d",
+        "sha256_in_prefix": "3b42939e50f3879130c771d579799acfca46895e4ef17daad3c25548d8c0ff3d",
+        "size_in_bytes": 10032
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/sieve.py",
+        "path_type": "hardlink",
+        "sha256": "cc8b7d8232660c77c3c4db68fc81060cba778a6c64b15adf1c28d79bcddd917b",
+        "sha256_in_prefix": "cc8b7d8232660c77c3c4db68fc81060cba778a6c64b15adf1c28d79bcddd917b",
+        "size_in_bytes": 4310
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/tests/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/tests/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "1cfb3cfc9cceea124dd677755c5fe0a99d457d0f19a38924f67aee2a6f5cab77",
+        "sha256_in_prefix": "1cfb3cfc9cceea124dd677755c5fe0a99d457d0f19a38924f67aee2a6f5cab77",
+        "size_in_bytes": 160
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/tests/__pycache__/conftest.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "18384d7b6dafd794db42748941c7933f98c9c863928e794f4f14a446d4b12d18",
+        "sha256_in_prefix": "18384d7b6dafd794db42748941c7933f98c9c863928e794f4f14a446d4b12d18",
+        "size_in_bytes": 2961
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/tests/__pycache__/test_async_buffer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "59456d724b3de1099d9de9e0e8a1cce4b6e0a83e509d64d0d47553506fc62841",
+        "sha256_in_prefix": "59456d724b3de1099d9de9e0e8a1cce4b6e0a83e509d64d0d47553506fc62841",
+        "size_in_bytes": 18935
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/tests/__pycache__/test_buffer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "843a59766d79bea03d10cb8f12cdf5453aa8dc737cd584448ae80eb1accd9415",
+        "sha256_in_prefix": "843a59766d79bea03d10cb8f12cdf5453aa8dc737cd584448ae80eb1accd9415",
+        "size_in_bytes": 20272
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/tests/__pycache__/test_cache.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "7dc901ff2dd22168bba7797668c84dda6d5ba74b886434a562e16aa286f57894",
+        "sha256_in_prefix": "7dc901ff2dd22168bba7797668c84dda6d5ba74b886434a562e16aa286f57894",
+        "size_in_bytes": 23739
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/tests/__pycache__/test_common.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "d622ae5c371f8e432b26a013083ce74379fa49ade53380db95e788d42c9fc27e",
+        "sha256_in_prefix": "d622ae5c371f8e432b26a013083ce74379fa49ade53380db95e788d42c9fc27e",
+        "size_in_bytes": 6729
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/tests/__pycache__/test_file.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "df0ef9c39a147afa4cd37a0f6d3b37e7bc4b066b902846aa80673b84ef72136b",
+        "sha256_in_prefix": "df0ef9c39a147afa4cd37a0f6d3b37e7bc4b066b902846aa80673b84ef72136b",
+        "size_in_bytes": 9095
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/tests/__pycache__/test_func.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "153b60a0dc08c61a5b90dba580d8fa482d6d91bc1976eb202416db96ce5dd1d5",
+        "sha256_in_prefix": "153b60a0dc08c61a5b90dba580d8fa482d6d91bc1976eb202416db96ce5dd1d5",
+        "size_in_bytes": 5995
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/tests/__pycache__/test_lmdb.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "c5f9312c840c575dda7e53316ee61d6cdadc4c80cc19423abcbce0aac4ed54ce",
+        "sha256_in_prefix": "c5f9312c840c575dda7e53316ee61d6cdadc4c80cc19423abcbce0aac4ed54ce",
+        "size_in_bytes": 3927
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/tests/__pycache__/test_lru.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "7820f11fa84da4f717688480127065fef1e8ba4b396077f5c24ce6b13677b76b",
+        "sha256_in_prefix": "7820f11fa84da4f717688480127065fef1e8ba4b396077f5c24ce6b13677b76b",
+        "size_in_bytes": 23907
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/tests/__pycache__/test_sieve.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "59f2cc8977efa85057cbdd1bff7fa9a0b0fe29b4e948b13dab8b3dada060978e",
+        "sha256_in_prefix": "59f2cc8977efa85057cbdd1bff7fa9a0b0fe29b4e948b13dab8b3dada060978e",
+        "size_in_bytes": 13366
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/tests/__pycache__/test_utils.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "95d702bc89ea4890b7a45cda8b1b36c1dd3c7170224f697504f73c4f08bd7a1e",
+        "sha256_in_prefix": "95d702bc89ea4890b7a45cda8b1b36c1dd3c7170224f697504f73c4f08bd7a1e",
+        "size_in_bytes": 7337
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/tests/__pycache__/test_zip.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "771eed7eb7630b7d2c23764247e58c63068f3ea08265d5fd1975113d04315532",
+        "sha256_in_prefix": "771eed7eb7630b7d2c23764247e58c63068f3ea08265d5fd1975113d04315532",
+        "size_in_bytes": 8607
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/tests/__pycache__/utils_test.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "6b5d592cfd3251770692e8810c7b0ec128971bdff88106ecb66cb42692c20dcd",
+        "sha256_in_prefix": "6b5d592cfd3251770692e8810c7b0ec128971bdff88106ecb66cb42692c20dcd",
+        "size_in_bytes": 21378
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/tests/conftest.py",
+        "path_type": "hardlink",
+        "sha256": "5ee5e93c9d5ca5ee9c9fff55555c6199367d5dadba6f97a52fbddf4a1b5c2794",
+        "sha256_in_prefix": "5ee5e93c9d5ca5ee9c9fff55555c6199367d5dadba6f97a52fbddf4a1b5c2794",
+        "size_in_bytes": 1201
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/tests/test_async_buffer.py",
+        "path_type": "hardlink",
+        "sha256": "eb17739e994e599df481afb5fab985e6cb1f768a58cb0902c82030b4312498c5",
+        "sha256_in_prefix": "eb17739e994e599df481afb5fab985e6cb1f768a58cb0902c82030b4312498c5",
+        "size_in_bytes": 8626
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/tests/test_buffer.py",
+        "path_type": "hardlink",
+        "sha256": "4a8ae8c96dc2c153d6bf1dae2bd1a5ebdf30e5f1adb5830beb1db72cb1dcc74b",
+        "sha256_in_prefix": "4a8ae8c96dc2c153d6bf1dae2bd1a5ebdf30e5f1adb5830beb1db72cb1dcc74b",
+        "size_in_bytes": 10214
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/tests/test_cache.py",
+        "path_type": "hardlink",
+        "sha256": "d87d543bdac4606c43e70c483b1a43f992c424bddf65f2c408c092eb821de4c2",
+        "sha256_in_prefix": "d87d543bdac4606c43e70c483b1a43f992c424bddf65f2c408c092eb821de4c2",
+        "size_in_bytes": 11922
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/tests/test_common.py",
+        "path_type": "hardlink",
+        "sha256": "b3ae66b266534534306baf13bcec79059b146b0c0170329785f7148110ce65ca",
+        "sha256_in_prefix": "b3ae66b266534534306baf13bcec79059b146b0c0170329785f7148110ce65ca",
+        "size_in_bytes": 2239
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/tests/test_file.py",
+        "path_type": "hardlink",
+        "sha256": "238930504a67a62f80d610a5342c81ed14ee4f303725df5d6d97c1219c399da5",
+        "sha256_in_prefix": "238930504a67a62f80d610a5342c81ed14ee4f303725df5d6d97c1219c399da5",
+        "size_in_bytes": 3708
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/tests/test_func.py",
+        "path_type": "hardlink",
+        "sha256": "ab7a101e5dea12f259e9b8200a84d1745ae41b43550eb06a94582ca298e52f28",
+        "sha256_in_prefix": "ab7a101e5dea12f259e9b8200a84d1745ae41b43550eb06a94582ca298e52f28",
+        "size_in_bytes": 1851
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/tests/test_lmdb.py",
+        "path_type": "hardlink",
+        "sha256": "44e0ac10b0a59361254fe3f1635a78ae6d34f0cb777ea20e87bf6bac4355af5e",
+        "sha256_in_prefix": "44e0ac10b0a59361254fe3f1635a78ae6d34f0cb777ea20e87bf6bac4355af5e",
+        "size_in_bytes": 1432
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/tests/test_lru.py",
+        "path_type": "hardlink",
+        "sha256": "f0df59994afb74d4401113933452e8349c56edca351e59e4ffef36c7794d9963",
+        "sha256_in_prefix": "f0df59994afb74d4401113933452e8349c56edca351e59e4ffef36c7794d9963",
+        "size_in_bytes": 10582
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/tests/test_sieve.py",
+        "path_type": "hardlink",
+        "sha256": "8bad35eaab45a80a3c413484ea1b42e180875f9a825667bc651550e5779387bc",
+        "sha256_in_prefix": "8bad35eaab45a80a3c413484ea1b42e180875f9a825667bc651550e5779387bc",
+        "size_in_bytes": 6674
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/tests/test_utils.py",
+        "path_type": "hardlink",
+        "sha256": "fb966afb88afa5b783d3968c76a95843833bc25c20cb60cec1a45e09410852f6",
+        "sha256_in_prefix": "fb966afb88afa5b783d3968c76a95843833bc25c20cb60cec1a45e09410852f6",
+        "size_in_bytes": 2912
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/tests/test_zip.py",
+        "path_type": "hardlink",
+        "sha256": "1689759e22b9b90e5731e2b294db08fc5779f39a1ce640d242a2447ee4645c72",
+        "sha256_in_prefix": "1689759e22b9b90e5731e2b294db08fc5779f39a1ce640d242a2447ee4645c72",
+        "size_in_bytes": 2704
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/tests/utils_test.py",
+        "path_type": "hardlink",
+        "sha256": "55e40398866fb5076aaa561baa6e64ca3b3f3d2f2450e45506a10d1b8eed8ab4",
+        "sha256_in_prefix": "55e40398866fb5076aaa561baa6e64ca3b3f3d2f2450e45506a10d1b8eed8ab4",
+        "size_in_bytes": 8098
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/utils.py",
+        "path_type": "hardlink",
+        "sha256": "4d272e34095a6e7f2c925856d28442ee1caf988afa1d50d0cae61afd28b16fd0",
+        "sha256_in_prefix": "4d272e34095a6e7f2c925856d28442ee1caf988afa1d50d0cae61afd28b16fd0",
+        "size_in_bytes": 1927
+      },
+      {
+        "_path": "lib/python3.11/site-packages/zict/zip.py",
+        "path_type": "hardlink",
+        "sha256": "e2e9e6b48171ff8521a8fd942a0bec56545975641cf13c2172ea35954bfcffc0",
+        "sha256_in_prefix": "e2e9e6b48171ff8521a8fd942a0bec56545975641cf13c2172ea35954bfcffc0",
+        "size_in_bytes": 3012
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "36a05a63bf3a6b096558991c0a99837e677691d8de948bec991e03d282af4e62",
+  "size": 123621,
+  "subdir": "osx-arm64",
+  "timestamp": 1695832909752,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/zict-3.0.0-py311hca03da5_0.conda",
+  "version": "3.0.0"
+}

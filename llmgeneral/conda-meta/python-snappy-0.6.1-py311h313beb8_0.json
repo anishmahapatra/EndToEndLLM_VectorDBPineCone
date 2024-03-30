@@ -1,0 +1,231 @@
+{
+  "build": "py311h313beb8_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "libcxx >=14.0.6",
+    "python >=3.11,<3.12.0a0",
+    "snappy >=1.1.9,<2.0a0"
+  ],
+  "extracted_package_dir": "/Users/anishmahapatra/anaconda3/pkgs/python-snappy-0.6.1-py311h313beb8_0",
+  "features": "",
+  "files": [
+    "lib/python3.11/site-packages/python_snappy-0.6.1.dist-info/AUTHORS",
+    "lib/python3.11/site-packages/python_snappy-0.6.1.dist-info/INSTALLER",
+    "lib/python3.11/site-packages/python_snappy-0.6.1.dist-info/LICENSE",
+    "lib/python3.11/site-packages/python_snappy-0.6.1.dist-info/METADATA",
+    "lib/python3.11/site-packages/python_snappy-0.6.1.dist-info/RECORD",
+    "lib/python3.11/site-packages/python_snappy-0.6.1.dist-info/REQUESTED",
+    "lib/python3.11/site-packages/python_snappy-0.6.1.dist-info/WHEEL",
+    "lib/python3.11/site-packages/python_snappy-0.6.1.dist-info/direct_url.json",
+    "lib/python3.11/site-packages/python_snappy-0.6.1.dist-info/top_level.txt",
+    "lib/python3.11/site-packages/snappy/__init__.py",
+    "lib/python3.11/site-packages/snappy/__main__.py",
+    "lib/python3.11/site-packages/snappy/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/snappy/__pycache__/__main__.cpython-311.pyc",
+    "lib/python3.11/site-packages/snappy/__pycache__/hadoop_snappy.cpython-311.pyc",
+    "lib/python3.11/site-packages/snappy/__pycache__/snappy.cpython-311.pyc",
+    "lib/python3.11/site-packages/snappy/__pycache__/snappy_cffi.cpython-311.pyc",
+    "lib/python3.11/site-packages/snappy/__pycache__/snappy_cffi_builder.cpython-311.pyc",
+    "lib/python3.11/site-packages/snappy/__pycache__/snappy_formats.cpython-311.pyc",
+    "lib/python3.11/site-packages/snappy/_snappy.cpython-311-darwin.so",
+    "lib/python3.11/site-packages/snappy/hadoop_snappy.py",
+    "lib/python3.11/site-packages/snappy/snappy.py",
+    "lib/python3.11/site-packages/snappy/snappy_cffi.py",
+    "lib/python3.11/site-packages/snappy/snappy_cffi_builder.py",
+    "lib/python3.11/site-packages/snappy/snappy_formats.py"
+  ],
+  "fn": "python-snappy-0.6.1-py311h313beb8_0.conda",
+  "legacy_bz2_md5": "898e47ec7bd4461989be61181d1e7b1a",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Users/anishmahapatra/anaconda3/pkgs/python-snappy-0.6.1-py311h313beb8_0",
+    "type": 1
+  },
+  "md5": "67d16ec970a44e225a0efc2b3fd67d60",
+  "name": "python-snappy",
+  "package_tarball_full_path": "/Users/anishmahapatra/anaconda3/pkgs/python-snappy-0.6.1-py311h313beb8_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.11/site-packages/python_snappy-0.6.1.dist-info/AUTHORS",
+        "path_type": "hardlink",
+        "sha256": "1bf5e7b151079039f764706a18cb05985f035bdf398c24ad101ff9c059d14a01",
+        "sha256_in_prefix": "1bf5e7b151079039f764706a18cb05985f035bdf398c24ad101ff9c059d14a01",
+        "size_in_bytes": 566
+      },
+      {
+        "_path": "lib/python3.11/site-packages/python_snappy-0.6.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.11/site-packages/python_snappy-0.6.1.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "d007cb05f143d99d16d5cd0d1bf291daf037adb36800344e440ec26edb938f9a",
+        "sha256_in_prefix": "d007cb05f143d99d16d5cd0d1bf291daf037adb36800344e440ec26edb938f9a",
+        "size_in_bytes": 1522
+      },
+      {
+        "_path": "lib/python3.11/site-packages/python_snappy-0.6.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "d3b9d69c0c6ba6443bec891330b7aa283bf9c8dbf69c5426864b326210bdcf00",
+        "sha256_in_prefix": "d3b9d69c0c6ba6443bec891330b7aa283bf9c8dbf69c5426864b326210bdcf00",
+        "size_in_bytes": 1328
+      },
+      {
+        "_path": "lib/python3.11/site-packages/python_snappy-0.6.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "d3cc862d23e9c1996850bb106e0c9c6755767081aad5055347ae662e702fe3f1",
+        "sha256_in_prefix": "d3cc862d23e9c1996850bb106e0c9c6755767081aad5055347ae662e702fe3f1",
+        "size_in_bytes": 1807
+      },
+      {
+        "_path": "lib/python3.11/site-packages/python_snappy-0.6.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.11/site-packages/python_snappy-0.6.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "57832039d2fc841d0c38d373c845e48ea83a7c24348be313f942088ace1fb8a5",
+        "sha256_in_prefix": "57832039d2fc841d0c38d373c845e48ea83a7c24348be313f942088ace1fb8a5",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "lib/python3.11/site-packages/python_snappy-0.6.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "d25e5e682129c608536a0b1854e5aae6be8ad7cc6535dc60f9464ee8e99c032f",
+        "sha256_in_prefix": "d25e5e682129c608536a0b1854e5aae6be8ad7cc6535dc60f9464ee8e99c032f",
+        "size_in_bytes": 105
+      },
+      {
+        "_path": "lib/python3.11/site-packages/python_snappy-0.6.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "ba3086488f4181c6dcdc1aabd284ff78b44b3ec76fa3d98260165d5148cc49cf",
+        "sha256_in_prefix": "ba3086488f4181c6dcdc1aabd284ff78b44b3ec76fa3d98260165d5148cc49cf",
+        "size_in_bytes": 7
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snappy/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "16d04978ebf30a0d9c068a647c2683ccc57af8f969c99dbd1bdc0257e64b1dbf",
+        "sha256_in_prefix": "16d04978ebf30a0d9c068a647c2683ccc57af8f969c99dbd1bdc0257e64b1dbf",
+        "size_in_bytes": 347
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snappy/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "b6dda08893940713da41a091252bf59355a000af41dd6a94cb30295667112f3a",
+        "sha256_in_prefix": "b6dda08893940713da41a091252bf59355a000af41dd6a94cb30295667112f3a",
+        "size_in_bytes": 2412
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snappy/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "e2f9d46d7bf4c7008805e59c59aab480f115dc7fe6653dcb6c112f866efa5004",
+        "sha256_in_prefix": "e2f9d46d7bf4c7008805e59c59aab480f115dc7fe6653dcb6c112f866efa5004",
+        "size_in_bytes": 715
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snappy/__pycache__/__main__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "e29bf0ed42a544e5e0067116bd0072a83bb297c3025335e8ba73e88da85f805d",
+        "sha256_in_prefix": "e29bf0ed42a544e5e0067116bd0072a83bb297c3025335e8ba73e88da85f805d",
+        "size_in_bytes": 3704
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snappy/__pycache__/hadoop_snappy.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "2b487e7af14b344089bf05acd05aaa1f262019b19bd408b085876ecfb1a7db37",
+        "sha256_in_prefix": "2b487e7af14b344089bf05acd05aaa1f262019b19bd408b085876ecfb1a7db37",
+        "size_in_bytes": 9758
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snappy/__pycache__/snappy.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "2e6f721861e010c9a24cb0f6f920b520cdeb265c8e7d3721b3847497a6d29651",
+        "sha256_in_prefix": "2e6f721861e010c9a24cb0f6f920b520cdeb265c8e7d3721b3847497a6d29651",
+        "size_in_bytes": 14618
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snappy/__pycache__/snappy_cffi.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "1966b0c030ca59142a0c9c89e69f402376d7f4807a1abcf985b2c06fe01f4ea1",
+        "sha256_in_prefix": "1966b0c030ca59142a0c9c89e69f402376d7f4807a1abcf985b2c06fe01f4ea1",
+        "size_in_bytes": 4197
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snappy/__pycache__/snappy_cffi_builder.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "2830d3d86cb42377045773d3beeabe8780d625b43906b01b6054de3eb0078799",
+        "sha256_in_prefix": "2830d3d86cb42377045773d3beeabe8780d625b43906b01b6054de3eb0078799",
+        "size_in_bytes": 6061
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snappy/__pycache__/snappy_formats.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "a2b11dc673161e4c0cc79973517fca6148a7b6806c25d3b5a0fb0eec499a3113",
+        "sha256_in_prefix": "a2b11dc673161e4c0cc79973517fca6148a7b6806c25d3b5a0fb0eec499a3113",
+        "size_in_bytes": 2532
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snappy/_snappy.cpython-311-darwin.so",
+        "path_type": "hardlink",
+        "sha256": "1056027a0e27748ef98b05f6bbeffc735744cc0665a72b4071f2558d9d9fbfe6",
+        "sha256_in_prefix": "1056027a0e27748ef98b05f6bbeffc735744cc0665a72b4071f2558d9d9fbfe6",
+        "size_in_bytes": 69504
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snappy/hadoop_snappy.py",
+        "path_type": "hardlink",
+        "sha256": "6a2ccf2a9c8553c012e44a1569d7dbb67db1e37e70cb59764d6a6910e2e5aedc",
+        "sha256_in_prefix": "6a2ccf2a9c8553c012e44a1569d7dbb67db1e37e70cb59764d6a6910e2e5aedc",
+        "size_in_bytes": 7552
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snappy/snappy.py",
+        "path_type": "hardlink",
+        "sha256": "6ebc75233a3eae779ed582d9e2b0c592a5572ebdb8cf917cce32d25a0a4683b9",
+        "sha256_in_prefix": "6ebc75233a3eae779ed582d9e2b0c592a5572ebdb8cf917cce32d25a0a4683b9",
+        "size_in_bytes": 13136
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snappy/snappy_cffi.py",
+        "path_type": "hardlink",
+        "sha256": "3e8b1938a1b736eb1407b9977bd40f62d930a15951e3a969b83ec68018f8eab0",
+        "sha256_in_prefix": "3e8b1938a1b736eb1407b9977bd40f62d930a15951e3a969b83ec68018f8eab0",
+        "size_in_bytes": 2124
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snappy/snappy_cffi_builder.py",
+        "path_type": "hardlink",
+        "sha256": "9df6d146586bf195a4073b5119f40b6d9fe4593b41ceb0208364e99e1adc8bd9",
+        "sha256_in_prefix": "9df6d146586bf195a4073b5119f40b6d9fe4593b41ceb0208364e99e1adc8bd9",
+        "size_in_bytes": 5581
+      },
+      {
+        "_path": "lib/python3.11/site-packages/snappy/snappy_formats.py",
+        "path_type": "hardlink",
+        "sha256": "6bc306ecdca349ca05c9838e63dc529d059c30940be81473a5f1c6a4ad676825",
+        "sha256_in_prefix": "6bc306ecdca349ca05c9838e63dc529d059c30940be81473a5f1c6a4ad676825",
+        "size_in_bytes": 2901
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "196ae92896fde4e823bfdcd9912c5b866be77ff88714d04917570f26e754bcc4",
+  "size": 35267,
+  "subdir": "osx-arm64",
+  "timestamp": 1677954185139,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/python-snappy-0.6.1-py311h313beb8_0.conda",
+  "version": "0.6.1"
+}

@@ -1,0 +1,144 @@
+{
+  "build": "py311h02f6b3c_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "libcurl >=7.88.1,<9.0a0",
+    "openssl 3.*",
+    "openssl >=3.0.8,<4.0a0",
+    "python >=3.11,<3.12.0a0"
+  ],
+  "extracted_package_dir": "/Users/anishmahapatra/anaconda3/pkgs/pycurl-7.45.2-py311h02f6b3c_1",
+  "features": "",
+  "files": [
+    "lib/python3.11/site-packages/curl/__init__.py",
+    "lib/python3.11/site-packages/curl/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/pycurl-7.45.2.dist-info/AUTHORS",
+    "lib/python3.11/site-packages/pycurl-7.45.2.dist-info/COPYING-LGPL",
+    "lib/python3.11/site-packages/pycurl-7.45.2.dist-info/COPYING-MIT",
+    "lib/python3.11/site-packages/pycurl-7.45.2.dist-info/INSTALLER",
+    "lib/python3.11/site-packages/pycurl-7.45.2.dist-info/METADATA",
+    "lib/python3.11/site-packages/pycurl-7.45.2.dist-info/RECORD",
+    "lib/python3.11/site-packages/pycurl-7.45.2.dist-info/REQUESTED",
+    "lib/python3.11/site-packages/pycurl-7.45.2.dist-info/WHEEL",
+    "lib/python3.11/site-packages/pycurl-7.45.2.dist-info/direct_url.json",
+    "lib/python3.11/site-packages/pycurl-7.45.2.dist-info/top_level.txt",
+    "lib/python3.11/site-packages/pycurl.cpython-311-darwin.so"
+  ],
+  "fn": "pycurl-7.45.2-py311h02f6b3c_1.conda",
+  "legacy_bz2_md5": "4a8e6f27b39cd46ba8ecc8d8cb2e4fcb",
+  "license": "LGPL-2.1-or-later OR MIT",
+  "license_family": "LGPL",
+  "link": {
+    "source": "/Users/anishmahapatra/anaconda3/pkgs/pycurl-7.45.2-py311h02f6b3c_1",
+    "type": 1
+  },
+  "md5": "9c41ef5303566fc2e6a36a529747a647",
+  "name": "pycurl",
+  "package_tarball_full_path": "/Users/anishmahapatra/anaconda3/pkgs/pycurl-7.45.2-py311h02f6b3c_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.11/site-packages/curl/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "733e7e070cf33e050b57af285738c95db22db12e5e4db99513f67c7cd0309890",
+        "sha256_in_prefix": "733e7e070cf33e050b57af285738c95db22db12e5e4db99513f67c7cd0309890",
+        "size_in_bytes": 7470
+      },
+      {
+        "_path": "lib/python3.11/site-packages/curl/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "bd39ce63691da024d87ab81540271b11a4053714fe3e7e2096a72a037f682417",
+        "sha256_in_prefix": "bd39ce63691da024d87ab81540271b11a4053714fe3e7e2096a72a037f682417",
+        "size_in_bytes": 13389
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pycurl-7.45.2.dist-info/AUTHORS",
+        "path_type": "hardlink",
+        "sha256": "3d134317cbf3a39b0cd08cfc777bfa7af187efa35bae476b0ee927282fa5b794",
+        "sha256_in_prefix": "3d134317cbf3a39b0cd08cfc777bfa7af187efa35bae476b0ee927282fa5b794",
+        "size_in_bytes": 4730
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pycurl-7.45.2.dist-info/COPYING-LGPL",
+        "path_type": "hardlink",
+        "sha256": "dc626520dcd53a22f727af3ee42c770e56c97a64fe3adb063799d8ab032fe551",
+        "sha256_in_prefix": "dc626520dcd53a22f727af3ee42c770e56c97a64fe3adb063799d8ab032fe551",
+        "size_in_bytes": 26530
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pycurl-7.45.2.dist-info/COPYING-MIT",
+        "path_type": "hardlink",
+        "sha256": "9dfbea2d787fce7407ec6627578ac9e63efbbafe5570f19318829a7887ef5f2e",
+        "sha256_in_prefix": "9dfbea2d787fce7407ec6627578ac9e63efbbafe5570f19318829a7887ef5f2e",
+        "size_in_bytes": 1187
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pycurl-7.45.2.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pycurl-7.45.2.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "5adf1b181769419419d7e39c50c24c5612ce71eee0b0bf3377f993619e3fc78c",
+        "sha256_in_prefix": "5adf1b181769419419d7e39c50c24c5612ce71eee0b0bf3377f993619e3fc78c",
+        "size_in_bytes": 4216
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pycurl-7.45.2.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "0facec8e81171242a0883754bc52aa4373fbc729504a60c3453ebe5bbb48bd12",
+        "sha256_in_prefix": "0facec8e81171242a0883754bc52aa4373fbc729504a60c3453ebe5bbb48bd12",
+        "size_in_bytes": 6939
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pycurl-7.45.2.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pycurl-7.45.2.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "57832039d2fc841d0c38d373c845e48ea83a7c24348be313f942088ace1fb8a5",
+        "sha256_in_prefix": "57832039d2fc841d0c38d373c845e48ea83a7c24348be313f942088ace1fb8a5",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pycurl-7.45.2.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "f0038247cfd2d759c061338dcc5c372e153926d85c595041d75acd9b12bc4da5",
+        "sha256_in_prefix": "f0038247cfd2d759c061338dcc5c372e153926d85c595041d75acd9b12bc4da5",
+        "size_in_bytes": 137
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pycurl-7.45.2.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "9c6391f27683a289c3851c6ec74be319b038e4da68757c35353d9da65f852442",
+        "sha256_in_prefix": "9c6391f27683a289c3851c6ec74be319b038e4da68757c35353d9da65f852442",
+        "size_in_bytes": 12
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pycurl.cpython-311-darwin.so",
+        "path_type": "hardlink",
+        "sha256": "37554a480bf0267577096d3858aff1589523e21e428f21675fa95dbf2341b243",
+        "sha256_in_prefix": "37554a480bf0267577096d3858aff1589523e21e428f21675fa95dbf2341b243",
+        "size_in_bytes": 189984
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "9f188e223fb21810b09b787da9276a00ace3683ba1a95469e886a321d03c4bbb",
+  "size": 85560,
+  "subdir": "osx-arm64",
+  "timestamp": 1686662549244,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/pycurl-7.45.2-py311h02f6b3c_1.conda",
+  "version": "7.45.2"
+}

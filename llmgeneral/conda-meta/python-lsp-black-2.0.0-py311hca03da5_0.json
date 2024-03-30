@@ -1,0 +1,143 @@
+{
+  "build": "py311hca03da5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "black >=23.11.0",
+    "python >=3.11,<3.12.0a0",
+    "python-lsp-server >=1.4.0"
+  ],
+  "extracted_package_dir": "/Users/anishmahapatra/anaconda3/pkgs/python-lsp-black-2.0.0-py311hca03da5_0",
+  "features": "",
+  "files": [
+    "lib/python3.11/site-packages/pylsp_black/__init__.py",
+    "lib/python3.11/site-packages/pylsp_black/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/pylsp_black/__pycache__/plugin.cpython-311.pyc",
+    "lib/python3.11/site-packages/pylsp_black/plugin.py",
+    "lib/python3.11/site-packages/python_lsp_black-2.0.0.dist-info/INSTALLER",
+    "lib/python3.11/site-packages/python_lsp_black-2.0.0.dist-info/LICENSE",
+    "lib/python3.11/site-packages/python_lsp_black-2.0.0.dist-info/METADATA",
+    "lib/python3.11/site-packages/python_lsp_black-2.0.0.dist-info/RECORD",
+    "lib/python3.11/site-packages/python_lsp_black-2.0.0.dist-info/REQUESTED",
+    "lib/python3.11/site-packages/python_lsp_black-2.0.0.dist-info/WHEEL",
+    "lib/python3.11/site-packages/python_lsp_black-2.0.0.dist-info/direct_url.json",
+    "lib/python3.11/site-packages/python_lsp_black-2.0.0.dist-info/entry_points.txt",
+    "lib/python3.11/site-packages/python_lsp_black-2.0.0.dist-info/top_level.txt"
+  ],
+  "fn": "python-lsp-black-2.0.0-py311hca03da5_0.conda",
+  "legacy_bz2_md5": "8f9e89aed76bbf56f61d366e787eb545",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/Users/anishmahapatra/anaconda3/pkgs/python-lsp-black-2.0.0-py311hca03da5_0",
+    "type": 1
+  },
+  "md5": "72fdbf095f4ee8ba834ab740cf3f2a76",
+  "name": "python-lsp-black",
+  "package_tarball_full_path": "/Users/anishmahapatra/anaconda3/pkgs/python-lsp-black-2.0.0-py311hca03da5_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.11/site-packages/pylsp_black/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pylsp_black/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "2c1a67eaed920926fcdc279d5f3249aee663ee3294524a8604cace4dd2be8b1f",
+        "sha256_in_prefix": "2c1a67eaed920926fcdc279d5f3249aee663ee3294524a8604cace4dd2be8b1f",
+        "size_in_bytes": 161
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pylsp_black/__pycache__/plugin.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "f325d420cd0471c3b8990ee3a4f46b280e77a2d5ac17a928256feafa498e3e1a",
+        "sha256_in_prefix": "f325d420cd0471c3b8990ee3a4f46b280e77a2d5ac17a928256feafa498e3e1a",
+        "size_in_bytes": 9514
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pylsp_black/plugin.py",
+        "path_type": "hardlink",
+        "sha256": "d9c108795a91012adb4d9960b046eab25bc3f475f2236e2dca1dc27c201d6275",
+        "sha256_in_prefix": "d9c108795a91012adb4d9960b046eab25bc3f475f2236e2dca1dc27c201d6275",
+        "size_in_bytes": 6729
+      },
+      {
+        "_path": "lib/python3.11/site-packages/python_lsp_black-2.0.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.11/site-packages/python_lsp_black-2.0.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "dcb474625149cd45ca152bd5e6328e71627fc28ecc9359766e28c661da0eb341",
+        "sha256_in_prefix": "dcb474625149cd45ca152bd5e6328e71627fc28ecc9359766e28c661da0eb341",
+        "size_in_bytes": 1119
+      },
+      {
+        "_path": "lib/python3.11/site-packages/python_lsp_black-2.0.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "532662901eaecc1c4fa74dd60ee1d535d39b6f7341163e8db586de8257b3d5c4",
+        "sha256_in_prefix": "532662901eaecc1c4fa74dd60ee1d535d39b6f7341163e8db586de8257b3d5c4",
+        "size_in_bytes": 4815
+      },
+      {
+        "_path": "lib/python3.11/site-packages/python_lsp_black-2.0.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "c7e6a37bc3f16c15fe7ca8319908033c9aac238e2d4b8be8728f01c6195d0a94",
+        "sha256_in_prefix": "c7e6a37bc3f16c15fe7ca8319908033c9aac238e2d4b8be8728f01c6195d0a94",
+        "size_in_bytes": 1099
+      },
+      {
+        "_path": "lib/python3.11/site-packages/python_lsp_black-2.0.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.11/site-packages/python_lsp_black-2.0.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+        "sha256_in_prefix": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "lib/python3.11/site-packages/python_lsp_black-2.0.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "e1d38516c105456bba5f50f933eccd752edb62693331969dfbfb1081b91ac8cb",
+        "sha256_in_prefix": "e1d38516c105456bba5f50f933eccd752edb62693331969dfbfb1081b91ac8cb",
+        "size_in_bytes": 147
+      },
+      {
+        "_path": "lib/python3.11/site-packages/python_lsp_black-2.0.0.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "9b4126873695968dc99e20d64662b2f6dea2fec1e9b02f198379dc1f9ccf9ec5",
+        "sha256_in_prefix": "9b4126873695968dc99e20d64662b2f6dea2fec1e9b02f198379dc1f9ccf9ec5",
+        "size_in_bytes": 35
+      },
+      {
+        "_path": "lib/python3.11/site-packages/python_lsp_black-2.0.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "93a2b6e8ecbb0ec65178a687fde29341168b947ee66ef44d967abb7af94ca639",
+        "sha256_in_prefix": "93a2b6e8ecbb0ec65178a687fde29341168b947ee66ef44d967abb7af94ca639",
+        "size_in_bytes": 12
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "56a8cc49c1e90359ecd89337d84d8dc7453bb77f93810f2d78464316668b77cf",
+  "size": 17912,
+  "subdir": "osx-arm64",
+  "timestamp": 1709232998223,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/python-lsp-black-2.0.0-py311hca03da5_0.conda",
+  "version": "2.0.0"
+}

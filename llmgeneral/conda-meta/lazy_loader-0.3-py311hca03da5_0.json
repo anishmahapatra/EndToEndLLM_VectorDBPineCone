@@ -1,0 +1,181 @@
+{
+  "build": "py311hca03da5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "python >=3.11,<3.12.0a0"
+  ],
+  "extracted_package_dir": "/Users/anishmahapatra/anaconda3/pkgs/lazy_loader-0.3-py311hca03da5_0",
+  "features": "",
+  "files": [
+    "lib/python3.11/site-packages/lazy_loader-0.3.dist-info/INSTALLER",
+    "lib/python3.11/site-packages/lazy_loader-0.3.dist-info/LICENSE.md",
+    "lib/python3.11/site-packages/lazy_loader-0.3.dist-info/METADATA",
+    "lib/python3.11/site-packages/lazy_loader-0.3.dist-info/RECORD",
+    "lib/python3.11/site-packages/lazy_loader-0.3.dist-info/REQUESTED",
+    "lib/python3.11/site-packages/lazy_loader-0.3.dist-info/WHEEL",
+    "lib/python3.11/site-packages/lazy_loader-0.3.dist-info/direct_url.json",
+    "lib/python3.11/site-packages/lazy_loader/__init__.py",
+    "lib/python3.11/site-packages/lazy_loader/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/lazy_loader/tests/__init__.py",
+    "lib/python3.11/site-packages/lazy_loader/tests/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/lazy_loader/tests/__pycache__/test_lazy_loader.cpython-311.pyc",
+    "lib/python3.11/site-packages/lazy_loader/tests/fake_pkg/__init__.py",
+    "lib/python3.11/site-packages/lazy_loader/tests/fake_pkg/__init__.pyi",
+    "lib/python3.11/site-packages/lazy_loader/tests/fake_pkg/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/lazy_loader/tests/fake_pkg/__pycache__/some_func.cpython-311.pyc",
+    "lib/python3.11/site-packages/lazy_loader/tests/fake_pkg/some_func.py",
+    "lib/python3.11/site-packages/lazy_loader/tests/test_lazy_loader.py"
+  ],
+  "fn": "lazy_loader-0.3-py311hca03da5_0.conda",
+  "legacy_bz2_md5": "5ca593e6bc0a5bf4e3c73159ffbad4ce",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Users/anishmahapatra/anaconda3/pkgs/lazy_loader-0.3-py311hca03da5_0",
+    "type": 1
+  },
+  "md5": "fe9fbfac80ea6b397e4cee001ba1328d",
+  "name": "lazy_loader",
+  "package_tarball_full_path": "/Users/anishmahapatra/anaconda3/pkgs/lazy_loader-0.3-py311hca03da5_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.11/site-packages/lazy_loader-0.3.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.11/site-packages/lazy_loader-0.3.dist-info/LICENSE.md",
+        "path_type": "hardlink",
+        "sha256": "797b6937a4f976836efbbbb3ae333d7866ddc3eb3cb152972b2be348d3529372",
+        "sha256_in_prefix": "797b6937a4f976836efbbbb3ae333d7866ddc3eb3cb152972b2be348d3529372",
+        "size_in_bytes": 1539
+      },
+      {
+        "_path": "lib/python3.11/site-packages/lazy_loader-0.3.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "f2bff22f4e2f432ddf5b79936e151376177e2c3bddbd03dbde8853248840ed7b",
+        "sha256_in_prefix": "f2bff22f4e2f432ddf5b79936e151376177e2c3bddbd03dbde8853248840ed7b",
+        "size_in_bytes": 4309
+      },
+      {
+        "_path": "lib/python3.11/site-packages/lazy_loader-0.3.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "d9749ed2f2ad4c9c567412d655182313332887036ab12e8d1f16b250fa238f03",
+        "sha256_in_prefix": "d9749ed2f2ad4c9c567412d655182313332887036ab12e8d1f16b250fa238f03",
+        "size_in_bytes": 1443
+      },
+      {
+        "_path": "lib/python3.11/site-packages/lazy_loader-0.3.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.11/site-packages/lazy_loader-0.3.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "1196c6921ec87b83e865f450f08d19b8ff5592537f4ef719e83484e546abe33e",
+        "sha256_in_prefix": "1196c6921ec87b83e865f450f08d19b8ff5592537f4ef719e83484e546abe33e",
+        "size_in_bytes": 81
+      },
+      {
+        "_path": "lib/python3.11/site-packages/lazy_loader-0.3.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "dfeff2ee200e6ad56dc6ebb3ad1574333008aa2bd5a527ed1b84ee375e3699c6",
+        "sha256_in_prefix": "dfeff2ee200e6ad56dc6ebb3ad1574333008aa2bd5a527ed1b84ee375e3699c6",
+        "size_in_bytes": 142
+      },
+      {
+        "_path": "lib/python3.11/site-packages/lazy_loader/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "0fa884d36d02d0a8b9daabe68f116c91da80ce316d087e1afb6d3317b527da06",
+        "sha256_in_prefix": "0fa884d36d02d0a8b9daabe68f116c91da80ce316d087e1afb6d3317b527da06",
+        "size_in_bytes": 8555
+      },
+      {
+        "_path": "lib/python3.11/site-packages/lazy_loader/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "6b42ea21bdbd6c8773e3939ef3a86720f1599bb50b360c9a04ec736528cbaced",
+        "sha256_in_prefix": "6b42ea21bdbd6c8773e3939ef3a86720f1599bb50b360c9a04ec736528cbaced",
+        "size_in_bytes": 12365
+      },
+      {
+        "_path": "lib/python3.11/site-packages/lazy_loader/tests/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.11/site-packages/lazy_loader/tests/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "6f6e1f869d58894c464b0543a67c3204d25bbeab34a47a9f4a5a7e9e46c3c39b",
+        "sha256_in_prefix": "6f6e1f869d58894c464b0543a67c3204d25bbeab34a47a9f4a5a7e9e46c3c39b",
+        "size_in_bytes": 167
+      },
+      {
+        "_path": "lib/python3.11/site-packages/lazy_loader/tests/__pycache__/test_lazy_loader.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "132c57947e725c255b8039c1f9865813d563485d4efd6cdc6be336b212ede1db",
+        "sha256_in_prefix": "132c57947e725c255b8039c1f9865813d563485d4efd6cdc6be336b212ede1db",
+        "size_in_bytes": 7946
+      },
+      {
+        "_path": "lib/python3.11/site-packages/lazy_loader/tests/fake_pkg/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "3591dfe67c365a9dfbeda9be0a7db274f1a2d8e15aef32b3f78c8966ba1e1f30",
+        "sha256_in_prefix": "3591dfe67c365a9dfbeda9be0a7db274f1a2d8e15aef32b3f78c8966ba1e1f30",
+        "size_in_bytes": 136
+      },
+      {
+        "_path": "lib/python3.11/site-packages/lazy_loader/tests/fake_pkg/__init__.pyi",
+        "path_type": "hardlink",
+        "sha256": "4d3f9f65b6efaa1439975998dbfd5d23ef532105bc9c855270d921755f643711",
+        "sha256_in_prefix": "4d3f9f65b6efaa1439975998dbfd5d23ef532105bc9c855270d921755f643711",
+        "size_in_bytes": 33
+      },
+      {
+        "_path": "lib/python3.11/site-packages/lazy_loader/tests/fake_pkg/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "f20c92777760dc0b3d4685f6efa67e5803696cd5580aa50d542166ec70521b19",
+        "sha256_in_prefix": "f20c92777760dc0b3d4685f6efa67e5803696cd5580aa50d542166ec70521b19",
+        "size_in_bytes": 385
+      },
+      {
+        "_path": "lib/python3.11/site-packages/lazy_loader/tests/fake_pkg/__pycache__/some_func.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "c50563b92e8cb4e5ebaf4bc312b20cc706061b651cfb5508949cc82eb9072f7b",
+        "sha256_in_prefix": "c50563b92e8cb4e5ebaf4bc312b20cc706061b651cfb5508949cc82eb9072f7b",
+        "size_in_bytes": 331
+      },
+      {
+        "_path": "lib/python3.11/site-packages/lazy_loader/tests/fake_pkg/some_func.py",
+        "path_type": "hardlink",
+        "sha256": "5d5e4a4f2cbd7c43f91edc4a6f461b113ca69eb496c15ddc275bb7f9189605cc",
+        "sha256_in_prefix": "5d5e4a4f2cbd7c43f91edc4a6f461b113ca69eb496c15ddc275bb7f9189605cc",
+        "size_in_bytes": 74
+      },
+      {
+        "_path": "lib/python3.11/site-packages/lazy_loader/tests/test_lazy_loader.py",
+        "path_type": "hardlink",
+        "sha256": "b503e6fe1fd77fd8998836e178d72ec68746b92c2b78c887327083c89634be2b",
+        "sha256_in_prefix": "b503e6fe1fd77fd8998836e178d72ec68746b92c2b78c887327083c89634be2b",
+        "size_in_bytes": 4468
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "fb1d95222bd0fb03e22084399b6d2246a12048e510a0ae511eac24c9c0c007d1",
+  "size": 21749,
+  "subdir": "osx-arm64",
+  "timestamp": 1695850137359,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/lazy_loader-0.3-py311hca03da5_0.conda",
+  "version": "0.3"
+}

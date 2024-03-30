@@ -1,0 +1,1308 @@
+{
+  "build": "py311hca03da5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "importlib-metadata >=6.6.0",
+    "platformdirs >=3.5.1",
+    "python >=3.11,<3.12.0a0",
+    "tomli >=2.0.1"
+  ],
+  "extracted_package_dir": "/Users/anishmahapatra/anaconda3/pkgs/yapf-0.40.2-py311hca03da5_0",
+  "features": "",
+  "files": [
+    "bin/yapf",
+    "bin/yapf-diff",
+    "lib/python3.11/site-packages/yapf-0.40.2.dist-info/AUTHORS",
+    "lib/python3.11/site-packages/yapf-0.40.2.dist-info/INSTALLER",
+    "lib/python3.11/site-packages/yapf-0.40.2.dist-info/LICENSE",
+    "lib/python3.11/site-packages/yapf-0.40.2.dist-info/METADATA",
+    "lib/python3.11/site-packages/yapf-0.40.2.dist-info/RECORD",
+    "lib/python3.11/site-packages/yapf-0.40.2.dist-info/REQUESTED",
+    "lib/python3.11/site-packages/yapf-0.40.2.dist-info/WHEEL",
+    "lib/python3.11/site-packages/yapf-0.40.2.dist-info/direct_url.json",
+    "lib/python3.11/site-packages/yapf-0.40.2.dist-info/entry_points.txt",
+    "lib/python3.11/site-packages/yapf-0.40.2.dist-info/top_level.txt",
+    "lib/python3.11/site-packages/yapf/__init__.py",
+    "lib/python3.11/site-packages/yapf/__main__.py",
+    "lib/python3.11/site-packages/yapf/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf/__pycache__/__main__.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf/pyparser/__init__.py",
+    "lib/python3.11/site-packages/yapf/pyparser/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf/pyparser/__pycache__/pyparser.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf/pyparser/__pycache__/pyparser_utils.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf/pyparser/__pycache__/split_penalty_visitor.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf/pyparser/pyparser.py",
+    "lib/python3.11/site-packages/yapf/pyparser/pyparser_utils.py",
+    "lib/python3.11/site-packages/yapf/pyparser/split_penalty_visitor.py",
+    "lib/python3.11/site-packages/yapf/pytree/__init__.py",
+    "lib/python3.11/site-packages/yapf/pytree/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf/pytree/__pycache__/blank_line_calculator.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf/pytree/__pycache__/comment_splicer.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf/pytree/__pycache__/continuation_splicer.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf/pytree/__pycache__/pytree_unwrapper.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf/pytree/__pycache__/pytree_utils.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf/pytree/__pycache__/pytree_visitor.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf/pytree/__pycache__/split_penalty.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf/pytree/__pycache__/subtype_assigner.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf/pytree/blank_line_calculator.py",
+    "lib/python3.11/site-packages/yapf/pytree/comment_splicer.py",
+    "lib/python3.11/site-packages/yapf/pytree/continuation_splicer.py",
+    "lib/python3.11/site-packages/yapf/pytree/pytree_unwrapper.py",
+    "lib/python3.11/site-packages/yapf/pytree/pytree_utils.py",
+    "lib/python3.11/site-packages/yapf/pytree/pytree_visitor.py",
+    "lib/python3.11/site-packages/yapf/pytree/split_penalty.py",
+    "lib/python3.11/site-packages/yapf/pytree/subtype_assigner.py",
+    "lib/python3.11/site-packages/yapf/yapflib/__init__.py",
+    "lib/python3.11/site-packages/yapf/yapflib/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf/yapflib/__pycache__/errors.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf/yapflib/__pycache__/file_resources.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf/yapflib/__pycache__/format_decision_state.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf/yapflib/__pycache__/format_token.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf/yapflib/__pycache__/identify_container.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf/yapflib/__pycache__/line_joiner.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf/yapflib/__pycache__/logical_line.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf/yapflib/__pycache__/object_state.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf/yapflib/__pycache__/reformatter.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf/yapflib/__pycache__/split_penalty.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf/yapflib/__pycache__/style.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf/yapflib/__pycache__/subtypes.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf/yapflib/__pycache__/yapf_api.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf/yapflib/errors.py",
+    "lib/python3.11/site-packages/yapf/yapflib/file_resources.py",
+    "lib/python3.11/site-packages/yapf/yapflib/format_decision_state.py",
+    "lib/python3.11/site-packages/yapf/yapflib/format_token.py",
+    "lib/python3.11/site-packages/yapf/yapflib/identify_container.py",
+    "lib/python3.11/site-packages/yapf/yapflib/line_joiner.py",
+    "lib/python3.11/site-packages/yapf/yapflib/logical_line.py",
+    "lib/python3.11/site-packages/yapf/yapflib/object_state.py",
+    "lib/python3.11/site-packages/yapf/yapflib/reformatter.py",
+    "lib/python3.11/site-packages/yapf/yapflib/split_penalty.py",
+    "lib/python3.11/site-packages/yapf/yapflib/style.py",
+    "lib/python3.11/site-packages/yapf/yapflib/subtypes.py",
+    "lib/python3.11/site-packages/yapf/yapflib/yapf_api.py",
+    "lib/python3.11/site-packages/yapf_third_party/__init__.py",
+    "lib/python3.11/site-packages/yapf_third_party/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/Grammar.txt",
+    "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/LICENSE",
+    "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/PatternGrammar.txt",
+    "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/__init__.py",
+    "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/__pycache__/fixer_base.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/__pycache__/fixer_util.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/__pycache__/patcomp.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/__pycache__/pygram.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/__pycache__/pytree.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/fixer_base.py",
+    "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/fixer_util.py",
+    "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/patcomp.py",
+    "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pgen2/__init__.py",
+    "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pgen2/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pgen2/__pycache__/conv.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pgen2/__pycache__/driver.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pgen2/__pycache__/grammar.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pgen2/__pycache__/literals.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pgen2/__pycache__/parse.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pgen2/__pycache__/pgen.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pgen2/__pycache__/token.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pgen2/__pycache__/tokenize.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pgen2/conv.py",
+    "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pgen2/driver.py",
+    "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pgen2/grammar.py",
+    "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pgen2/literals.py",
+    "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pgen2/parse.py",
+    "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pgen2/pgen.py",
+    "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pgen2/token.py",
+    "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pgen2/tokenize.py",
+    "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pygram.py",
+    "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pytree.py",
+    "lib/python3.11/site-packages/yapf_third_party/yapf_diff/LICENSE",
+    "lib/python3.11/site-packages/yapf_third_party/yapf_diff/__init__.py",
+    "lib/python3.11/site-packages/yapf_third_party/yapf_diff/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf_third_party/yapf_diff/__pycache__/yapf_diff.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapf_third_party/yapf_diff/yapf_diff.py",
+    "lib/python3.11/site-packages/yapftests/__init__.py",
+    "lib/python3.11/site-packages/yapftests/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapftests/__pycache__/blank_line_calculator_test.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapftests/__pycache__/comment_splicer_test.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapftests/__pycache__/file_resources_test.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapftests/__pycache__/format_decision_state_test.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapftests/__pycache__/format_token_test.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapftests/__pycache__/line_joiner_test.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapftests/__pycache__/logical_line_test.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapftests/__pycache__/main_test.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapftests/__pycache__/pytree_unwrapper_test.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapftests/__pycache__/pytree_utils_test.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapftests/__pycache__/pytree_visitor_test.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapftests/__pycache__/reformatter_basic_test.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapftests/__pycache__/reformatter_buganizer_test.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapftests/__pycache__/reformatter_facebook_test.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapftests/__pycache__/reformatter_pep8_test.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapftests/__pycache__/reformatter_python3_test.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapftests/__pycache__/reformatter_style_config_test.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapftests/__pycache__/split_penalty_test.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapftests/__pycache__/style_test.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapftests/__pycache__/subtype_assigner_test.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapftests/__pycache__/utils.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapftests/__pycache__/yapf_test.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapftests/__pycache__/yapf_test_helper.cpython-311.pyc",
+    "lib/python3.11/site-packages/yapftests/blank_line_calculator_test.py",
+    "lib/python3.11/site-packages/yapftests/comment_splicer_test.py",
+    "lib/python3.11/site-packages/yapftests/file_resources_test.py",
+    "lib/python3.11/site-packages/yapftests/format_decision_state_test.py",
+    "lib/python3.11/site-packages/yapftests/format_token_test.py",
+    "lib/python3.11/site-packages/yapftests/line_joiner_test.py",
+    "lib/python3.11/site-packages/yapftests/logical_line_test.py",
+    "lib/python3.11/site-packages/yapftests/main_test.py",
+    "lib/python3.11/site-packages/yapftests/pytree_unwrapper_test.py",
+    "lib/python3.11/site-packages/yapftests/pytree_utils_test.py",
+    "lib/python3.11/site-packages/yapftests/pytree_visitor_test.py",
+    "lib/python3.11/site-packages/yapftests/reformatter_basic_test.py",
+    "lib/python3.11/site-packages/yapftests/reformatter_buganizer_test.py",
+    "lib/python3.11/site-packages/yapftests/reformatter_facebook_test.py",
+    "lib/python3.11/site-packages/yapftests/reformatter_pep8_test.py",
+    "lib/python3.11/site-packages/yapftests/reformatter_python3_test.py",
+    "lib/python3.11/site-packages/yapftests/reformatter_style_config_test.py",
+    "lib/python3.11/site-packages/yapftests/split_penalty_test.py",
+    "lib/python3.11/site-packages/yapftests/style_test.py",
+    "lib/python3.11/site-packages/yapftests/subtype_assigner_test.py",
+    "lib/python3.11/site-packages/yapftests/utils.py",
+    "lib/python3.11/site-packages/yapftests/yapf_test.py",
+    "lib/python3.11/site-packages/yapftests/yapf_test_helper.py"
+  ],
+  "fn": "yapf-0.40.2-py311hca03da5_0.conda",
+  "legacy_bz2_md5": "f1c884e4f4500c88608ced3412ec4079",
+  "license": "Apache-2.0 AND PSF-2.0",
+  "license_family": "Apache",
+  "link": {
+    "source": "/Users/anishmahapatra/anaconda3/pkgs/yapf-0.40.2-py311hca03da5_0",
+    "type": 1
+  },
+  "md5": "648039adcd8e3e45d0ce1ddcee05b1ca",
+  "name": "yapf",
+  "package_tarball_full_path": "/Users/anishmahapatra/anaconda3/pkgs/yapf-0.40.2-py311hca03da5_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/yapf",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_29ra4n2npe/croot/yapf_1708964324475/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+        "sha256": "21f47824b990ca4d5340e8328481fa5707294713469178a6a02f11697ec7de2e",
+        "sha256_in_prefix": "6d5105ecb207079c243b3cba59a07016be3f1b0da6fcbb6d349dd0da91eecd60",
+        "size_in_bytes": 465
+      },
+      {
+        "_path": "bin/yapf-diff",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_29ra4n2npe/croot/yapf_1708964324475/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+        "sha256": "18cf7458e459ab6f3373744925aa823ffb037388d9371d9d089d8c2c1ab3cd51",
+        "sha256_in_prefix": "fd1935761a950281bd91a52e91d22c70d920e7c53c0d7b18f94fd815ae0e2532",
+        "size_in_bytes": 489
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf-0.40.2.dist-info/AUTHORS",
+        "path_type": "hardlink",
+        "sha256": "1a3591f17972f8397d56b2aecd32cebd1a026cc372dbbf03c4ad92b9df4b702c",
+        "sha256_in_prefix": "1a3591f17972f8397d56b2aecd32cebd1a026cc372dbbf03c4ad92b9df4b702c",
+        "size_in_bytes": 307
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf-0.40.2.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf-0.40.2.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "sha256_in_prefix": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "size_in_bytes": 11358
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf-0.40.2.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "edbfef9598bf77e7ba5e8c5fc72c06cf2556529046e3dc40f82f95c984ca14f9",
+        "sha256_in_prefix": "edbfef9598bf77e7ba5e8c5fc72c06cf2556529046e3dc40f82f95c984ca14f9",
+        "size_in_bytes": 45373
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf-0.40.2.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "840148e13ff2a8e181f97dbf99a111304cc8cb9d72347e227073ba41e193b9cd",
+        "sha256_in_prefix": "840148e13ff2a8e181f97dbf99a111304cc8cb9d72347e227073ba41e193b9cd",
+        "size_in_bytes": 12095
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf-0.40.2.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf-0.40.2.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+        "sha256_in_prefix": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf-0.40.2.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "8ff3820a5e0ca5f4043e40efc6387f2650bba920d8d186f3728c8ac39fb25d1a",
+        "sha256_in_prefix": "8ff3820a5e0ca5f4043e40efc6387f2650bba920d8d186f3728c8ac39fb25d1a",
+        "size_in_bytes": 135
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf-0.40.2.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "721694ea3f0967cce51cea5c160a2bc383fb63b2e73143276ce160bf1e698b51",
+        "sha256_in_prefix": "721694ea3f0967cce51cea5c160a2bc383fb63b2e73143276ce160bf1e698b51",
+        "size_in_bytes": 93
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf-0.40.2.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "d62077958c3f9cb15fe83fef77c7d377e4d94d17e9473a02e1eb942c20aebba7",
+        "sha256_in_prefix": "d62077958c3f9cb15fe83fef77c7d377e4d94d17e9473a02e1eb942c20aebba7",
+        "size_in_bytes": 32
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "a436e403745626ff7afa19b131041adc160873a4a415cb9424c182d5cdc2394e",
+        "sha256_in_prefix": "a436e403745626ff7afa19b131041adc160873a4a415cb9424c182d5cdc2394e",
+        "size_in_bytes": 13013
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "8c9e457307bab5b5f1a92b94c513b7b9e978e2d1cfe77bd549ca2396eb347013",
+        "sha256_in_prefix": "8c9e457307bab5b5f1a92b94c513b7b9e978e2d1cfe77bd549ca2396eb347013",
+        "size_in_bytes": 680
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "353acb16c74ec323181d508e79b9c93b8f35caf649b724735969f2c92c0ac09d",
+        "sha256_in_prefix": "353acb16c74ec323181d508e79b9c93b8f35caf649b724735969f2c92c0ac09d",
+        "size_in_bytes": 16728
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/__pycache__/__main__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "608787a9f867777887785bdb732a8ea2620fbcdbbbe6e0e74218b5c0519d58d8",
+        "sha256_in_prefix": "608787a9f867777887785bdb732a8ea2620fbcdbbbe6e0e74218b5c0519d58d8",
+        "size_in_bytes": 266
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/pyparser/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "746451b441bb401e61544886c65e6d0563d8df734eaed3efa1f5636dc41d03bb",
+        "sha256_in_prefix": "746451b441bb401e61544886c65e6d0563d8df734eaed3efa1f5636dc41d03bb",
+        "size_in_bytes": 596
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/pyparser/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "9ba279bc02a1f7a4de0c9280c4119de09503aaef93d155c4ae4d3f2e1aaea54e",
+        "sha256_in_prefix": "9ba279bc02a1f7a4de0c9280c4119de09503aaef93d155c4ae4d3f2e1aaea54e",
+        "size_in_bytes": 163
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/pyparser/__pycache__/pyparser.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "3c37e2b387e5e7b2355fde1f3cc1a5cf484a6a5901ee293f3f1147139194cbf7",
+        "sha256_in_prefix": "3c37e2b387e5e7b2355fde1f3cc1a5cf484a6a5901ee293f3f1147139194cbf7",
+        "size_in_bytes": 6060
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/pyparser/__pycache__/pyparser_utils.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "289c39d2463333080b4a7e9deba102383edd2f14b2e18184ddb8f0ac7024aed8",
+        "sha256_in_prefix": "289c39d2463333080b4a7e9deba102383edd2f14b2e18184ddb8f0ac7024aed8",
+        "size_in_bytes": 3623
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/pyparser/__pycache__/split_penalty_visitor.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "541a09c8bd302f4353a28aa80e4b1bceb5951a61d540cb20464729bb3e590878",
+        "sha256_in_prefix": "541a09c8bd302f4353a28aa80e4b1bceb5951a61d540cb20464729bb3e590878",
+        "size_in_bytes": 35188
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/pyparser/pyparser.py",
+        "path_type": "hardlink",
+        "sha256": "384012cca4507d4dc7cd950c4c3192122580c4ddcc0d1d15fcce11c828a7c06e",
+        "sha256_in_prefix": "384012cca4507d4dc7cd950c4c3192122580c4ddcc0d1d15fcce11c828a7c06e",
+        "size_in_bytes": 5247
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/pyparser/pyparser_utils.py",
+        "path_type": "hardlink",
+        "sha256": "592e0d1edab4d47e08e539dff47a3604d67b7f821827a2a558165fbce15af7bf",
+        "sha256_in_prefix": "592e0d1edab4d47e08e539dff47a3604d67b7f821827a2a558165fbce15af7bf",
+        "size_in_bytes": 3076
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/pyparser/split_penalty_visitor.py",
+        "path_type": "hardlink",
+        "sha256": "1030f5e158f4bb60a5c1a8a3ec50f3c1e57b91cbb907b306263bb2e8259d83b6",
+        "sha256_in_prefix": "1030f5e158f4bb60a5c1a8a3ec50f3c1e57b91cbb907b306263bb2e8259d83b6",
+        "size_in_bytes": 29136
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/pytree/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "d0140706ca301b8324a9ee6aa8b0567fd907ebeac35e9220cb2b5786651e5dcc",
+        "sha256_in_prefix": "d0140706ca301b8324a9ee6aa8b0567fd907ebeac35e9220cb2b5786651e5dcc",
+        "size_in_bytes": 596
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/pytree/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "da4e704f2ee125aa4a914524160a7e80b8bc4cc728e2145cc5e39e9369814cdb",
+        "sha256_in_prefix": "da4e704f2ee125aa4a914524160a7e80b8bc4cc728e2145cc5e39e9369814cdb",
+        "size_in_bytes": 161
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/pytree/__pycache__/blank_line_calculator.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "52212522167ffecd298c23de0d922e0343e8b3d874cbf295e5b87741f5966466",
+        "sha256_in_prefix": "52212522167ffecd298c23de0d922e0343e8b3d874cbf295e5b87741f5966466",
+        "size_in_bytes": 9038
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/pytree/__pycache__/comment_splicer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "eeca1b52c1cdc179a9ccf61d2ca8d02183478da7f871108b2efb8b412a40f047",
+        "sha256_in_prefix": "eeca1b52c1cdc179a9ccf61d2ca8d02183478da7f871108b2efb8b412a40f047",
+        "size_in_bytes": 12567
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/pytree/__pycache__/continuation_splicer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "448f963bcbed47d4719941deff966baa4c1ea01d22bfcfb7725f04a903c42770",
+        "sha256_in_prefix": "448f963bcbed47d4719941deff966baa4c1ea01d22bfcfb7725f04a903c42770",
+        "size_in_bytes": 2092
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/pytree/__pycache__/pytree_unwrapper.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "6ff117e19b2a0f1e093c2913276c0e45a56bac62b35404cd1292613a84dfa58d",
+        "sha256_in_prefix": "6ff117e19b2a0f1e093c2913276c0e45a56bac62b35404cd1292613a84dfa58d",
+        "size_in_bytes": 21694
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/pytree/__pycache__/pytree_utils.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "cd8c1839df49d2a350fedaf5e9ac6611d3f7273e6630c35cfd6cee6ce114b1c8",
+        "sha256_in_prefix": "cd8c1839df49d2a350fedaf5e9ac6611d3f7273e6630c35cfd6cee6ce114b1c8",
+        "size_in_bytes": 12902
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/pytree/__pycache__/pytree_visitor.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "8f4ae4f14d1e0c96e90587b8e5e6331ad779ac0521fe66a91952f17b27b3345d",
+        "sha256_in_prefix": "8f4ae4f14d1e0c96e90587b8e5e6331ad779ac0521fe66a91952f17b27b3345d",
+        "size_in_bytes": 6217
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/pytree/__pycache__/split_penalty.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "8af09b20723c7c59b6420e90318e9c308488bbaeb6b54bb42df7e197d9d23b7d",
+        "sha256_in_prefix": "8af09b20723c7c59b6420e90318e9c308488bbaeb6b54bb42df7e197d9d23b7d",
+        "size_in_bytes": 33753
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/pytree/__pycache__/subtype_assigner.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "4788f4f44aaa141376434e71cb3c0048cd57cc96b530e15317400dd6bf6436b3",
+        "sha256_in_prefix": "4788f4f44aaa141376434e71cb3c0048cd57cc96b530e15317400dd6bf6436b3",
+        "size_in_bytes": 27059
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/pytree/blank_line_calculator.py",
+        "path_type": "hardlink",
+        "sha256": "0f62220e024f4185d80fccfda22bc5ecd59d50c862c69eebfb8e4edb9034d27a",
+        "sha256_in_prefix": "0f62220e024f4185d80fccfda22bc5ecd59d50c862c69eebfb8e4edb9034d27a",
+        "size_in_bytes": 6289
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/pytree/comment_splicer.py",
+        "path_type": "hardlink",
+        "sha256": "931e788601458381d177577f4041e99ecc0a889318e55413f195deb7d68dd11c",
+        "sha256_in_prefix": "931e788601458381d177577f4041e99ecc0a889318e55413f195deb7d68dd11c",
+        "size_in_bytes": 15310
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/pytree/continuation_splicer.py",
+        "path_type": "hardlink",
+        "sha256": "9349b9b3b15651512f098b914d298e1770485cb876608606d33214b0dec6b230",
+        "sha256_in_prefix": "9349b9b3b15651512f098b914d298e1770485cb876608606d33214b0dec6b230",
+        "size_in_bytes": 1795
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/pytree/pytree_unwrapper.py",
+        "path_type": "hardlink",
+        "sha256": "222de77cc554a8d435e70bf5478d237f20a883541301dd222a6bb27841648586",
+        "sha256_in_prefix": "222de77cc554a8d435e70bf5478d237f20a883541301dd222a6bb27841648586",
+        "size_in_bytes": 15688
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/pytree/pytree_utils.py",
+        "path_type": "hardlink",
+        "sha256": "f0b809255123b8bbbddcbe7e7ebcb9672f88671e9dae37e5e6794b65918fe232",
+        "sha256_in_prefix": "f0b809255123b8bbbddcbe7e7ebcb9672f88671e9dae37e5e6794b65918fe232",
+        "size_in_bytes": 10465
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/pytree/pytree_visitor.py",
+        "path_type": "hardlink",
+        "sha256": "0cfd6333ceab17daec0d2e8f5bd4f1ab39bc375f200b592eba228321e4169c45",
+        "sha256_in_prefix": "0cfd6333ceab17daec0d2e8f5bd4f1ab39bc375f200b592eba228321e4169c45",
+        "size_in_bytes": 4547
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/pytree/split_penalty.py",
+        "path_type": "hardlink",
+        "sha256": "7616887993d9754a10ea7512c68cf67dbb5c2b3dca8ff35ab65e5287f4d068c1",
+        "sha256_in_prefix": "7616887993d9754a10ea7512c68cf67dbb5c2b3dca8ff35ab65e5287f4d068c1",
+        "size_in_bytes": 24445
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/pytree/subtype_assigner.py",
+        "path_type": "hardlink",
+        "sha256": "422d5b1976ec78f969243c92f1109731c4a7a21fb10ddb07e490ba2e466bad45",
+        "sha256_in_prefix": "422d5b1976ec78f969243c92f1109731c4a7a21fb10ddb07e490ba2e466bad45",
+        "size_in_bytes": 19352
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/yapflib/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "69b06a86aa8f3f5d232baa4d084b795435597d82b4bb47d0ba04e9d800b42b89",
+        "sha256_in_prefix": "69b06a86aa8f3f5d232baa4d084b795435597d82b4bb47d0ba04e9d800b42b89",
+        "size_in_bytes": 596
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/yapflib/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "e89f784ed943250f63d6bfc2c00cda86f23e854dab176cf8ad04436a19a19dc1",
+        "sha256_in_prefix": "e89f784ed943250f63d6bfc2c00cda86f23e854dab176cf8ad04436a19a19dc1",
+        "size_in_bytes": 162
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/yapflib/__pycache__/errors.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "1d8e8217c5e24f32320d4d15ff51eea2cb3d49e1f7d8d7b929e84dc15d10e533",
+        "sha256_in_prefix": "1d8e8217c5e24f32320d4d15ff51eea2cb3d49e1f7d8d7b929e84dc15d10e533",
+        "size_in_bytes": 1863
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/yapflib/__pycache__/file_resources.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "e546b1c1e950516dd5d0710ca40d655be3647615d9ec0c98688a0242ed8cbc26",
+        "sha256_in_prefix": "e546b1c1e950516dd5d0710ca40d655be3647615d9ec0c98688a0242ed8cbc26",
+        "size_in_bytes": 16488
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/yapflib/__pycache__/format_decision_state.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "8b999518652708ffe59cc36cf0f03e7908ee333ec2ae689274691423a46d9391",
+        "sha256_in_prefix": "8b999518652708ffe59cc36cf0f03e7908ee333ec2ae689274691423a46d9391",
+        "size_in_bytes": 49011
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/yapflib/__pycache__/format_token.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "9f5e2a388af97e63d4cb9bee7e2684e141679a03f6122b077ac9c2dc61227466",
+        "sha256_in_prefix": "9f5e2a388af97e63d4cb9bee7e2684e141679a03f6122b077ac9c2dc61227466",
+        "size_in_bytes": 15777
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/yapflib/__pycache__/identify_container.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "8a506354c3afada689d325644e96fe78f19461ed21ae75fa6aa62d473c897a18",
+        "sha256_in_prefix": "8a506354c3afada689d325644e96fe78f19461ed21ae75fa6aa62d473c897a18",
+        "size_in_bytes": 3199
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/yapflib/__pycache__/line_joiner.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "86c74bed5c1b1242d34565b59b41341947d2799293762a0cd61b2b148042ce7a",
+        "sha256_in_prefix": "86c74bed5c1b1242d34565b59b41341947d2799293762a0cd61b2b148042ce7a",
+        "size_in_bytes": 3715
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/yapflib/__pycache__/logical_line.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "9bbface1d9e8da4f4ed8493f7a96c335f27588b844de36c4a352bd676a989318",
+        "sha256_in_prefix": "9bbface1d9e8da4f4ed8493f7a96c335f27588b844de36c4a352bd676a989318",
+        "size_in_bytes": 23872
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/yapflib/__pycache__/object_state.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "7e19ff6961ebdf1b46573d63ec26c5e5ead50ee88fcc64f0eca0bfe6911af4e0",
+        "sha256_in_prefix": "7e19ff6961ebdf1b46573d63ec26c5e5ead50ee88fcc64f0eca0bfe6911af4e0",
+        "size_in_bytes": 12804
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/yapflib/__pycache__/reformatter.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "52155b985f6fa11244667abf8564072e4f7c3954d93820bc5e0017547bb50e81",
+        "sha256_in_prefix": "52155b985f6fa11244667abf8564072e4f7c3954d93820bc5e0017547bb50e81",
+        "size_in_bytes": 31804
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/yapflib/__pycache__/split_penalty.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "bab68c74847c0a0f2274af9b6876542153f05e63ccf106f8061c657a0627a3bf",
+        "sha256_in_prefix": "bab68c74847c0a0f2274af9b6876542153f05e63ccf106f8061c657a0627a3bf",
+        "size_in_bytes": 578
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/yapflib/__pycache__/style.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "512edad37b0a7f9cb17402287532788604590dfc0681671cc30a4a15ec7e150c",
+        "sha256_in_prefix": "512edad37b0a7f9cb17402287532788604590dfc0681671cc30a4a15ec7e150c",
+        "size_in_bytes": 35698
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/yapflib/__pycache__/subtypes.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "601e17f3eb5a45caa648a36552f1b42224f9da09d068f794d1181a7401127268",
+        "sha256_in_prefix": "601e17f3eb5a45caa648a36552f1b42224f9da09d068f794d1181a7401127268",
+        "size_in_bytes": 985
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/yapflib/__pycache__/yapf_api.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "fca3350cc07a64881f5a9373acaa648b0f23e0266b33b68a318fd487d1935f0d",
+        "sha256_in_prefix": "fca3350cc07a64881f5a9373acaa648b0f23e0266b33b68a318fd487d1935f0d",
+        "size_in_bytes": 15687
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/yapflib/errors.py",
+        "path_type": "hardlink",
+        "sha256": "465a116c2c2cd36739b2dc2148fa991824831b5b698b92ca8dbc97e686d0fd76",
+        "sha256_in_prefix": "465a116c2c2cd36739b2dc2148fa991824831b5b698b92ca8dbc97e686d0fd76",
+        "size_in_bytes": 1501
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/yapflib/file_resources.py",
+        "path_type": "hardlink",
+        "sha256": "8a2f221ab6b2101f02e30773a6804c8093dc76e791ee4732847541f50c038337",
+        "sha256_in_prefix": "8a2f221ab6b2101f02e30773a6804c8093dc76e791ee4732847541f50c038337",
+        "size_in_bytes": 9614
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/yapflib/format_decision_state.py",
+        "path_type": "hardlink",
+        "sha256": "44ad017119be0ad175aa470daf7671f12789bdf192bc9a165e7c00203efb3035",
+        "sha256_in_prefix": "44ad017119be0ad175aa470daf7671f12789bdf192bc9a165e7c00203efb3035",
+        "size_in_bytes": 48530
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/yapflib/format_token.py",
+        "path_type": "hardlink",
+        "sha256": "b72896b868a7d99cacf2160fdb6c0f34bfe54d9b8ea083a3b9085f48d73e7140",
+        "sha256_in_prefix": "b72896b868a7d99cacf2160fdb6c0f34bfe54d9b8ea083a3b9085f48d73e7140",
+        "size_in_bytes": 11203
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/yapflib/identify_container.py",
+        "path_type": "hardlink",
+        "sha256": "7eabfeac722ea6019c5c03c7d88903858ec3d05da35a7490612c0fb18f155164",
+        "sha256_in_prefix": "7eabfeac722ea6019c5c03c7d88903858ec3d05da35a7490612c0fb18f155164",
+        "size_in_bytes": 2334
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/yapflib/line_joiner.py",
+        "path_type": "hardlink",
+        "sha256": "1d1fe35508d1dec5fb9363dc27f77c71215fd9c84a396d7e8167f68b179961c6",
+        "sha256_in_prefix": "1d1fe35508d1dec5fb9363dc27f77c71215fd9c84a396d7e8167f68b179961c6",
+        "size_in_bytes": 3916
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/yapflib/logical_line.py",
+        "path_type": "hardlink",
+        "sha256": "063febc60ae8367aff2a5a4749fc2a50fcd31a1d6243394482d95f18371f960b",
+        "sha256_in_prefix": "063febc60ae8367aff2a5a4749fc2a50fcd31a1d6243394482d95f18371f960b",
+        "size_in_bytes": 25201
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/yapflib/object_state.py",
+        "path_type": "hardlink",
+        "sha256": "f8938259a077e01062d733ead6b33e221f43951f50aa09b93cbd8fbd79b5dbe1",
+        "sha256_in_prefix": "f8938259a077e01062d733ead6b33e221f43951f50aa09b93cbd8fbd79b5dbe1",
+        "size_in_bytes": 7912
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/yapflib/reformatter.py",
+        "path_type": "hardlink",
+        "sha256": "aa596b0ce4effd784555966edeedbdda54d12032f4ea7ec23c53698f9beb4ef7",
+        "sha256_in_prefix": "aa596b0ce4effd784555966edeedbdda54d12032f4ea7ec23c53698f9beb4ef7",
+        "size_in_bytes": 28278
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/yapflib/split_penalty.py",
+        "path_type": "hardlink",
+        "sha256": "b5b4d0962538f4e20b6cfb8d1a31fdc4226bf2caf6618f529849d0510b9fa35b",
+        "sha256_in_prefix": "b5b4d0962538f4e20b6cfb8d1a31fdc4226bf2caf6618f529849d0510b9fa35b",
+        "size_in_bytes": 1252
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/yapflib/style.py",
+        "path_type": "hardlink",
+        "sha256": "54642c518172c903e6a3160b8e32ff220006590387c1162971e85719c615487a",
+        "sha256_in_prefix": "54642c518172c903e6a3160b8e32ff220006590387c1162971e85719c615487a",
+        "size_in_bytes": 32064
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/yapflib/subtypes.py",
+        "path_type": "hardlink",
+        "sha256": "039be1dc303079e12eeecd07965dbb00182d542526a3d43fcaba1077e337f55c",
+        "sha256_in_prefix": "039be1dc303079e12eeecd07965dbb00182d542526a3d43fcaba1077e337f55c",
+        "size_in_bytes": 1144
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf/yapflib/yapf_api.py",
+        "path_type": "hardlink",
+        "sha256": "1bb551d6eb579516f8dce01b489be17c6ea713d74347e1948e3ee544a8ae41de",
+        "sha256_in_prefix": "1bb551d6eb579516f8dce01b489be17c6ea713d74347e1948e3ee544a8ae41de",
+        "size_in_bytes": 11973
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "d5699cade36a5aa08a33a811bd21f32d2573689be18143ca5bd25ae7b0d86034",
+        "sha256_in_prefix": "d5699cade36a5aa08a33a811bd21f32d2573689be18143ca5bd25ae7b0d86034",
+        "size_in_bytes": 166
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/Grammar.txt",
+        "path_type": "hardlink",
+        "sha256": "b88c46ec8add7a6462f783ad4d4695a16da4b58c8acae5c796e58530cabc01fe",
+        "sha256_in_prefix": "b88c46ec8add7a6462f783ad4d4695a16da4b58c8acae5c796e58530cabc01fe",
+        "size_in_bytes": 11278
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "5789881b8aeb9c91f5835f5bb7cabe84a0fecd4bb2be2f54c9e6957a78ec799d",
+        "sha256_in_prefix": "5789881b8aeb9c91f5835f5bb7cabe84a0fecd4bb2be2f54c9e6957a78ec799d",
+        "size_in_bytes": 12762
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/PatternGrammar.txt",
+        "path_type": "hardlink",
+        "sha256": "ee5ba5db3b6722a0e2fbe2560ebc1c883e72328ef9c3b4da1c7c5d1cc649bce3",
+        "sha256_in_prefix": "ee5ba5db3b6722a0e2fbe2560ebc1c883e72328ef9c3b4da1c7c5d1cc649bce3",
+        "size_in_bytes": 793
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "aa34a9c67b7c66d29a9b1cf4cc1c658f414809221b7d8858109ef64fdfa2b5a9",
+        "sha256_in_prefix": "aa34a9c67b7c66d29a9b1cf4cc1c658f414809221b7d8858109ef64fdfa2b5a9",
+        "size_in_bytes": 73
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "a0e066141e37443fd329e1769253637ed6634b30d37073acc3fb5ab9aa2973e9",
+        "sha256_in_prefix": "a0e066141e37443fd329e1769253637ed6634b30d37073acc3fb5ab9aa2973e9",
+        "size_in_bytes": 256
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/__pycache__/fixer_base.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "a18d3e90997775225b4a825b3acc39548a4bfd0060efffb4e9e44e07c367515e",
+        "sha256_in_prefix": "a18d3e90997775225b4a825b3acc39548a4bfd0060efffb4e9e44e07c367515e",
+        "size_in_bytes": 8258
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/__pycache__/fixer_util.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "0db69f7c49e9b7f6f1f575a3261d66036c8ae0470691856e89a4c020c8c32f8f",
+        "sha256_in_prefix": "0db69f7c49e9b7f6f1f575a3261d66036c8ae0470691856e89a4c020c8c32f8f",
+        "size_in_bytes": 22369
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/__pycache__/patcomp.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "ce582fa8e287e096c59e99ae6ec2b0c7b084ac5b3c71875d94c82269fe0d004d",
+        "sha256_in_prefix": "ce582fa8e287e096c59e99ae6ec2b0c7b084ac5b3c71875d94c82269fe0d004d",
+        "size_in_bytes": 10845
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/__pycache__/pygram.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "39f2739dd50ff5135b6460960359356a3fd80a3397b0724c4341d26a07d5815a",
+        "sha256_in_prefix": "39f2739dd50ff5135b6460960359356a3fd80a3397b0724c4341d26a07d5815a",
+        "size_in_bytes": 1966
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/__pycache__/pytree.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "424fb98bf4aa81d44b515daedc7a17934d9638fbcbba0ac68041d54b6f4f9cc7",
+        "sha256_in_prefix": "424fb98bf4aa81d44b515daedc7a17934d9638fbcbba0ac68041d54b6f4f9cc7",
+        "size_in_bytes": 37464
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/fixer_base.py",
+        "path_type": "hardlink",
+        "sha256": "547d419055015846491d899d3433374ea74139d7ba871d1366b4bc056c4eff50",
+        "sha256_in_prefix": "547d419055015846491d899d3433374ea74139d7ba871d1366b4bc056c4eff50",
+        "size_in_bytes": 6081
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/fixer_util.py",
+        "path_type": "hardlink",
+        "sha256": "d12925a77bd1f5e8ff1c812e04766f671d406976c89e832052424bf768c9572e",
+        "sha256_in_prefix": "d12925a77bd1f5e8ff1c812e04766f671d406976c89e832052424bf768c9572e",
+        "size_in_bytes": 14005
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/patcomp.py",
+        "path_type": "hardlink",
+        "sha256": "c93763a4801ff4c724d362c359bbbc3c88bb603bfbeab0da4c36f415db7fad2a",
+        "sha256_in_prefix": "c93763a4801ff4c724d362c359bbbc3c88bb603bfbeab0da4c36f415db7fad2a",
+        "size_in_bytes": 6374
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pgen2/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "ed621e4cd288e3c8cb0f627b47cf9e0a230a3daba0c9aa7ecc89b7294f6fd70c",
+        "sha256_in_prefix": "ed621e4cd288e3c8cb0f627b47cf9e0a230a3daba0c9aa7ecc89b7294f6fd70c",
+        "size_in_bytes": 142
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pgen2/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "8042034ad6d628b4fc8969d3d18d96db3041cce2835c55c98400e5d128ec4344",
+        "sha256_in_prefix": "8042034ad6d628b4fc8969d3d18d96db3041cce2835c55c98400e5d128ec4344",
+        "size_in_bytes": 216
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pgen2/__pycache__/conv.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "ffa8282b17e93c4c5be7bcb862a1b2d9c6fea80fecbc524379ccf9dd6dfb1520",
+        "sha256_in_prefix": "ffa8282b17e93c4c5be7bcb862a1b2d9c6fea80fecbc524379ccf9dd6dfb1520",
+        "size_in_bytes": 13281
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pgen2/__pycache__/driver.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "3a7207b6ac6d996a60e921e8618bdfe671e0a6d92bb9e41eaaebb9f1d23dafbf",
+        "sha256_in_prefix": "3a7207b6ac6d996a60e921e8618bdfe671e0a6d92bb9e41eaaebb9f1d23dafbf",
+        "size_in_bytes": 14748
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pgen2/__pycache__/grammar.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "6f3d48b411f4a24ffd165bced59e1312dc35f15021f9fe32c3a0eb332f0f335b",
+        "sha256_in_prefix": "6f3d48b411f4a24ffd165bced59e1312dc35f15021f9fe32c3a0eb332f0f335b",
+        "size_in_bytes": 7595
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pgen2/__pycache__/literals.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "7597c646bfe17b0c434ceecd1605f486bc9d98386580c492a3cace7ec5085f5c",
+        "sha256_in_prefix": "7597c646bfe17b0c434ceecd1605f486bc9d98386580c492a3cace7ec5085f5c",
+        "size_in_bytes": 3104
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pgen2/__pycache__/parse.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "432b3d8b3b06e5933781947a9177ab1b1b4a13a9d59f523caca1d8e83a9543f1",
+        "sha256_in_prefix": "432b3d8b3b06e5933781947a9177ab1b1b4a13a9d59f523caca1d8e83a9543f1",
+        "size_in_bytes": 17885
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pgen2/__pycache__/pgen.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "098be2110ef331ef5c6074b32358de8f8360ea3af598cd6efa198642b1443258",
+        "sha256_in_prefix": "098be2110ef331ef5c6074b32358de8f8360ea3af598cd6efa198642b1443258",
+        "size_in_bytes": 20897
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pgen2/__pycache__/token.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "a800d3b3e55832ca98d1f2e0c215c071d6878b189de768cc6e14c3264891c2ee",
+        "sha256_in_prefix": "a800d3b3e55832ca98d1f2e0c215c071d6878b189de768cc6e14c3264891c2ee",
+        "size_in_bytes": 2373
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pgen2/__pycache__/tokenize.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "39fb25d6a052b1b56d44c2c64ccc4a94af84b9a7ec22955900101f47331e8e7f",
+        "sha256_in_prefix": "39fb25d6a052b1b56d44c2c64ccc4a94af84b9a7ec22955900101f47331e8e7f",
+        "size_in_bytes": 24868
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pgen2/conv.py",
+        "path_type": "hardlink",
+        "sha256": "1f016fb3c39278852cbb3c5a767ebc52748b4935ba350e701ce207c8725e29e7",
+        "sha256_in_prefix": "1f016fb3c39278852cbb3c5a767ebc52748b4935ba350e701ce207c8725e29e7",
+        "size_in_bytes": 8672
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pgen2/driver.py",
+        "path_type": "hardlink",
+        "sha256": "98e013c155845cae5dd8f713016897ad8542d3ed8a8844422868045a11ce66b7",
+        "sha256_in_prefix": "98e013c155845cae5dd8f713016897ad8542d3ed8a8844422868045a11ce66b7",
+        "size_in_bytes": 8873
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pgen2/grammar.py",
+        "path_type": "hardlink",
+        "sha256": "16f6e39eea4f07b03c30a4427437e23dafc51158acc9f90d424f3a4fecd04530",
+        "sha256_in_prefix": "16f6e39eea4f07b03c30a4427437e23dafc51158acc9f90d424f3a4fecd04530",
+        "size_in_bytes": 5387
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pgen2/literals.py",
+        "path_type": "hardlink",
+        "sha256": "ccf2af4c4359e2fe54a57b1ff4a0ab930dd869bd394079d45928df206a42b9d2",
+        "sha256_in_prefix": "ccf2af4c4359e2fe54a57b1ff4a0ab930dd869bd394079d45928df206a42b9d2",
+        "size_in_bytes": 1407
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pgen2/parse.py",
+        "path_type": "hardlink",
+        "sha256": "3a1163bc654d40fb2017a26457f547c3ffdde7917e5a37121a9f17514284d114",
+        "sha256_in_prefix": "3a1163bc654d40fb2017a26457f547c3ffdde7917e5a37121a9f17514284d114",
+        "size_in_bytes": 13020
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pgen2/pgen.py",
+        "path_type": "hardlink",
+        "sha256": "a9726222305380e343f90a8ca1b364e674d51c7597e7020b7e32e3c2ae352cb5",
+        "sha256_in_prefix": "a9726222305380e343f90a8ca1b364e674d51c7597e7020b7e32e3c2ae352cb5",
+        "size_in_bytes": 12372
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pgen2/token.py",
+        "path_type": "hardlink",
+        "sha256": "9624fd6b02f70882ee5096a89753b8fede06fa275d32c2373baa9104dc68b9e2",
+        "sha256_in_prefix": "9624fd6b02f70882ee5096a89753b8fede06fa275d32c2373baa9104dc68b9e2",
+        "size_in_bytes": 1293
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pgen2/tokenize.py",
+        "path_type": "hardlink",
+        "sha256": "a86bd271d5d42ed480e9c3943ae08d4d0ecf240dfbcd692673a2ccfa8ac0f8a2",
+        "sha256_in_prefix": "a86bd271d5d42ed480e9c3943ae08d4d0ecf240dfbcd692673a2ccfa8ac0f8a2",
+        "size_in_bytes": 19037
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pygram.py",
+        "path_type": "hardlink",
+        "sha256": "98bd40c13f5e4934a2a252ff36cc16490f4cad374e4e251140be933c7817a8f5",
+        "sha256_in_prefix": "98bd40c13f5e4934a2a252ff36cc16490f4cad374e4e251140be933c7817a8f5",
+        "size_in_bytes": 1200
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/_ylib2to3/pytree.py",
+        "path_type": "hardlink",
+        "sha256": "cacd0109c742cdac87d04e45bc3492265c6a914f32bf540d7fbf447fef9393f9",
+        "sha256_in_prefix": "cacd0109c742cdac87d04e45bc3492265c6a914f32bf540d7fbf447fef9393f9",
+        "size_in_bytes": 25583
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/yapf_diff/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "9e45e856bedccee9f67254082ca11851d954de2fed7448c4bed19ad9aab99a91",
+        "sha256_in_prefix": "9e45e856bedccee9f67254082ca11851d954de2fed7448c4bed19ad9aab99a91",
+        "size_in_bytes": 12262
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/yapf_diff/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/yapf_diff/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "67e919d3605bf6ffe45661402e026190da2507cf278cbe25ef10515996d8fb1c",
+        "sha256_in_prefix": "67e919d3605bf6ffe45661402e026190da2507cf278cbe25ef10515996d8fb1c",
+        "size_in_bytes": 176
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/yapf_diff/__pycache__/yapf_diff.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "d922691ebd0b9831ef5925b927dbbbf2bc27aa84a62c2ccfc5018bcf64eabc6f",
+        "sha256_in_prefix": "d922691ebd0b9831ef5925b927dbbbf2bc27aa84a62c2ccfc5018bcf64eabc6f",
+        "size_in_bytes": 6084
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapf_third_party/yapf_diff/yapf_diff.py",
+        "path_type": "hardlink",
+        "sha256": "e63bf3168275b7e18f2959df1bfeec53133a3a163287366181dbd969ad69e933",
+        "sha256_in_prefix": "e63bf3168275b7e18f2959df1bfeec53133a3a163287366181dbd969ad69e933",
+        "size_in_bytes": 4657
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "69b06a86aa8f3f5d232baa4d084b795435597d82b4bb47d0ba04e9d800b42b89",
+        "sha256_in_prefix": "69b06a86aa8f3f5d232baa4d084b795435597d82b4bb47d0ba04e9d800b42b89",
+        "size_in_bytes": 596
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "7b7b4bae4c9647d66242dd51bca35764f9a30ba5356566054952d64c478ee9f1",
+        "sha256_in_prefix": "7b7b4bae4c9647d66242dd51bca35764f9a30ba5356566054952d64c478ee9f1",
+        "size_in_bytes": 159
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/__pycache__/blank_line_calculator_test.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "2f851bb84dab184edb089ba74954d6afb2ece597b62ede8cad35108eb3efdd70",
+        "sha256_in_prefix": "2f851bb84dab184edb089ba74954d6afb2ece597b62ede8cad35108eb3efdd70",
+        "size_in_bytes": 12428
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/__pycache__/comment_splicer_test.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "883d8a526d9ac9e6c4e36747053872cdb3796ab366e56833651f03835d72cc2b",
+        "sha256_in_prefix": "883d8a526d9ac9e6c4e36747053872cdb3796ab366e56833651f03835d72cc2b",
+        "size_in_bytes": 16204
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/__pycache__/file_resources_test.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "4c86d721fc61663cbb5bc42b2d3a92edb7b190f0605f96d790f88f5706bb4bef",
+        "sha256_in_prefix": "4c86d721fc61663cbb5bc42b2d3a92edb7b190f0605f96d790f88f5706bb4bef",
+        "size_in_bytes": 38993
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/__pycache__/format_decision_state_test.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "9698e512d16353f805b772606df394caa4d7c90877a30f6e2584e5de9d01bb5a",
+        "sha256_in_prefix": "9698e512d16353f805b772606df394caa4d7c90877a30f6e2584e5de9d01bb5a",
+        "size_in_bytes": 8139
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/__pycache__/format_token_test.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "fa432b4cebadecf45df58234bff860fc58056605b8d76f0947ac0da7f4e69f21",
+        "sha256_in_prefix": "fa432b4cebadecf45df58234bff860fc58056605b8d76f0947ac0da7f4e69f21",
+        "size_in_bytes": 4917
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/__pycache__/line_joiner_test.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "3dea9bfc1b80ecaa9ae2dfd7221df8b2043b98ec0bc77d9899e64470adb89148",
+        "sha256_in_prefix": "3dea9bfc1b80ecaa9ae2dfd7221df8b2043b98ec0bc77d9899e64470adb89148",
+        "size_in_bytes": 4083
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/__pycache__/logical_line_test.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "c235f7c6878863b59a17325ef009efcad5d2aa3766a3c65636e60537e24cb4d4",
+        "sha256_in_prefix": "c235f7c6878863b59a17325ef009efcad5d2aa3766a3c65636e60537e24cb4d4",
+        "size_in_bytes": 6186
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/__pycache__/main_test.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "22f78e8e0c5b75b59041474fda72b90dcee0ea1924945e0439c56d58bb82324d",
+        "sha256_in_prefix": "22f78e8e0c5b75b59041474fda72b90dcee0ea1924945e0439c56d58bb82324d",
+        "size_in_bytes": 9948
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/__pycache__/pytree_unwrapper_test.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "13ea8171769f7ac4eb25a4190859c11c2cfbe918027290762ab37f2244b7197e",
+        "sha256_in_prefix": "13ea8171769f7ac4eb25a4190859c11c2cfbe918027290762ab37f2244b7197e",
+        "size_in_bytes": 14583
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/__pycache__/pytree_utils_test.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "972d22f8f849deb0f893f1de7e7f1a3c02496b6c798bf0a23ac047ee5f60fc80",
+        "sha256_in_prefix": "972d22f8f849deb0f893f1de7e7f1a3c02496b6c798bf0a23ac047ee5f60fc80",
+        "size_in_bytes": 15466
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/__pycache__/pytree_visitor_test.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "e1c39e466e488c63319eeae10ac32999abb1f404bb94e0a6ba7f059a4578d8a0",
+        "sha256_in_prefix": "e1c39e466e488c63319eeae10ac32999abb1f404bb94e0a6ba7f059a4578d8a0",
+        "size_in_bytes": 5906
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/__pycache__/reformatter_basic_test.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "2a177f7a22293b98a292c146ea80908e7f6cf68f4561e3a7a9ab104134aa7285",
+        "sha256_in_prefix": "2a177f7a22293b98a292c146ea80908e7f6cf68f4561e3a7a9ab104134aa7285",
+        "size_in_bytes": 144116
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/__pycache__/reformatter_buganizer_test.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "c62585358528ed127576bdce625a73043953d133f5df9c172fa143eae6e96e10",
+        "sha256_in_prefix": "c62585358528ed127576bdce625a73043953d133f5df9c172fa143eae6e96e10",
+        "size_in_bytes": 112003
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/__pycache__/reformatter_facebook_test.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "7c1af6f60a7ed41a07f17888c378abdd8468bff32685c59c4de443f3bc699d91",
+        "sha256_in_prefix": "7c1af6f60a7ed41a07f17888c378abdd8468bff32685c59c4de443f3bc699d91",
+        "size_in_bytes": 19062
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/__pycache__/reformatter_pep8_test.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "1c700b18166291b5102381ab671455574352182e6f9b0e5d210e22aeba47969d",
+        "sha256_in_prefix": "1c700b18166291b5102381ab671455574352182e6f9b0e5d210e22aeba47969d",
+        "size_in_bytes": 40571
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/__pycache__/reformatter_python3_test.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "36ae683563eaf5747c392e9817578083a0ce09000b1b0ea5c8c22abe6f707c75",
+        "sha256_in_prefix": "36ae683563eaf5747c392e9817578083a0ce09000b1b0ea5c8c22abe6f707c75",
+        "size_in_bytes": 24794
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/__pycache__/reformatter_style_config_test.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "02d7bdb0078e8a8d22ae2bb63dcaa286df57cee45de443d593d12bf9257b8b2d",
+        "sha256_in_prefix": "02d7bdb0078e8a8d22ae2bb63dcaa286df57cee45de443d593d12bf9257b8b2d",
+        "size_in_bytes": 9698
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/__pycache__/split_penalty_test.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "4629fe1c0847efd6a529ceab056251965a235b2e991b5f045afcdc3d5cfb6d50",
+        "sha256_in_prefix": "4629fe1c0847efd6a529ceab056251965a235b2e991b5f045afcdc3d5cfb6d50",
+        "size_in_bytes": 8654
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/__pycache__/style_test.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "04d0b6e46610feafc95bb607d4b63d743e305aa4649b92191c87690fbe6d4fcd",
+        "sha256_in_prefix": "04d0b6e46610feafc95bb607d4b63d743e305aa4649b92191c87690fbe6d4fcd",
+        "size_in_bytes": 23666
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/__pycache__/subtype_assigner_test.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "8e9d25e1d4c87353f09c8a306266f369477a8a1c6ecdfed8314b5ea8cb030f08",
+        "sha256_in_prefix": "8e9d25e1d4c87353f09c8a306266f369477a8a1c6ecdfed8314b5ea8cb030f08",
+        "size_in_bytes": 19464
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/__pycache__/utils.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "98a3185e63304208bf76fa3cd9bfa1706f0ce8881bc66a3beb6e37d4c4dd182a",
+        "sha256_in_prefix": "98a3185e63304208bf76fa3cd9bfa1706f0ce8881bc66a3beb6e37d4c4dd182a",
+        "size_in_bytes": 2238
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/__pycache__/yapf_test.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "cf7b37dd599863fe6fc3828ae6a0ad3db8b1a24e42a4f5a17562b611a5a2e3da",
+        "sha256_in_prefix": "cf7b37dd599863fe6fc3828ae6a0ad3db8b1a24e42a4f5a17562b611a5a2e3da",
+        "size_in_bytes": 84270
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/__pycache__/yapf_test_helper.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "1f9c42dfd0921d101351cc2a53871ae60044379c5ffb3ad18934629dc6049ca3",
+        "sha256_in_prefix": "1f9c42dfd0921d101351cc2a53871ae60044379c5ffb3ad18934629dc6049ca3",
+        "size_in_bytes": 4376
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/blank_line_calculator_test.py",
+        "path_type": "hardlink",
+        "sha256": "eef830c977db4216310b37b3849b2eca31d8ffebfdb5e7965064955286222a57",
+        "sha256_in_prefix": "eef830c977db4216310b37b3849b2eca31d8ffebfdb5e7965064955286222a57",
+        "size_in_bytes": 9045
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/comment_splicer_test.py",
+        "path_type": "hardlink",
+        "sha256": "58bb87ab263c118b850fe05688ac86ad90d0c759d1cf66db0ddfa62d208ba3c4",
+        "sha256_in_prefix": "58bb87ab263c118b850fe05688ac86ad90d0c759d1cf66db0ddfa62d208ba3c4",
+        "size_in_bytes": 11081
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/file_resources_test.py",
+        "path_type": "hardlink",
+        "sha256": "3052d0518157d17081da4e2d303b7b50544b63b4b2c5da135db0ddb84e9290a4",
+        "sha256_in_prefix": "3052d0518157d17081da4e2d303b7b50544b63b4b2c5da135db0ddb84e9290a4",
+        "size_in_bytes": 19268
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/format_decision_state_test.py",
+        "path_type": "hardlink",
+        "sha256": "5c0075bf79b4f1fc9d548cc4bcddb7c4dc152418a883c9ad820ecb186d88b989",
+        "sha256_in_prefix": "5c0075bf79b4f1fc9d548cc4bcddb7c4dc152418a883c9ad820ecb186d88b989",
+        "size_in_bytes": 4401
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/format_token_test.py",
+        "path_type": "hardlink",
+        "sha256": "24eebe5e76e8aa7b9f00f17496858f6da6153073eaaaae25a2a72ef6686dccc6",
+        "sha256_in_prefix": "24eebe5e76e8aa7b9f00f17496858f6da6153073eaaaae25a2a72ef6686dccc6",
+        "size_in_bytes": 3123
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/line_joiner_test.py",
+        "path_type": "hardlink",
+        "sha256": "1acc2231c55102e6a850dbc4a01cce44c6561ecbd55eee0020ae2b0089c27a04",
+        "sha256_in_prefix": "1acc2231c55102e6a850dbc4a01cce44c6561ecbd55eee0020ae2b0089c27a04",
+        "size_in_bytes": 2590
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/logical_line_test.py",
+        "path_type": "hardlink",
+        "sha256": "9174a2828a06eb72b41493c1b3f21fc78c4dce54e26d24e553e136625b1465b9",
+        "sha256_in_prefix": "9174a2828a06eb72b41493c1b3f21fc78c4dce54e26d24e553e136625b1465b9",
+        "size_in_bytes": 3228
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/main_test.py",
+        "path_type": "hardlink",
+        "sha256": "b781cc08b91bd32d15c8c4251355b37990d3da21b4d9769dac465e9149e911aa",
+        "sha256_in_prefix": "b781cc08b91bd32d15c8c4251355b37990d3da21b4d9769dac465e9149e911aa",
+        "size_in_bytes": 3935
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/pytree_unwrapper_test.py",
+        "path_type": "hardlink",
+        "sha256": "1e2a2e2d4401a5ce6536597c30a6788624d3bc4c16c12838bbe9779ab469529d",
+        "sha256_in_prefix": "1e2a2e2d4401a5ce6536597c30a6788624d3bc4c16c12838bbe9779ab469529d",
+        "size_in_bytes": 9351
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/pytree_utils_test.py",
+        "path_type": "hardlink",
+        "sha256": "be18172da4b272c77bce14434e7b9a22b4829f5f51fb6540091b0a6a303e330a",
+        "sha256_in_prefix": "be18172da4b272c77bce14434e7b9a22b4829f5f51fb6540091b0a6a303e330a",
+        "size_in_bytes": 7973
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/pytree_visitor_test.py",
+        "path_type": "hardlink",
+        "sha256": "072ea0a47701675970eddc7f656d3c22f9ad8d16cc8f9d382fbb742ad986ebd1",
+        "sha256_in_prefix": "072ea0a47701675970eddc7f656d3c22f9ad8d16cc8f9d382fbb742ad986ebd1",
+        "size_in_bytes": 4083
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/reformatter_basic_test.py",
+        "path_type": "hardlink",
+        "sha256": "5bf85a9afd9077f9f269e83377545832fe48d8097c5a776a06d84bb8deb7687c",
+        "sha256_in_prefix": "5bf85a9afd9077f9f269e83377545832fe48d8097c5a776a06d84bb8deb7687c",
+        "size_in_bytes": 114305
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/reformatter_buganizer_test.py",
+        "path_type": "hardlink",
+        "sha256": "2470f2e840e2c6fa1bb611266b91bb8b9c0d30b04d3138356ee92eb840a5b846",
+        "sha256_in_prefix": "2470f2e840e2c6fa1bb611266b91bb8b9c0d30b04d3138356ee92eb840a5b846",
+        "size_in_bytes": 92309
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/reformatter_facebook_test.py",
+        "path_type": "hardlink",
+        "sha256": "928c533e4b180556e1c31cd6c2fab3d3faaf860dea623bbeb5c7d5690490f435",
+        "sha256_in_prefix": "928c533e4b180556e1c31cd6c2fab3d3faaf860dea623bbeb5c7d5690490f435",
+        "size_in_bytes": 15193
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/reformatter_pep8_test.py",
+        "path_type": "hardlink",
+        "sha256": "7b29d565583e448dc37b5e8ec0b81c054e900a6b1986ac6fcf48bcaf4dcc0b21",
+        "sha256_in_prefix": "7b29d565583e448dc37b5e8ec0b81c054e900a6b1986ac6fcf48bcaf4dcc0b21",
+        "size_in_bytes": 32060
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/reformatter_python3_test.py",
+        "path_type": "hardlink",
+        "sha256": "dc393d3e302258fb656a06db217ddb2ef8607e7ae09af71f4a45be05217b6929",
+        "sha256_in_prefix": "dc393d3e302258fb656a06db217ddb2ef8607e7ae09af71f4a45be05217b6929",
+        "size_in_bytes": 18512
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/reformatter_style_config_test.py",
+        "path_type": "hardlink",
+        "sha256": "764b20e27e8e4adeff2d790dfe34f2786d22fcac8e46e4b62ec680fb93d4964f",
+        "sha256_in_prefix": "764b20e27e8e4adeff2d790dfe34f2786d22fcac8e46e4b62ec680fb93d4964f",
+        "size_in_bytes": 7171
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/split_penalty_test.py",
+        "path_type": "hardlink",
+        "sha256": "ccde0015e5b49c4285e2974e5726f9cbb69cc273625a8254da833d5e10a9d3a7",
+        "sha256_in_prefix": "ccde0015e5b49c4285e2974e5726f9cbb69cc273625a8254da833d5e10a9d3a7",
+        "size_in_bytes": 7551
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/style_test.py",
+        "path_type": "hardlink",
+        "sha256": "dbb70384bd4ecd74e1a4265860f2e42f7ca2e4896c5de454e6f51c36da0f4d4c",
+        "sha256_in_prefix": "dbb70384bd4ecd74e1a4265860f2e42f7ca2e4896c5de454e6f51c36da0f4d4c",
+        "size_in_bytes": 11563
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/subtype_assigner_test.py",
+        "path_type": "hardlink",
+        "sha256": "727187718c529a9b040f88ccd873d715195cb88ee7e99c6f6b4f6cf9d8c65995",
+        "sha256_in_prefix": "727187718c529a9b040f88ccd873d715195cb88ee7e99c6f6b4f6cf9d8c65995",
+        "size_in_bytes": 17149
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/utils.py",
+        "path_type": "hardlink",
+        "sha256": "4ac804c2a32c835cd3d1bb2728f54f21d52e4f381db56599ca878d3a496674a8",
+        "sha256_in_prefix": "4ac804c2a32c835cd3d1bb2728f54f21d52e4f381db56599ca878d3a496674a8",
+        "size_in_bytes": 2567
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/yapf_test.py",
+        "path_type": "hardlink",
+        "sha256": "1c9fc6ef06a0a7964799cc47b0542a3236f5db4293cd2ac70ff1b44e6a6ec79d",
+        "sha256_in_prefix": "1c9fc6ef06a0a7964799cc47b0542a3236f5db4293cd2ac70ff1b44e6a6ec79d",
+        "size_in_bytes": 63313
+      },
+      {
+        "_path": "lib/python3.11/site-packages/yapftests/yapf_test_helper.py",
+        "path_type": "hardlink",
+        "sha256": "f9e65e0bbb7815857b126a2e44df8042fbc29f9fdd21c8ce60e2daf877691546",
+        "sha256_in_prefix": "f9e65e0bbb7815857b126a2e44df8042fbc29f9fdd21c8ce60e2daf877691546",
+        "size_in_bytes": 2910
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "451e7425500af10c2daa196a8ee10287f9b895759c59a9321f6e31061ac7e6ec",
+  "size": 484880,
+  "subdir": "osx-arm64",
+  "timestamp": 1708964480005,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/yapf-0.40.2-py311hca03da5_0.conda",
+  "version": "0.40.2"
+}

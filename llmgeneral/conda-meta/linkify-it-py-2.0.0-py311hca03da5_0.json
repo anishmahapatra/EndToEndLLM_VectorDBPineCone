@@ -1,0 +1,166 @@
+{
+  "build": "py311hca03da5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "python >=3.11,<3.12.0a0",
+    "uc-micro-py >=1.0.1,<2.0.0"
+  ],
+  "extracted_package_dir": "/Users/anishmahapatra/anaconda3/pkgs/linkify-it-py-2.0.0-py311hca03da5_0",
+  "features": "",
+  "files": [
+    "lib/python3.11/site-packages/linkify_it/__init__.py",
+    "lib/python3.11/site-packages/linkify_it/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/linkify_it/__pycache__/main.cpython-311.pyc",
+    "lib/python3.11/site-packages/linkify_it/__pycache__/tlds.cpython-311.pyc",
+    "lib/python3.11/site-packages/linkify_it/__pycache__/ucre.cpython-311.pyc",
+    "lib/python3.11/site-packages/linkify_it/main.py",
+    "lib/python3.11/site-packages/linkify_it/tlds.py",
+    "lib/python3.11/site-packages/linkify_it/ucre.py",
+    "lib/python3.11/site-packages/linkify_it_py-2.0.0.dist-info/INSTALLER",
+    "lib/python3.11/site-packages/linkify_it_py-2.0.0.dist-info/LICENSE",
+    "lib/python3.11/site-packages/linkify_it_py-2.0.0.dist-info/METADATA",
+    "lib/python3.11/site-packages/linkify_it_py-2.0.0.dist-info/RECORD",
+    "lib/python3.11/site-packages/linkify_it_py-2.0.0.dist-info/REQUESTED",
+    "lib/python3.11/site-packages/linkify_it_py-2.0.0.dist-info/WHEEL",
+    "lib/python3.11/site-packages/linkify_it_py-2.0.0.dist-info/direct_url.json",
+    "lib/python3.11/site-packages/linkify_it_py-2.0.0.dist-info/top_level.txt"
+  ],
+  "fn": "linkify-it-py-2.0.0-py311hca03da5_0.conda",
+  "legacy_bz2_md5": "8d312c5628dc7ea833e9b4dcb73e9c45",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/Users/anishmahapatra/anaconda3/pkgs/linkify-it-py-2.0.0-py311hca03da5_0",
+    "type": 1
+  },
+  "md5": "8d69c8b4fcf5d6ab939d3496c406e5a8",
+  "name": "linkify-it-py",
+  "package_tarball_full_path": "/Users/anishmahapatra/anaconda3/pkgs/linkify-it-py-2.0.0-py311hca03da5_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.11/site-packages/linkify_it/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "6415232dcaec1727b6e8879f7cccaaaacdc3f40be3d4a0bc426ce0179e0592df",
+        "sha256_in_prefix": "6415232dcaec1727b6e8879f7cccaaaacdc3f40be3d4a0bc426ce0179e0592df",
+        "size_in_bytes": 111
+      },
+      {
+        "_path": "lib/python3.11/site-packages/linkify_it/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "c4f42afa9ae5a9ad2ab485449b70ca19399c3515aef1286e83582ed3eb60c1eb",
+        "sha256_in_prefix": "c4f42afa9ae5a9ad2ab485449b70ca19399c3515aef1286e83582ed3eb60c1eb",
+        "size_in_bytes": 289
+      },
+      {
+        "_path": "lib/python3.11/site-packages/linkify_it/__pycache__/main.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "7b54fde4940d831d7d854f1c1ebf13e6b694d4a56ff795c03ffa49a3315cc621",
+        "sha256_in_prefix": "7b54fde4940d831d7d854f1c1ebf13e6b694d4a56ff795c03ffa49a3315cc621",
+        "size_in_bytes": 28492
+      },
+      {
+        "_path": "lib/python3.11/site-packages/linkify_it/__pycache__/tlds.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "fc51e84b8faa9b4f1b9fa8da07b6e18d4c0546541b83b4a04dc2a986370b3f1c",
+        "sha256_in_prefix": "fc51e84b8faa9b4f1b9fa8da07b6e18d4c0546541b83b4a04dc2a986370b3f1c",
+        "size_in_bytes": 11936
+      },
+      {
+        "_path": "lib/python3.11/site-packages/linkify_it/__pycache__/ucre.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "e3297befd1db393d828d90bcddf9f02fd1f74758c67f923207c4c210e4ca57cf",
+        "sha256_in_prefix": "e3297befd1db393d828d90bcddf9f02fd1f74758c67f923207c4c210e4ca57cf",
+        "size_in_bytes": 6389
+      },
+      {
+        "_path": "lib/python3.11/site-packages/linkify_it/main.py",
+        "path_type": "hardlink",
+        "sha256": "533d739d958dc986004593190a8d96a299069b86e10861a69407d0f3fabd85f4",
+        "sha256_in_prefix": "533d739d958dc986004593190a8d96a299069b86e10861a69407d0f3fabd85f4",
+        "size_in_bytes": 21327
+      },
+      {
+        "_path": "lib/python3.11/site-packages/linkify_it/tlds.py",
+        "path_type": "hardlink",
+        "sha256": "a8c8871a5ad71ce43ca3f3cb228f753dd96fa8493551146aeef069cb69beade4",
+        "sha256_in_prefix": "a8c8871a5ad71ce43ca3f3cb228f753dd96fa8493551146aeef069cb69beade4",
+        "size_in_bytes": 20791
+      },
+      {
+        "_path": "lib/python3.11/site-packages/linkify_it/ucre.py",
+        "path_type": "hardlink",
+        "sha256": "5247bb26b9aec28ff2587271d3ea76a946bffb2bdd42e83dcbda9630e2bbf2fd",
+        "sha256_in_prefix": "5247bb26b9aec28ff2587271d3ea76a946bffb2bdd42e83dcbda9630e2bbf2fd",
+        "size_in_bytes": 7103
+      },
+      {
+        "_path": "lib/python3.11/site-packages/linkify_it_py-2.0.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.11/site-packages/linkify_it_py-2.0.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "db5d71f61f0f781f5078df4b6a00d5d3c799fb0bb82bcf448a688e9762618a2e",
+        "sha256_in_prefix": "db5d71f61f0f781f5078df4b6a00d5d3c799fb0bb82bcf448a688e9762618a2e",
+        "size_in_bytes": 2234
+      },
+      {
+        "_path": "lib/python3.11/site-packages/linkify_it_py-2.0.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "2522eed968f9057c9c762338c5b5864d28a81a3fafa421257295a9f6c58ad422",
+        "sha256_in_prefix": "2522eed968f9057c9c762338c5b5864d28a81a3fafa421257295a9f6c58ad422",
+        "size_in_bytes": 8128
+      },
+      {
+        "_path": "lib/python3.11/site-packages/linkify_it_py-2.0.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "4f990db455efc6f89b93bf51f25019e39e3aabb8942d7bf474628a1d2bc3abab",
+        "sha256_in_prefix": "4f990db455efc6f89b93bf51f25019e39e3aabb8942d7bf474628a1d2bc3abab",
+        "size_in_bytes": 1212
+      },
+      {
+        "_path": "lib/python3.11/site-packages/linkify_it_py-2.0.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.11/site-packages/linkify_it_py-2.0.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "db07a93359e4e034b8785a58ad6d534ea3dca0635f1e184efe2e66e1c3a299ba",
+        "sha256_in_prefix": "db07a93359e4e034b8785a58ad6d534ea3dca0635f1e184efe2e66e1c3a299ba",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "lib/python3.11/site-packages/linkify_it_py-2.0.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "e5d8c0cf434e9c76ea0ef194a66c06bc111545a7260ba87f80d2696ea1659e3a",
+        "sha256_in_prefix": "e5d8c0cf434e9c76ea0ef194a66c06bc111545a7260ba87f80d2696ea1659e3a",
+        "size_in_bytes": 105
+      },
+      {
+        "_path": "lib/python3.11/site-packages/linkify_it_py-2.0.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "197d9c7f163e481092769eabbc6d584a7238490ad3c53f2dcd414716f7e2336b",
+        "sha256_in_prefix": "197d9c7f163e481092769eabbc6d584a7238490ad3c53f2dcd414716f7e2336b",
+        "size_in_bytes": 11
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "ddc3fee65dc9969913bc4f220094d8ddf014f280b94568fbe30ab01760553dc8",
+  "size": 41395,
+  "subdir": "osx-arm64",
+  "timestamp": 1677973051421,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/linkify-it-py-2.0.0-py311hca03da5_0.conda",
+  "version": "2.0.0"
+}

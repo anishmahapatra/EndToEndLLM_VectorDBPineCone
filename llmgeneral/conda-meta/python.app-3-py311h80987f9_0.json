@@ -1,0 +1,128 @@
+{
+  "build": "py311h80987f9_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "python >=3.11,<3.12.0a0"
+  ],
+  "extracted_package_dir": "/Users/anishmahapatra/anaconda3/pkgs/python.app-3-py311h80987f9_0",
+  "features": "",
+  "files": [
+    "bin/.python.app-post-link.sh",
+    "bin/.python.app-pre-unlink.sh",
+    "bin/python.app",
+    "bin/pythonw",
+    "pythonapp/Contents/Info.plist",
+    "pythonapp/Contents/MacOS/python",
+    "pythonapp/Contents/PkgInfo",
+    "pythonapp/Contents/Resources/empty.lproj",
+    "pythonapp/Contents/Resources/qt_menu.nib/classes.nib",
+    "pythonapp/Contents/Resources/qt_menu.nib/info.nib",
+    "pythonapp/Contents/Resources/qt_menu.nib/keyedobjects.nib"
+  ],
+  "fn": "python.app-3-py311h80987f9_0.conda",
+  "legacy_bz2_md5": "3d21e70097201b3a2a82aa2e83f9a425",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Users/anishmahapatra/anaconda3/pkgs/python.app-3-py311h80987f9_0",
+    "type": 1
+  },
+  "md5": "b58c90700e69bfb964fae20003f01b52",
+  "name": "python.app",
+  "package_tarball_full_path": "/Users/anishmahapatra/anaconda3/pkgs/python.app-3-py311h80987f9_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/.python.app-post-link.sh",
+        "path_type": "hardlink",
+        "sha256": "84a67fd98843473c91fc6c86c264376ff1ce6da4bce7f15dc50681b22a13f9d6",
+        "sha256_in_prefix": "84a67fd98843473c91fc6c86c264376ff1ce6da4bce7f15dc50681b22a13f9d6",
+        "size_in_bytes": 139
+      },
+      {
+        "_path": "bin/.python.app-pre-unlink.sh",
+        "path_type": "hardlink",
+        "sha256": "af02758a7a0e05e1db94ae9ded6d59ca3188bf18caa923d50739c392c035462f",
+        "sha256_in_prefix": "af02758a7a0e05e1db94ae9ded6d59ca3188bf18caa923d50739c392c035462f",
+        "size_in_bytes": 38
+      },
+      {
+        "_path": "bin/python.app",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/cbousseau/work/recipes/ci_py311/python.app_1677954220388/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+        "sha256": "9d2caafa52e58bfc7173e6482573c348f3ffc1a09992315d1523d5e1b3081abe",
+        "sha256_in_prefix": "d86b0c72b54c209c47b08c13f8b14efde2e362420c5bd50d36cb924de86b1c7c",
+        "size_in_bytes": 597
+      },
+      {
+        "_path": "bin/pythonw",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/cbousseau/work/recipes/ci_py311/python.app_1677954220388/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+        "sha256": "9d2caafa52e58bfc7173e6482573c348f3ffc1a09992315d1523d5e1b3081abe",
+        "sha256_in_prefix": "d86b0c72b54c209c47b08c13f8b14efde2e362420c5bd50d36cb924de86b1c7c",
+        "size_in_bytes": 597
+      },
+      {
+        "_path": "pythonapp/Contents/Info.plist",
+        "path_type": "hardlink",
+        "sha256": "985abc266f6e0b016272ebdc19a242f6f0f738bc571853a5b06c914b5a15c967",
+        "sha256_in_prefix": "985abc266f6e0b016272ebdc19a242f6f0f738bc571853a5b06c914b5a15c967",
+        "size_in_bytes": 750
+      },
+      {
+        "_path": "pythonapp/Contents/MacOS/python",
+        "path_type": "softlink",
+        "sha256": "a45273871a6d9a3a448606484ea5bd7633550fc087d190713dd2558bcb9f7426",
+        "size_in_bytes": 5991328
+      },
+      {
+        "_path": "pythonapp/Contents/PkgInfo",
+        "path_type": "hardlink",
+        "sha256": "7e50a30efad50208a173203ced60818d693bb61266b75aa10927d1a2adce80cb",
+        "sha256_in_prefix": "7e50a30efad50208a173203ced60818d693bb61266b75aa10927d1a2adce80cb",
+        "size_in_bytes": 9
+      },
+      {
+        "_path": "pythonapp/Contents/Resources/empty.lproj",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "pythonapp/Contents/Resources/qt_menu.nib/classes.nib",
+        "path_type": "hardlink",
+        "sha256": "6325392a064a875eaafd12468929b49c1c666a318d2d424e360c47100a553184",
+        "sha256_in_prefix": "6325392a064a875eaafd12468929b49c1c666a318d2d424e360c47100a553184",
+        "size_in_bytes": 1451
+      },
+      {
+        "_path": "pythonapp/Contents/Resources/qt_menu.nib/info.nib",
+        "path_type": "hardlink",
+        "sha256": "485ca0b6f016d9cb124a2062ca8cf48c11bba5771f09f2d953de7762215a7ad8",
+        "sha256_in_prefix": "485ca0b6f016d9cb124a2062ca8cf48c11bba5771f09f2d953de7762215a7ad8",
+        "size_in_bytes": 472
+      },
+      {
+        "_path": "pythonapp/Contents/Resources/qt_menu.nib/keyedobjects.nib",
+        "path_type": "hardlink",
+        "sha256": "d20f36026f673d87732583c7eb477ccae31c7ed453bd64c771c553e0993a2f8b",
+        "sha256_in_prefix": "d20f36026f673d87732583c7eb477ccae31c7ed453bd64c771c553e0993a2f8b",
+        "size_in_bytes": 5560
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "88ebcefe8dd556deb5e4006a8eb839c783ea44b91cb7cd059208cef09f5cf3e4",
+  "size": 18658,
+  "subdir": "osx-arm64",
+  "timestamp": 1677954233833,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/python.app-3-py311h80987f9_0.conda",
+  "version": "3"
+}

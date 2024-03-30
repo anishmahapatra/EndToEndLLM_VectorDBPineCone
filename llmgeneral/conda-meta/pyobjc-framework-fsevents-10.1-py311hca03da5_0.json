@@ -1,0 +1,143 @@
+{
+  "build": "py311hca03da5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "pyobjc-core >=10.1",
+    "pyobjc-framework-cocoa >=10.1",
+    "python >=3.11,<3.12.0a0"
+  ],
+  "extracted_package_dir": "/Users/anishmahapatra/anaconda3/pkgs/pyobjc-framework-fsevents-10.1-py311hca03da5_0",
+  "features": "",
+  "files": [
+    "lib/python3.11/site-packages/FSEvents/__init__.py",
+    "lib/python3.11/site-packages/FSEvents/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/FSEvents/__pycache__/_metadata.cpython-311.pyc",
+    "lib/python3.11/site-packages/FSEvents/_callbacks.abi3.so",
+    "lib/python3.11/site-packages/FSEvents/_metadata.py",
+    "lib/python3.11/site-packages/pyobjc_framework_FSEvents-10.1.dist-info/INSTALLER",
+    "lib/python3.11/site-packages/pyobjc_framework_FSEvents-10.1.dist-info/LICENSE.txt",
+    "lib/python3.11/site-packages/pyobjc_framework_FSEvents-10.1.dist-info/METADATA",
+    "lib/python3.11/site-packages/pyobjc_framework_FSEvents-10.1.dist-info/RECORD",
+    "lib/python3.11/site-packages/pyobjc_framework_FSEvents-10.1.dist-info/REQUESTED",
+    "lib/python3.11/site-packages/pyobjc_framework_FSEvents-10.1.dist-info/WHEEL",
+    "lib/python3.11/site-packages/pyobjc_framework_FSEvents-10.1.dist-info/direct_url.json",
+    "lib/python3.11/site-packages/pyobjc_framework_FSEvents-10.1.dist-info/top_level.txt"
+  ],
+  "fn": "pyobjc-framework-fsevents-10.1-py311hca03da5_0.conda",
+  "legacy_bz2_md5": "77f722b0784fcb29f48e23f1b19ae6cc",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/Users/anishmahapatra/anaconda3/pkgs/pyobjc-framework-fsevents-10.1-py311hca03da5_0",
+    "type": 1
+  },
+  "md5": "f3da61b0356e40fba75beea39a23d04f",
+  "name": "pyobjc-framework-fsevents",
+  "package_tarball_full_path": "/Users/anishmahapatra/anaconda3/pkgs/pyobjc-framework-fsevents-10.1-py311hca03da5_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.11/site-packages/FSEvents/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "1186f0df7669c872ba8c27a299b3894b96ad09d202705c0b853bf69c897df917",
+        "sha256_in_prefix": "1186f0df7669c872ba8c27a299b3894b96ad09d202705c0b853bf69c897df917",
+        "size_in_bytes": 901
+      },
+      {
+        "_path": "lib/python3.11/site-packages/FSEvents/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "2265d70376b4872152e48026b33983e552b6aad9a805b1eaaa0cc12e12b37763",
+        "sha256_in_prefix": "2265d70376b4872152e48026b33983e552b6aad9a805b1eaaa0cc12e12b37763",
+        "size_in_bytes": 1465
+      },
+      {
+        "_path": "lib/python3.11/site-packages/FSEvents/__pycache__/_metadata.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "ecb5e2c4a49da89e353b0ecf65efdd105b32db328ecd845136ed5e013bf7d53b",
+        "sha256_in_prefix": "ecb5e2c4a49da89e353b0ecf65efdd105b32db328ecd845136ed5e013bf7d53b",
+        "size_in_bytes": 5555
+      },
+      {
+        "_path": "lib/python3.11/site-packages/FSEvents/_callbacks.abi3.so",
+        "path_type": "hardlink",
+        "sha256": "868b93babe12e1bf0c17cdcfd0f661b7fa055d06562b206dcf715e76e89f7ea9",
+        "sha256_in_prefix": "868b93babe12e1bf0c17cdcfd0f661b7fa055d06562b206dcf715e76e89f7ea9",
+        "size_in_bytes": 52736
+      },
+      {
+        "_path": "lib/python3.11/site-packages/FSEvents/_metadata.py",
+        "path_type": "hardlink",
+        "sha256": "6c96880dfc53463435548feeb789be0017aaff2719738cee9799f43969c9e8da",
+        "sha256_in_prefix": "6c96880dfc53463435548feeb789be0017aaff2719738cee9799f43969c9e8da",
+        "size_in_bytes": 5669
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pyobjc_framework_FSEvents-10.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pyobjc_framework_FSEvents-10.1.dist-info/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "560f638e5a2862bef3c093c45385c96e09402f69eb03c0ff14626326ac9c5c9b",
+        "sha256_in_prefix": "560f638e5a2862bef3c093c45385c96e09402f69eb03c0ff14626326ac9c5c9b",
+        "size_in_bytes": 1249
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pyobjc_framework_FSEvents-10.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "be450c8c414bedded0f74c4758b965fa0810b691d3496b3b8636c0b230ee3232",
+        "sha256_in_prefix": "be450c8c414bedded0f74c4758b965fa0810b691d3496b3b8636c0b230ee3232",
+        "size_in_bytes": 2393
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pyobjc_framework_FSEvents-10.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "4be414e42f52ce18bb5035e5640a55e043a5bba908b2ab954a5ba5b2f926c37e",
+        "sha256_in_prefix": "4be414e42f52ce18bb5035e5640a55e043a5bba908b2ab954a5ba5b2f926c37e",
+        "size_in_bytes": 1144
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pyobjc_framework_FSEvents-10.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pyobjc_framework_FSEvents-10.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "ac6faf1ef7e111ebedcff3a0a63b52f7dd024267bc8011fe1c161d40bba82d94",
+        "sha256_in_prefix": "ac6faf1ef7e111ebedcff3a0a63b52f7dd024267bc8011fe1c161d40bba82d94",
+        "size_in_bytes": 108
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pyobjc_framework_FSEvents-10.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "9aef3c6b9dff20999c8fdc653c14cecfb753ae024b64eca71e16233e1c088564",
+        "sha256_in_prefix": "9aef3c6b9dff20999c8fdc653c14cecfb753ae024b64eca71e16233e1c088564",
+        "size_in_bytes": 156
+      },
+      {
+        "_path": "lib/python3.11/site-packages/pyobjc_framework_FSEvents-10.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "f478df7c37ed12560b5d01f318a0f950a930da808cf6c0d8fbb90e0472344b33",
+        "sha256_in_prefix": "f478df7c37ed12560b5d01f318a0f950a930da808cf6c0d8fbb90e0472344b33",
+        "size_in_bytes": 9
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "402caf71ee74914f694afc8583ccb5a6f2c9878e6af12daba8c903a4e3be6f7e",
+  "size": 16899,
+  "subdir": "osx-arm64",
+  "timestamp": 1710193298924,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/pyobjc-framework-fsevents-10.1-py311hca03da5_0.conda",
+  "version": "10.1"
+}

@@ -1,0 +1,428 @@
+{
+  "build": "py311h80987f9_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "python >=3.11,<3.12.0a0"
+  ],
+  "extracted_package_dir": "/Users/anishmahapatra/anaconda3/pkgs/appscript-1.1.2-py311h80987f9_0",
+  "features": "",
+  "files": [
+    "lib/python3.11/site-packages/aeosa.pth",
+    "lib/python3.11/site-packages/aeosa/__pycache__/mactypes.cpython-311.pyc",
+    "lib/python3.11/site-packages/aeosa/__pycache__/osax.cpython-311.pyc",
+    "lib/python3.11/site-packages/aeosa/aem/__init__.py",
+    "lib/python3.11/site-packages/aeosa/aem/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/aeosa/aem/__pycache__/aemcodecs.cpython-311.pyc",
+    "lib/python3.11/site-packages/aeosa/aem/__pycache__/aemconnect.cpython-311.pyc",
+    "lib/python3.11/site-packages/aeosa/aem/__pycache__/aemreference.cpython-311.pyc",
+    "lib/python3.11/site-packages/aeosa/aem/__pycache__/aemsend.cpython-311.pyc",
+    "lib/python3.11/site-packages/aeosa/aem/__pycache__/findapp.cpython-311.pyc",
+    "lib/python3.11/site-packages/aeosa/aem/__pycache__/kae.cpython-311.pyc",
+    "lib/python3.11/site-packages/aeosa/aem/__pycache__/mactypes.cpython-311.pyc",
+    "lib/python3.11/site-packages/aeosa/aem/__pycache__/typewrappers.cpython-311.pyc",
+    "lib/python3.11/site-packages/aeosa/aem/ae.cpython-311-darwin.so",
+    "lib/python3.11/site-packages/aeosa/aem/aemcodecs.py",
+    "lib/python3.11/site-packages/aeosa/aem/aemconnect.py",
+    "lib/python3.11/site-packages/aeosa/aem/aemreference.py",
+    "lib/python3.11/site-packages/aeosa/aem/aemsend.py",
+    "lib/python3.11/site-packages/aeosa/aem/findapp.py",
+    "lib/python3.11/site-packages/aeosa/aem/kae.py",
+    "lib/python3.11/site-packages/aeosa/aem/mactypes.py",
+    "lib/python3.11/site-packages/aeosa/aem/typewrappers.py",
+    "lib/python3.11/site-packages/aeosa/appscript/__init__.py",
+    "lib/python3.11/site-packages/aeosa/appscript/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/aeosa/appscript/__pycache__/defaultterminology.cpython-311.pyc",
+    "lib/python3.11/site-packages/aeosa/appscript/__pycache__/genericreference.cpython-311.pyc",
+    "lib/python3.11/site-packages/aeosa/appscript/__pycache__/keywordwrapper.cpython-311.pyc",
+    "lib/python3.11/site-packages/aeosa/appscript/__pycache__/reference.cpython-311.pyc",
+    "lib/python3.11/site-packages/aeosa/appscript/__pycache__/referencerenderer.cpython-311.pyc",
+    "lib/python3.11/site-packages/aeosa/appscript/__pycache__/reservedkeywords.cpython-311.pyc",
+    "lib/python3.11/site-packages/aeosa/appscript/__pycache__/terminology.cpython-311.pyc",
+    "lib/python3.11/site-packages/aeosa/appscript/__pycache__/terminologyparser.cpython-311.pyc",
+    "lib/python3.11/site-packages/aeosa/appscript/defaultterminology.py",
+    "lib/python3.11/site-packages/aeosa/appscript/genericreference.py",
+    "lib/python3.11/site-packages/aeosa/appscript/keywordwrapper.py",
+    "lib/python3.11/site-packages/aeosa/appscript/reference.py",
+    "lib/python3.11/site-packages/aeosa/appscript/referencerenderer.py",
+    "lib/python3.11/site-packages/aeosa/appscript/reservedkeywords.py",
+    "lib/python3.11/site-packages/aeosa/appscript/terminology.py",
+    "lib/python3.11/site-packages/aeosa/appscript/terminologyparser.py",
+    "lib/python3.11/site-packages/aeosa/mactypes.py",
+    "lib/python3.11/site-packages/aeosa/osax.py",
+    "lib/python3.11/site-packages/appscript-1.1.2.dist-info/INSTALLER",
+    "lib/python3.11/site-packages/appscript-1.1.2.dist-info/METADATA",
+    "lib/python3.11/site-packages/appscript-1.1.2.dist-info/RECORD",
+    "lib/python3.11/site-packages/appscript-1.1.2.dist-info/REQUESTED",
+    "lib/python3.11/site-packages/appscript-1.1.2.dist-info/WHEEL",
+    "lib/python3.11/site-packages/appscript-1.1.2.dist-info/direct_url.json",
+    "lib/python3.11/site-packages/appscript-1.1.2.dist-info/top_level.txt"
+  ],
+  "fn": "appscript-1.1.2-py311h80987f9_0.conda",
+  "legacy_bz2_md5": "b7385d2d16ce6ac331fd696f34934f9c",
+  "license": "Public Domain",
+  "link": {
+    "source": "/Users/anishmahapatra/anaconda3/pkgs/appscript-1.1.2-py311h80987f9_0",
+    "type": 1
+  },
+  "md5": "c253c67b898e12ed980bb847d3344550",
+  "name": "appscript",
+  "package_tarball_full_path": "/Users/anishmahapatra/anaconda3/pkgs/appscript-1.1.2-py311h80987f9_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.11/site-packages/aeosa.pth",
+        "path_type": "hardlink",
+        "sha256": "317d2204621b255f2d9b0557dccad73a86c7ef0e8b2c0ca98197cec2785badd1",
+        "sha256_in_prefix": "317d2204621b255f2d9b0557dccad73a86c7ef0e8b2c0ca98197cec2785badd1",
+        "size_in_bytes": 6
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/__pycache__/mactypes.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "e7b67609028cb9c1098aec6972b00c244e2735b8563aa929241cb399eae33cc8",
+        "sha256_in_prefix": "e7b67609028cb9c1098aec6972b00c244e2735b8563aa929241cb399eae33cc8",
+        "size_in_bytes": 192
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/__pycache__/osax.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "205a9959bd35928988f304f60f2953fddff358089b0747cfa719541f3971a208",
+        "sha256_in_prefix": "205a9959bd35928988f304f60f2953fddff358089b0747cfa719541f3971a208",
+        "size_in_bytes": 16205
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/aem/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "b6543b9ae2bd526e07b30fe2df120a0a2af784fc7e8a08566cc082c13310d705",
+        "sha256_in_prefix": "b6543b9ae2bd526e07b30fe2df120a0a2af784fc7e8a08566cc082c13310d705",
+        "size_in_bytes": 8934
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/aem/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "fa4bb573bbc6b295fe294d331796ff4552f156b32ef72529a891bd3a4113bdd8",
+        "sha256_in_prefix": "fa4bb573bbc6b295fe294d331796ff4552f156b32ef72529a891bd3a4113bdd8",
+        "size_in_bytes": 11709
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/aem/__pycache__/aemcodecs.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "621328ce4f0ed0b804c5fee3f1cca6385bdfaadbd3ec683d55398eb1024c023e",
+        "sha256_in_prefix": "621328ce4f0ed0b804c5fee3f1cca6385bdfaadbd3ec683d55398eb1024c023e",
+        "size_in_bytes": 42155
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/aem/__pycache__/aemconnect.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "26d5a6dad5586e512399b95c08db3822371c3270827f1ff139053a2f2fc411ae",
+        "sha256_in_prefix": "26d5a6dad5586e512399b95c08db3822371c3270827f1ff139053a2f2fc411ae",
+        "size_in_bytes": 10637
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/aem/__pycache__/aemreference.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "a5f8c66d758c1f50c81c71f08043600c214ddf04ea1e772911199c8e86fd1595",
+        "sha256_in_prefix": "a5f8c66d758c1f50c81c71f08043600c214ddf04ea1e772911199c8e86fd1595",
+        "size_in_bytes": 48685
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/aem/__pycache__/aemsend.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "77a1e4bc538fd0b889297cd5a095e9e7c75fa0320bb046e633d77d32e81760a6",
+        "sha256_in_prefix": "77a1e4bc538fd0b889297cd5a095e9e7c75fa0320bb046e633d77d32e81760a6",
+        "size_in_bytes": 17438
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/aem/__pycache__/findapp.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "929e46b46f57ec776f8a0a63858fb29d1e0b759cf5a4761f652b7ec7dae68a44",
+        "sha256_in_prefix": "929e46b46f57ec776f8a0a63858fb29d1e0b759cf5a4761f652b7ec7dae68a44",
+        "size_in_bytes": 3561
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/aem/__pycache__/kae.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "b960e74290f2281cf880c000f6db406eae3b0fe06d9f678bfa317936a93535ff",
+        "sha256_in_prefix": "b960e74290f2281cf880c000f6db406eae3b0fe06d9f678bfa317936a93535ff",
+        "size_in_bytes": 52022
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/aem/__pycache__/mactypes.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "bee4eee1dac933d4161cfff20c2955c382117670969adc3bd17d92851ed53e8c",
+        "sha256_in_prefix": "bee4eee1dac933d4161cfff20c2955c382117670969adc3bd17d92851ed53e8c",
+        "size_in_bytes": 14195
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/aem/__pycache__/typewrappers.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "965044ff9b7314dfc836bdcdf16d73bf9aa189ed9981ceec3daf1b51f2c9e56a",
+        "sha256_in_prefix": "965044ff9b7314dfc836bdcdf16d73bf9aa189ed9981ceec3daf1b51f2c9e56a",
+        "size_in_bytes": 3028
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/aem/ae.cpython-311-darwin.so",
+        "path_type": "hardlink",
+        "sha256": "84c81f3b7e356c9d45c0e33c78b45e904d9136f2b7bbf82ea53bd2b608b4f01d",
+        "sha256_in_prefix": "84c81f3b7e356c9d45c0e33c78b45e904d9136f2b7bbf82ea53bd2b608b4f01d",
+        "size_in_bytes": 93600
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/aem/aemcodecs.py",
+        "path_type": "hardlink",
+        "sha256": "7484483e8395eb274776ca77cee263a051e6485b58d8189079edcd67e70846e9",
+        "sha256_in_prefix": "7484483e8395eb274776ca77cee263a051e6485b58d8189079edcd67e70846e9",
+        "size_in_bytes": 23234
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/aem/aemconnect.py",
+        "path_type": "hardlink",
+        "sha256": "2680e9140fa262a3895cdf54c60648b500e67459b1011ed5d4f67b731aa3d878",
+        "sha256_in_prefix": "2680e9140fa262a3895cdf54c60648b500e67459b1011ed5d4f67b731aa3d878",
+        "size_in_bytes": 8248
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/aem/aemreference.py",
+        "path_type": "hardlink",
+        "sha256": "37c32b7f2652232a3e2615d438d5ea885b1f49b0f3b70e771e9ae3c2c65b0952",
+        "sha256_in_prefix": "37c32b7f2652232a3e2615d438d5ea885b1f49b0f3b70e771e9ae3c2c65b0952",
+        "size_in_bytes": 26321
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/aem/aemsend.py",
+        "path_type": "hardlink",
+        "sha256": "e72b0361fdbec31385f8d94c40896ab8cc33347ab4b939993ad40cc72cb65588",
+        "sha256_in_prefix": "e72b0361fdbec31385f8d94c40896ab8cc33347ab4b939993ad40cc72cb65588",
+        "size_in_bytes": 13467
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/aem/findapp.py",
+        "path_type": "hardlink",
+        "sha256": "b61d3067ce1c49ee99c656f595e65fb26eb4437fdb067753738582c867f92dcf",
+        "sha256_in_prefix": "b61d3067ce1c49ee99c656f595e65fb26eb4437fdb067753738582c867f92dcf",
+        "size_in_bytes": 2139
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/aem/kae.py",
+        "path_type": "hardlink",
+        "sha256": "ad7bbeec80def1f35c441dee83e26911376a31b9593c21105954276d94e49273",
+        "sha256_in_prefix": "ad7bbeec80def1f35c441dee83e26911376a31b9593c21105954276d94e49273",
+        "size_in_bytes": 37901
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/aem/mactypes.py",
+        "path_type": "hardlink",
+        "sha256": "d6eae27f808c0c1931e883bf5a025f18184cb8f42d03ec83dc09580cba5c6281",
+        "sha256_in_prefix": "d6eae27f808c0c1931e883bf5a025f18184cb8f42d03ec83dc09580cba5c6281",
+        "size_in_bytes": 7173
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/aem/typewrappers.py",
+        "path_type": "hardlink",
+        "sha256": "cdffba6ff30208dba7cd92b8c86077c2d46ffd4fce3f89613774834dee8f1dbf",
+        "sha256_in_prefix": "cdffba6ff30208dba7cd92b8c86077c2d46ffd4fce3f89613774834dee8f1dbf",
+        "size_in_bytes": 1248
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/appscript/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "683b93d508982bad20018d2065c0916940a5d9baaad246f7c183fb037f1aef90",
+        "sha256_in_prefix": "683b93d508982bad20018d2065c0916940a5d9baaad246f7c183fb037f1aef90",
+        "size_in_bytes": 918
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/appscript/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "798dc0c903dcc18de2700d0334ec1ffc09f6474424a15e9813fdb3169df496d0",
+        "sha256_in_prefix": "798dc0c903dcc18de2700d0334ec1ffc09f6474424a15e9813fdb3169df496d0",
+        "size_in_bytes": 1022
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/appscript/__pycache__/defaultterminology.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "3b89492476c66033b365752180dbb887e87391e572fd27c29928dd1ea0e24958",
+        "sha256_in_prefix": "3b89492476c66033b365752180dbb887e87391e572fd27c29928dd1ea0e24958",
+        "size_in_bytes": 4257
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/appscript/__pycache__/genericreference.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "c70027f38cc2c86051e4d1c943a0c933997ccb35208028d1cb06d0868f57900c",
+        "sha256_in_prefix": "c70027f38cc2c86051e4d1c943a0c933997ccb35208028d1cb06d0868f57900c",
+        "size_in_bytes": 5408
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/appscript/__pycache__/keywordwrapper.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "068d85592a09a2abf096a49c9bfc49d26b481bf5a769b16265cdf501bc5ce009",
+        "sha256_in_prefix": "068d85592a09a2abf096a49c9bfc49d26b481bf5a769b16265cdf501bc5ce009",
+        "size_in_bytes": 2786
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/appscript/__pycache__/reference.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "3248a989dd06663f8df689deeac2627d245bcf56bc8e16005ab1567c09badbcd",
+        "sha256_in_prefix": "3248a989dd06663f8df689deeac2627d245bcf56bc8e16005ab1567c09badbcd",
+        "size_in_bytes": 55396
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/appscript/__pycache__/referencerenderer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "29e6b7fcd13082b930fddb3fcc1303fa138697d9252ed4216384da39d24ff2b7",
+        "sha256_in_prefix": "29e6b7fcd13082b930fddb3fcc1303fa138697d9252ed4216384da39d24ff2b7",
+        "size_in_bytes": 12492
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/appscript/__pycache__/reservedkeywords.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "1d9450aa49904d6d75edbf2041955be6c4927c0a0fba5f809ca249a5e5934fab",
+        "sha256_in_prefix": "1d9450aa49904d6d75edbf2041955be6c4927c0a0fba5f809ca249a5e5934fab",
+        "size_in_bytes": 700
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/appscript/__pycache__/terminology.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "39d7fd5d2a083687dcb1b69f0709f889478fa6d7513106544f50022e37036b98",
+        "sha256_in_prefix": "39d7fd5d2a083687dcb1b69f0709f889478fa6d7513106544f50022e37036b98",
+        "size_in_bytes": 9503
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/appscript/__pycache__/terminologyparser.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "7ce790854fd001b9bc66f34419e3c61bafd3f77e0a920218e91a904aa31bc965",
+        "sha256_in_prefix": "7ce790854fd001b9bc66f34419e3c61bafd3f77e0a920218e91a904aa31bc965",
+        "size_in_bytes": 12830
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/appscript/defaultterminology.py",
+        "path_type": "hardlink",
+        "sha256": "e9460ee0506a0ced572f5d539433231c2a4af7215c32a3d4f592c1fb6953e8bd",
+        "sha256_in_prefix": "e9460ee0506a0ced572f5d539433231c2a4af7215c32a3d4f592c1fb6953e8bd",
+        "size_in_bytes": 6394
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/appscript/genericreference.py",
+        "path_type": "hardlink",
+        "sha256": "41fd20022c454470cb582175e3ef004b11d10a9558a10dbaca53b8b667b58926",
+        "sha256_in_prefix": "41fd20022c454470cb582175e3ef004b11d10a9558a10dbaca53b8b667b58926",
+        "size_in_bytes": 2490
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/appscript/keywordwrapper.py",
+        "path_type": "hardlink",
+        "sha256": "e7854db949cbf9e762158e06c11f42ab51587516c867ce77c6189dc9e23dae93",
+        "sha256_in_prefix": "e7854db949cbf9e762158e06c11f42ab51587516c867ce77c6189dc9e23dae93",
+        "size_in_bytes": 1206
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/appscript/reference.py",
+        "path_type": "hardlink",
+        "sha256": "f2a56e07f4db89e909e8b35135d1a6183cfdf146055b66346348c51ea671a08e",
+        "sha256_in_prefix": "f2a56e07f4db89e909e8b35135d1a6183cfdf146055b66346348c51ea671a08e",
+        "size_in_bytes": 37750
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/appscript/referencerenderer.py",
+        "path_type": "hardlink",
+        "sha256": "b6f4c011f8c921280d4cdeee1350b2b359645066b975437e115aac8c66c7a3f6",
+        "sha256_in_prefix": "b6f4c011f8c921280d4cdeee1350b2b359645066b975437e115aac8c66c7a3f6",
+        "size_in_bytes": 5362
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/appscript/reservedkeywords.py",
+        "path_type": "hardlink",
+        "sha256": "0002a70a05210d4629abf0364687e7200021170cbf7f2a6af88bcea3c33fcbd3",
+        "sha256_in_prefix": "0002a70a05210d4629abf0364687e7200021170cbf7f2a6af88bcea3c33fcbd3",
+        "size_in_bytes": 814
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/appscript/terminology.py",
+        "path_type": "hardlink",
+        "sha256": "9345dc02c909f0350f744ce436ee53f779ee3110cbcaf1762de5c9dc4337fa6d",
+        "sha256_in_prefix": "9345dc02c909f0350f744ce436ee53f779ee3110cbcaf1762de5c9dc4337fa6d",
+        "size_in_bytes": 10649
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/appscript/terminologyparser.py",
+        "path_type": "hardlink",
+        "sha256": "334413d0470a98efb6d7a095ad7345c3400b6b3f0c00c1d3320ebadfbf448b04",
+        "sha256_in_prefix": "334413d0470a98efb6d7a095ad7345c3400b6b3f0c00c1d3320ebadfbf448b04",
+        "size_in_bytes": 8498
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/mactypes.py",
+        "path_type": "hardlink",
+        "sha256": "fc6507478d62b503e4bd1b7f1592525d4e37f7048047f92e9992b9d8b6f293df",
+        "sha256_in_prefix": "fc6507478d62b503e4bd1b7f1592525d4e37f7048047f92e9992b9d8b6f293df",
+        "size_in_bytes": 26
+      },
+      {
+        "_path": "lib/python3.11/site-packages/aeosa/osax.py",
+        "path_type": "hardlink",
+        "sha256": "9ea71a0ebf50c8315d57a10ca83463d3dc1a2a60533abb075361e69cd01ffe94",
+        "sha256_in_prefix": "9ea71a0ebf50c8315d57a10ca83463d3dc1a2a60533abb075361e69cd01ffe94",
+        "size_in_bytes": 9478
+      },
+      {
+        "_path": "lib/python3.11/site-packages/appscript-1.1.2.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.11/site-packages/appscript-1.1.2.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "8571463ffeee5b30bc14e21ae0160cb6cd62ad31eacac917da4db634e48d89c1",
+        "sha256_in_prefix": "8571463ffeee5b30bc14e21ae0160cb6cd62ad31eacac917da4db634e48d89c1",
+        "size_in_bytes": 437
+      },
+      {
+        "_path": "lib/python3.11/site-packages/appscript-1.1.2.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "8595b9eb5b574758f94d2aabf6c6e8c3f0f14db67d6da006177e9c893ca45603",
+        "sha256_in_prefix": "8595b9eb5b574758f94d2aabf6c6e8c3f0f14db67d6da006177e9c893ca45603",
+        "size_in_bytes": 3527
+      },
+      {
+        "_path": "lib/python3.11/site-packages/appscript-1.1.2.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.11/site-packages/appscript-1.1.2.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "57832039d2fc841d0c38d373c845e48ea83a7c24348be313f942088ace1fb8a5",
+        "sha256_in_prefix": "57832039d2fc841d0c38d373c845e48ea83a7c24348be313f942088ace1fb8a5",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "lib/python3.11/site-packages/appscript-1.1.2.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "89146a9bede7286fde47f2d5c94ae18f57019c448749f8d47a29769c07835582",
+        "sha256_in_prefix": "89146a9bede7286fde47f2d5c94ae18f57019c448749f8d47a29769c07835582",
+        "size_in_bytes": 101
+      },
+      {
+        "_path": "lib/python3.11/site-packages/appscript-1.1.2.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "7d624b3fd5460c9f5e48dd516d80081731b2ebb45b960a71cade30b94690c298",
+        "sha256_in_prefix": "7d624b3fd5460c9f5e48dd516d80081731b2ebb45b960a71cade30b94690c298",
+        "size_in_bytes": 28
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "5a3b19370d798ae1d5e2bbd53a423292b4f462fe24f8e136fca0ac3ceb307d5a",
+  "size": 165738,
+  "subdir": "osx-arm64",
+  "timestamp": 1677957000398,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/appscript-1.1.2-py311h80987f9_0.conda",
+  "version": "1.1.2"
+}

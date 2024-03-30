@@ -1,0 +1,10 @@
+includedir=/Users/anishmahapatra/Work/AI Projects/04 EndToEndLLM_VectorDBPinecone/llmgeneral/include
+libdir=/Users/anishmahapatra/Work/AI Projects/04 EndToEndLLM_VectorDBPinecone/llmgeneral/lib
+
+Name: aws-cpp-sdk-s3
+Description: 
+Version: 1.10.55
+Cflags: -I${includedir} -fno-exceptions -std=c++11
+Libs: -L${libdir} -laws-cpp-sdk-s3 
+Libs.private: 
+Requires:  aws-cpp-sdk-core

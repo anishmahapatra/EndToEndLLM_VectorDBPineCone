@@ -1,0 +1,263 @@
+{
+  "build": "py311hca03da5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "inflection >0.3.0,<1.0",
+    "python >=3.11,<3.12.0a0",
+    "tinycss2 >=1.1.0,<2.0"
+  ],
+  "extracted_package_dir": "/Users/anishmahapatra/anaconda3/pkgs/qstylizer-0.2.2-py311hca03da5_0",
+  "features": "",
+  "files": [
+    "lib/python3.11/site-packages/qstylizer-0.2.2.dist-info/INSTALLER",
+    "lib/python3.11/site-packages/qstylizer-0.2.2.dist-info/LICENSE.txt",
+    "lib/python3.11/site-packages/qstylizer-0.2.2.dist-info/METADATA",
+    "lib/python3.11/site-packages/qstylizer-0.2.2.dist-info/RECORD",
+    "lib/python3.11/site-packages/qstylizer-0.2.2.dist-info/REQUESTED",
+    "lib/python3.11/site-packages/qstylizer-0.2.2.dist-info/WHEEL",
+    "lib/python3.11/site-packages/qstylizer-0.2.2.dist-info/direct_url.json",
+    "lib/python3.11/site-packages/qstylizer-0.2.2.dist-info/top_level.txt",
+    "lib/python3.11/site-packages/qstylizer/__init__.py",
+    "lib/python3.11/site-packages/qstylizer/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/qstylizer/__pycache__/parser.cpython-311.pyc",
+    "lib/python3.11/site-packages/qstylizer/__pycache__/style.cpython-311.pyc",
+    "lib/python3.11/site-packages/qstylizer/descriptor/__init__.py",
+    "lib/python3.11/site-packages/qstylizer/descriptor/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/qstylizer/descriptor/__pycache__/prop.cpython-311.pyc",
+    "lib/python3.11/site-packages/qstylizer/descriptor/__pycache__/pseudoprop.cpython-311.pyc",
+    "lib/python3.11/site-packages/qstylizer/descriptor/__pycache__/pseudostate.cpython-311.pyc",
+    "lib/python3.11/site-packages/qstylizer/descriptor/__pycache__/qclass.cpython-311.pyc",
+    "lib/python3.11/site-packages/qstylizer/descriptor/__pycache__/stylerule.cpython-311.pyc",
+    "lib/python3.11/site-packages/qstylizer/descriptor/__pycache__/subcontrol.cpython-311.pyc",
+    "lib/python3.11/site-packages/qstylizer/descriptor/prop.py",
+    "lib/python3.11/site-packages/qstylizer/descriptor/pseudoprop.py",
+    "lib/python3.11/site-packages/qstylizer/descriptor/pseudostate.py",
+    "lib/python3.11/site-packages/qstylizer/descriptor/qclass.py",
+    "lib/python3.11/site-packages/qstylizer/descriptor/stylerule.py",
+    "lib/python3.11/site-packages/qstylizer/descriptor/subcontrol.py",
+    "lib/python3.11/site-packages/qstylizer/parser.py",
+    "lib/python3.11/site-packages/qstylizer/style.py"
+  ],
+  "fn": "qstylizer-0.2.2-py311hca03da5_0.conda",
+  "legacy_bz2_md5": "e2177e116a660cf6068808a16e105053",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/Users/anishmahapatra/anaconda3/pkgs/qstylizer-0.2.2-py311hca03da5_0",
+    "type": 1
+  },
+  "md5": "72560002bd743b2217e8363032fe05ce",
+  "name": "qstylizer",
+  "package_tarball_full_path": "/Users/anishmahapatra/anaconda3/pkgs/qstylizer-0.2.2-py311hca03da5_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.11/site-packages/qstylizer-0.2.2.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.11/site-packages/qstylizer-0.2.2.dist-info/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "82c371ee69673cb7217a059c322f008e472bcef7fd5ac68f15e5f2eb87cd1d0e",
+        "sha256_in_prefix": "82c371ee69673cb7217a059c322f008e472bcef7fd5ac68f15e5f2eb87cd1d0e",
+        "size_in_bytes": 1072
+      },
+      {
+        "_path": "lib/python3.11/site-packages/qstylizer-0.2.2.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "4c89d79e72e228ff0636f03cc23b76358f14ee8daf5618895d48227e1741e435",
+        "sha256_in_prefix": "4c89d79e72e228ff0636f03cc23b76358f14ee8daf5618895d48227e1741e435",
+        "size_in_bytes": 5471
+      },
+      {
+        "_path": "lib/python3.11/site-packages/qstylizer-0.2.2.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "a37f2651242ffcde0ffecd25610b1d17d8c74a3559e2b5096ff1f6c4aada1841",
+        "sha256_in_prefix": "a37f2651242ffcde0ffecd25610b1d17d8c74a3559e2b5096ff1f6c4aada1841",
+        "size_in_bytes": 2117
+      },
+      {
+        "_path": "lib/python3.11/site-packages/qstylizer-0.2.2.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.11/site-packages/qstylizer-0.2.2.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "6dbd8eb7db1c7251ca30e2c310763a076b227163a0ba08c529a26c4fbbf0310a",
+        "sha256_in_prefix": "6dbd8eb7db1c7251ca30e2c310763a076b227163a0ba08c529a26c4fbbf0310a",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "lib/python3.11/site-packages/qstylizer-0.2.2.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "717b0e00e397a82ee34c046e80b5d69ac1a500f7b07313d22a4b46552dffb92e",
+        "sha256_in_prefix": "717b0e00e397a82ee34c046e80b5d69ac1a500f7b07313d22a4b46552dffb92e",
+        "size_in_bytes": 147
+      },
+      {
+        "_path": "lib/python3.11/site-packages/qstylizer-0.2.2.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "4f863eef2d4752828ad869f783ab7d2469cde4ca161ef3ac6174b2215c8678a0",
+        "sha256_in_prefix": "4f863eef2d4752828ad869f783ab7d2469cde4ca161ef3ac6174b2215c8678a0",
+        "size_in_bytes": 10
+      },
+      {
+        "_path": "lib/python3.11/site-packages/qstylizer/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "1dcd20f0732c3b7591821390751c9a2c2f738dcda946b540076e2e61c21f987d",
+        "sha256_in_prefix": "1dcd20f0732c3b7591821390751c9a2c2f738dcda946b540076e2e61c21f987d",
+        "size_in_bytes": 16
+      },
+      {
+        "_path": "lib/python3.11/site-packages/qstylizer/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "7c6c530e3878817d683e095f2791674502dc41a31c0746e011ca874ac942d8ac",
+        "sha256_in_prefix": "7c6c530e3878817d683e095f2791674502dc41a31c0746e011ca874ac942d8ac",
+        "size_in_bytes": 159
+      },
+      {
+        "_path": "lib/python3.11/site-packages/qstylizer/__pycache__/parser.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "005c74969dd36070c77c4020db17be46aa7c996ba9605c7385bd5e47af43a689",
+        "sha256_in_prefix": "005c74969dd36070c77c4020db17be46aa7c996ba9605c7385bd5e47af43a689",
+        "size_in_bytes": 1585
+      },
+      {
+        "_path": "lib/python3.11/site-packages/qstylizer/__pycache__/style.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "75e0b8afe0e23f3a5ee62857eda2168913d9ba483c04da2ca267ecbf082521be",
+        "sha256_in_prefix": "75e0b8afe0e23f3a5ee62857eda2168913d9ba483c04da2ca267ecbf082521be",
+        "size_in_bytes": 33575
+      },
+      {
+        "_path": "lib/python3.11/site-packages/qstylizer/descriptor/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "1dcd20f0732c3b7591821390751c9a2c2f738dcda946b540076e2e61c21f987d",
+        "sha256_in_prefix": "1dcd20f0732c3b7591821390751c9a2c2f738dcda946b540076e2e61c21f987d",
+        "size_in_bytes": 16
+      },
+      {
+        "_path": "lib/python3.11/site-packages/qstylizer/descriptor/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "d3a97a52ca1cf0141832a48d87407f5b5ba9008b91bc757362adfffdcc69f914",
+        "sha256_in_prefix": "d3a97a52ca1cf0141832a48d87407f5b5ba9008b91bc757362adfffdcc69f914",
+        "size_in_bytes": 170
+      },
+      {
+        "_path": "lib/python3.11/site-packages/qstylizer/descriptor/__pycache__/prop.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "ce111e9d176384e8a92de2b072689bdc5921888dfd640a32666ba012dbb3a6b5",
+        "sha256_in_prefix": "ce111e9d176384e8a92de2b072689bdc5921888dfd640a32666ba012dbb3a6b5",
+        "size_in_bytes": 9167
+      },
+      {
+        "_path": "lib/python3.11/site-packages/qstylizer/descriptor/__pycache__/pseudoprop.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "f804dbc0d6e63bb7331859f8f476c64bf3f58e20172721ec91c6224c72d035d1",
+        "sha256_in_prefix": "f804dbc0d6e63bb7331859f8f476c64bf3f58e20172721ec91c6224c72d035d1",
+        "size_in_bytes": 1492
+      },
+      {
+        "_path": "lib/python3.11/site-packages/qstylizer/descriptor/__pycache__/pseudostate.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "413ce8abd2a5151e18243b92c885919da893c22fc7caa8013645d43fa6bd7856",
+        "sha256_in_prefix": "413ce8abd2a5151e18243b92c885919da893c22fc7caa8013645d43fa6bd7856",
+        "size_in_bytes": 3449
+      },
+      {
+        "_path": "lib/python3.11/site-packages/qstylizer/descriptor/__pycache__/qclass.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "46bd67e0796115a983ed03c8361438f67e40847f760cbbaf8b9dda16eb223999",
+        "sha256_in_prefix": "46bd67e0796115a983ed03c8361438f67e40847f760cbbaf8b9dda16eb223999",
+        "size_in_bytes": 3750
+      },
+      {
+        "_path": "lib/python3.11/site-packages/qstylizer/descriptor/__pycache__/stylerule.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "97c5803d691320e57c1e8a684e73f0d92fbe081689433b7793567ee362a58331",
+        "sha256_in_prefix": "97c5803d691320e57c1e8a684e73f0d92fbe081689433b7793567ee362a58331",
+        "size_in_bytes": 5775
+      },
+      {
+        "_path": "lib/python3.11/site-packages/qstylizer/descriptor/__pycache__/subcontrol.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "eb607524131ba9d70db9268f595cbb2a84e759acdde1cd2472717942981d9019",
+        "sha256_in_prefix": "eb607524131ba9d70db9268f595cbb2a84e759acdde1cd2472717942981d9019",
+        "size_in_bytes": 3266
+      },
+      {
+        "_path": "lib/python3.11/site-packages/qstylizer/descriptor/prop.py",
+        "path_type": "hardlink",
+        "sha256": "fae2e77fc10fa5cde5263c856fc31112a48cda528937cfc50d3b9ba9cc66ca3f",
+        "sha256_in_prefix": "fae2e77fc10fa5cde5263c856fc31112a48cda528937cfc50d3b9ba9cc66ca3f",
+        "size_in_bytes": 7387
+      },
+      {
+        "_path": "lib/python3.11/site-packages/qstylizer/descriptor/pseudoprop.py",
+        "path_type": "hardlink",
+        "sha256": "9e5c1d1ed7398e36cfb36c50dce0d1813fd1038ccf3f0d09d507d3a513d0e543",
+        "sha256_in_prefix": "9e5c1d1ed7398e36cfb36c50dce0d1813fd1038ccf3f0d09d507d3a513d0e543",
+        "size_in_bytes": 652
+      },
+      {
+        "_path": "lib/python3.11/site-packages/qstylizer/descriptor/pseudostate.py",
+        "path_type": "hardlink",
+        "sha256": "b9f8d4fbac89459b87c088b01ebb1c5036d53a8a3a2c5485bf29b7128933609c",
+        "sha256_in_prefix": "b9f8d4fbac89459b87c088b01ebb1c5036d53a8a3a2c5485bf29b7128933609c",
+        "size_in_bytes": 2214
+      },
+      {
+        "_path": "lib/python3.11/site-packages/qstylizer/descriptor/qclass.py",
+        "path_type": "hardlink",
+        "sha256": "ea08a2f1fcfe4c01bb6ff2810164b9764ba35dc912e24f002400b1da5cfff530",
+        "sha256_in_prefix": "ea08a2f1fcfe4c01bb6ff2810164b9764ba35dc912e24f002400b1da5cfff530",
+        "size_in_bytes": 2636
+      },
+      {
+        "_path": "lib/python3.11/site-packages/qstylizer/descriptor/stylerule.py",
+        "path_type": "hardlink",
+        "sha256": "f729db02c113b5303b130d81d800ad33d2f38401c403144f2d3755df2144aec1",
+        "sha256_in_prefix": "f729db02c113b5303b130d81d800ad33d2f38401c403144f2d3755df2144aec1",
+        "size_in_bytes": 3210
+      },
+      {
+        "_path": "lib/python3.11/site-packages/qstylizer/descriptor/subcontrol.py",
+        "path_type": "hardlink",
+        "sha256": "e3a5139915976cb04957c96e2ba072aaddcd1cc731848d75944c4dd89b8a86be",
+        "sha256_in_prefix": "e3a5139915976cb04957c96e2ba072aaddcd1cc731848d75944c4dd89b8a86be",
+        "size_in_bytes": 2017
+      },
+      {
+        "_path": "lib/python3.11/site-packages/qstylizer/parser.py",
+        "path_type": "hardlink",
+        "sha256": "4a8aa20388ebc59b2577fab97816fbbba17280cd4314963946c4025bd70da11b",
+        "sha256_in_prefix": "4a8aa20388ebc59b2577fab97816fbbba17280cd4314963946c4025bd70da11b",
+        "size_in_bytes": 963
+      },
+      {
+        "_path": "lib/python3.11/site-packages/qstylizer/style.py",
+        "path_type": "hardlink",
+        "sha256": "8bc9cfd2bffbe51258ffb5a1211d29a55fa6976c450577b18c07696d41666c42",
+        "sha256_in_prefix": "8bc9cfd2bffbe51258ffb5a1211d29a55fa6976c450577b18c07696d41666c42",
+        "size_in_bytes": 22216
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "8da9bc6b2a2135934bc38be537c0ed26acc5bf014c22eb91cf7994508e2f734f",
+  "size": 35630,
+  "subdir": "osx-arm64",
+  "timestamp": 1678072223654,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/qstylizer-0.2.2-py311hca03da5_0.conda",
+  "version": "0.2.2"
+}

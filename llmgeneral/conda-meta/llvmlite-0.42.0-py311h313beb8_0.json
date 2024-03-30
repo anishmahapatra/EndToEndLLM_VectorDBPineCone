@@ -1,0 +1,721 @@
+{
+  "build": "py311h313beb8_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "libcxx >=14.0.6",
+    "libllvm14 >=14.0.6,<14.1.0a0",
+    "python >=3.11,<3.12.0a0"
+  ],
+  "extracted_package_dir": "/Users/anishmahapatra/anaconda3/pkgs/llvmlite-0.42.0-py311h313beb8_0",
+  "features": "",
+  "files": [
+    "lib/python3.11/site-packages/llvmlite-0.42.0.dist-info/INSTALLER",
+    "lib/python3.11/site-packages/llvmlite-0.42.0.dist-info/LICENSE",
+    "lib/python3.11/site-packages/llvmlite-0.42.0.dist-info/METADATA",
+    "lib/python3.11/site-packages/llvmlite-0.42.0.dist-info/RECORD",
+    "lib/python3.11/site-packages/llvmlite-0.42.0.dist-info/REQUESTED",
+    "lib/python3.11/site-packages/llvmlite-0.42.0.dist-info/WHEEL",
+    "lib/python3.11/site-packages/llvmlite-0.42.0.dist-info/direct_url.json",
+    "lib/python3.11/site-packages/llvmlite-0.42.0.dist-info/top_level.txt",
+    "lib/python3.11/site-packages/llvmlite/__init__.py",
+    "lib/python3.11/site-packages/llvmlite/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/llvmlite/__pycache__/_version.cpython-311.pyc",
+    "lib/python3.11/site-packages/llvmlite/__pycache__/utils.cpython-311.pyc",
+    "lib/python3.11/site-packages/llvmlite/_version.py",
+    "lib/python3.11/site-packages/llvmlite/binding/__init__.py",
+    "lib/python3.11/site-packages/llvmlite/binding/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/llvmlite/binding/__pycache__/analysis.cpython-311.pyc",
+    "lib/python3.11/site-packages/llvmlite/binding/__pycache__/common.cpython-311.pyc",
+    "lib/python3.11/site-packages/llvmlite/binding/__pycache__/context.cpython-311.pyc",
+    "lib/python3.11/site-packages/llvmlite/binding/__pycache__/dylib.cpython-311.pyc",
+    "lib/python3.11/site-packages/llvmlite/binding/__pycache__/executionengine.cpython-311.pyc",
+    "lib/python3.11/site-packages/llvmlite/binding/__pycache__/ffi.cpython-311.pyc",
+    "lib/python3.11/site-packages/llvmlite/binding/__pycache__/initfini.cpython-311.pyc",
+    "lib/python3.11/site-packages/llvmlite/binding/__pycache__/linker.cpython-311.pyc",
+    "lib/python3.11/site-packages/llvmlite/binding/__pycache__/module.cpython-311.pyc",
+    "lib/python3.11/site-packages/llvmlite/binding/__pycache__/object_file.cpython-311.pyc",
+    "lib/python3.11/site-packages/llvmlite/binding/__pycache__/options.cpython-311.pyc",
+    "lib/python3.11/site-packages/llvmlite/binding/__pycache__/orcjit.cpython-311.pyc",
+    "lib/python3.11/site-packages/llvmlite/binding/__pycache__/passmanagers.cpython-311.pyc",
+    "lib/python3.11/site-packages/llvmlite/binding/__pycache__/targets.cpython-311.pyc",
+    "lib/python3.11/site-packages/llvmlite/binding/__pycache__/transforms.cpython-311.pyc",
+    "lib/python3.11/site-packages/llvmlite/binding/__pycache__/typeref.cpython-311.pyc",
+    "lib/python3.11/site-packages/llvmlite/binding/__pycache__/value.cpython-311.pyc",
+    "lib/python3.11/site-packages/llvmlite/binding/analysis.py",
+    "lib/python3.11/site-packages/llvmlite/binding/common.py",
+    "lib/python3.11/site-packages/llvmlite/binding/context.py",
+    "lib/python3.11/site-packages/llvmlite/binding/dylib.py",
+    "lib/python3.11/site-packages/llvmlite/binding/executionengine.py",
+    "lib/python3.11/site-packages/llvmlite/binding/ffi.py",
+    "lib/python3.11/site-packages/llvmlite/binding/initfini.py",
+    "lib/python3.11/site-packages/llvmlite/binding/libllvmlite.dylib",
+    "lib/python3.11/site-packages/llvmlite/binding/linker.py",
+    "lib/python3.11/site-packages/llvmlite/binding/module.py",
+    "lib/python3.11/site-packages/llvmlite/binding/object_file.py",
+    "lib/python3.11/site-packages/llvmlite/binding/options.py",
+    "lib/python3.11/site-packages/llvmlite/binding/orcjit.py",
+    "lib/python3.11/site-packages/llvmlite/binding/passmanagers.py",
+    "lib/python3.11/site-packages/llvmlite/binding/targets.py",
+    "lib/python3.11/site-packages/llvmlite/binding/transforms.py",
+    "lib/python3.11/site-packages/llvmlite/binding/typeref.py",
+    "lib/python3.11/site-packages/llvmlite/binding/value.py",
+    "lib/python3.11/site-packages/llvmlite/ir/__init__.py",
+    "lib/python3.11/site-packages/llvmlite/ir/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/llvmlite/ir/__pycache__/_utils.cpython-311.pyc",
+    "lib/python3.11/site-packages/llvmlite/ir/__pycache__/builder.cpython-311.pyc",
+    "lib/python3.11/site-packages/llvmlite/ir/__pycache__/context.cpython-311.pyc",
+    "lib/python3.11/site-packages/llvmlite/ir/__pycache__/instructions.cpython-311.pyc",
+    "lib/python3.11/site-packages/llvmlite/ir/__pycache__/module.cpython-311.pyc",
+    "lib/python3.11/site-packages/llvmlite/ir/__pycache__/transforms.cpython-311.pyc",
+    "lib/python3.11/site-packages/llvmlite/ir/__pycache__/types.cpython-311.pyc",
+    "lib/python3.11/site-packages/llvmlite/ir/__pycache__/values.cpython-311.pyc",
+    "lib/python3.11/site-packages/llvmlite/ir/_utils.py",
+    "lib/python3.11/site-packages/llvmlite/ir/builder.py",
+    "lib/python3.11/site-packages/llvmlite/ir/context.py",
+    "lib/python3.11/site-packages/llvmlite/ir/instructions.py",
+    "lib/python3.11/site-packages/llvmlite/ir/module.py",
+    "lib/python3.11/site-packages/llvmlite/ir/transforms.py",
+    "lib/python3.11/site-packages/llvmlite/ir/types.py",
+    "lib/python3.11/site-packages/llvmlite/ir/values.py",
+    "lib/python3.11/site-packages/llvmlite/tests/__init__.py",
+    "lib/python3.11/site-packages/llvmlite/tests/__main__.py",
+    "lib/python3.11/site-packages/llvmlite/tests/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/llvmlite/tests/__pycache__/__main__.cpython-311.pyc",
+    "lib/python3.11/site-packages/llvmlite/tests/__pycache__/customize.cpython-311.pyc",
+    "lib/python3.11/site-packages/llvmlite/tests/__pycache__/refprune_proto.cpython-311.pyc",
+    "lib/python3.11/site-packages/llvmlite/tests/__pycache__/test_binding.cpython-311.pyc",
+    "lib/python3.11/site-packages/llvmlite/tests/__pycache__/test_ir.cpython-311.pyc",
+    "lib/python3.11/site-packages/llvmlite/tests/__pycache__/test_refprune.cpython-311.pyc",
+    "lib/python3.11/site-packages/llvmlite/tests/__pycache__/test_valuerepr.cpython-311.pyc",
+    "lib/python3.11/site-packages/llvmlite/tests/customize.py",
+    "lib/python3.11/site-packages/llvmlite/tests/refprune_proto.py",
+    "lib/python3.11/site-packages/llvmlite/tests/test_binding.py",
+    "lib/python3.11/site-packages/llvmlite/tests/test_ir.py",
+    "lib/python3.11/site-packages/llvmlite/tests/test_refprune.py",
+    "lib/python3.11/site-packages/llvmlite/tests/test_valuerepr.py",
+    "lib/python3.11/site-packages/llvmlite/utils.py"
+  ],
+  "fn": "llvmlite-0.42.0-py311h313beb8_0.conda",
+  "legacy_bz2_md5": "419681f23f179ba08e5fdf9884ea238d",
+  "license": "BSD-2-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Users/anishmahapatra/anaconda3/pkgs/llvmlite-0.42.0-py311h313beb8_0",
+    "type": 1
+  },
+  "md5": "9dcb69eb05f82bdff54e790d9f5c1e6e",
+  "name": "llvmlite",
+  "package_tarball_full_path": "/Users/anishmahapatra/anaconda3/pkgs/llvmlite-0.42.0-py311h313beb8_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite-0.42.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite-0.42.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "4b9a7264b0113a7b326ee84fc244b73991b535b4833e4a56d58750f2a72250dc",
+        "sha256_in_prefix": "4b9a7264b0113a7b326ee84fc244b73991b535b4833e4a56d58750f2a72250dc",
+        "size_in_bytes": 1298
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite-0.42.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "1a93789fafb10ebf5f2b8ca4728261e4912fe2508647c928bda5be2d02e85669",
+        "sha256_in_prefix": "1a93789fafb10ebf5f2b8ca4728261e4912fe2508647c928bda5be2d02e85669",
+        "size_in_bytes": 4752
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite-0.42.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "868dbafe25ff2abb4421e039b15c0d73fdaa594cc8fbae6d3bdcd1c157a1aea6",
+        "sha256_in_prefix": "868dbafe25ff2abb4421e039b15c0d73fdaa594cc8fbae6d3bdcd1c157a1aea6",
+        "size_in_bytes": 6052
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite-0.42.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite-0.42.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "79a0d36cc79d5a87d5abc2198dec3da9e024a00e52c3630e536a6974846bd498",
+        "sha256_in_prefix": "79a0d36cc79d5a87d5abc2198dec3da9e024a00e52c3630e536a6974846bd498",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite-0.42.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "0bb1493be69220a4a8399b58ab2afe5f2e8776c2c99fc2b66330f4e535e8817a",
+        "sha256_in_prefix": "0bb1493be69220a4a8399b58ab2afe5f2e8776c2c99fc2b66330f4e535e8817a",
+        "size_in_bytes": 139
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite-0.42.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "5898bc1aaf768c0db0bff695d4eb21a7d899fb331ae3729c9b0f349167866060",
+        "sha256_in_prefix": "5898bc1aaf768c0db0bff695d4eb21a7d899fb331ae3729c9b0f349167866060",
+        "size_in_bytes": 9
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "3e25128852c29b4617e6b6c74b8c4e2c676a74f0c2f23ddeb55de798469e9732",
+        "sha256_in_prefix": "3e25128852c29b4617e6b6c74b8c4e2c676a74f0c2f23ddeb55de798469e9732",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "ece125dc2c281f995e510694b1da813707b709183f98d59ab5f097a001766c1c",
+        "sha256_in_prefix": "ece125dc2c281f995e510694b1da813707b709183f98d59ab5f097a001766c1c",
+        "size_in_bytes": 290
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/__pycache__/_version.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "bc65ee5d83684162d90dd1821f5b7f503352c12046ecdb4de825443dadf58730",
+        "sha256_in_prefix": "bc65ee5d83684162d90dd1821f5b7f503352c12046ecdb4de825443dadf58730",
+        "size_in_bytes": 470
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/__pycache__/utils.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "249c53141081eb01b88cfdcbfbe84c4ac164b45f9b7cdd224e583d2130c9e6d4",
+        "sha256_in_prefix": "249c53141081eb01b88cfdcbfbe84c4ac164b45f9b7cdd224e583d2130c9e6d4",
+        "size_in_bytes": 1061
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/_version.py",
+        "path_type": "hardlink",
+        "sha256": "9ab3ff49566746bd7bc8d3123c7e8f7a4821f651bb473c5acba791364d938712",
+        "sha256_in_prefix": "9ab3ff49566746bd7bc8d3123c7e8f7a4821f651bb473c5acba791364d938712",
+        "size_in_bytes": 418
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/binding/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "2e102e3bc0b8f61ad0ec6d98a9c8d3f14764bace044c8d4ddf37b2f50aadec9a",
+        "sha256_in_prefix": "2e102e3bc0b8f61ad0ec6d98a9c8d3f14764bace044c8d4ddf37b2f50aadec9a",
+        "size_in_bytes": 405
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/binding/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "15b2776178563c3eed86dfafdf81b44002155d2e7bc12d837078ca7e7ae5c569",
+        "sha256_in_prefix": "15b2776178563c3eed86dfafdf81b44002155d2e7bc12d837078ca7e7ae5c569",
+        "size_in_bytes": 684
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/binding/__pycache__/analysis.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "e6fe51b528b7ef020c1e84f89886f22005b70ab48f9b539395d7ea91ecf7c738",
+        "sha256_in_prefix": "e6fe51b528b7ef020c1e84f89886f22005b70ab48f9b539395d7ea91ecf7c738",
+        "size_in_bytes": 3260
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/binding/__pycache__/common.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "9a1fc096bdbeda4e8887dba5c082d52625c342f339c4a4678c3076fc3919e310",
+        "sha256_in_prefix": "9a1fc096bdbeda4e8887dba5c082d52625c342f339c4a4678c3076fc3919e310",
+        "size_in_bytes": 1388
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/binding/__pycache__/context.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "4cca020fdc5af680e927d50ec59dcd276d81e31120edc3c9dc407edc50275275",
+        "sha256_in_prefix": "4cca020fdc5af680e927d50ec59dcd276d81e31120edc3c9dc407edc50275275",
+        "size_in_bytes": 2201
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/binding/__pycache__/dylib.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "b779e03706e2301c2b2c53cf7a5e6e0dfe01654d92f7db12dcb175940cd8a595",
+        "sha256_in_prefix": "b779e03706e2301c2b2c53cf7a5e6e0dfe01654d92f7db12dcb175940cd8a595",
+        "size_in_bytes": 2320
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/binding/__pycache__/executionengine.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "4e02f45cb75924471269d8af5bc429162829b0148932dbda863d1f6a223d222a",
+        "sha256_in_prefix": "4e02f45cb75924471269d8af5bc429162829b0148932dbda863d1f6a223d222a",
+        "size_in_bytes": 15616
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/binding/__pycache__/ffi.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "8f6fef2aabcc8d1f46d9a4e0e68e047a77b1a6fb6987bc746894cb988a30b32b",
+        "sha256_in_prefix": "8f6fef2aabcc8d1f46d9a4e0e68e047a77b1a6fb6987bc746894cb988a30b32b",
+        "size_in_bytes": 20451
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/binding/__pycache__/initfini.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "3db90adac59a123032ffb18c523be93e6844fd315430ecf145fa71085f0d6983",
+        "sha256_in_prefix": "3db90adac59a123032ffb18c523be93e6844fd315430ecf145fa71085f0d6983",
+        "size_in_bytes": 3360
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/binding/__pycache__/linker.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "7310b301dd9354e54df9e4b96f652b813d43a58f6166ff51631c568190c303be",
+        "sha256_in_prefix": "7310b301dd9354e54df9e4b96f652b813d43a58f6166ff51631c568190c303be",
+        "size_in_bytes": 1201
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/binding/__pycache__/module.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "78da4b8480f786c23e22a3873f78c81e7878eab5e5deda1c151d61bfd6211fcf",
+        "sha256_in_prefix": "78da4b8480f786c23e22a3873f78c81e7878eab5e5deda1c151d61bfd6211fcf",
+        "size_in_bytes": 19798
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/binding/__pycache__/object_file.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "d4c1cc537c5bae6b6a31e155cd2ffb64e0c5badd5802456ec8dbe42d5a982401",
+        "sha256_in_prefix": "d4c1cc537c5bae6b6a31e155cd2ffb64e0c5badd5802456ec8dbe42d5a982401",
+        "size_in_bytes": 6041
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/binding/__pycache__/options.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "9bcc9e2710264ffdaad9b4dc3b868f4d8a7c2c13cf4808a67c82307a883924db",
+        "sha256_in_prefix": "9bcc9e2710264ffdaad9b4dc3b868f4d8a7c2c13cf4808a67c82307a883924db",
+        "size_in_bytes": 949
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/binding/__pycache__/orcjit.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "7dc58d280b1f8ff8deb2a6f60462d77842c56b455c39a87ac3973370a8d4c161",
+        "sha256_in_prefix": "7dc58d280b1f8ff8deb2a6f60462d77842c56b455c39a87ac3973370a8d4c161",
+        "size_in_bytes": 18257
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/binding/__pycache__/passmanagers.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "04bdb99b6ba9f9db22871b26e618c5ef87b5f5a28972abf5c7cf2f0c195eaf57",
+        "sha256_in_prefix": "04bdb99b6ba9f9db22871b26e618c5ef87b5f5a28972abf5c7cf2f0c195eaf57",
+        "size_in_bytes": 49987
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/binding/__pycache__/targets.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "dc0267e647bfa48bf081734c233a59400f9012d92488bf378ec4c1f32be283a7",
+        "sha256_in_prefix": "dc0267e647bfa48bf081734c233a59400f9012d92488bf378ec4c1f32be283a7",
+        "size_in_bytes": 22189
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/binding/__pycache__/transforms.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "e2c5a0610dd468bad5094754882f7aabc04ab856a723b6b3436e5af90b7657c5",
+        "sha256_in_prefix": "e2c5a0610dd468bad5094754882f7aabc04ab856a723b6b3436e5af90b7657c5",
+        "size_in_bytes": 8261
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/binding/__pycache__/typeref.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "82f9fa9f28be515613eb32a1aafef1ff3e2454d4911685ba586dbdebe28d5bd6",
+        "sha256_in_prefix": "82f9fa9f28be515613eb32a1aafef1ff3e2454d4911685ba586dbdebe28d5bd6",
+        "size_in_bytes": 9777
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/binding/__pycache__/value.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "cd30f8a2ee7579032843b446192fcfa853a8035313aa74be246291f2883d0420",
+        "sha256_in_prefix": "cd30f8a2ee7579032843b446192fcfa853a8035313aa74be246291f2883d0420",
+        "size_in_bytes": 31831
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/binding/analysis.py",
+        "path_type": "hardlink",
+        "sha256": "05b09c000198d062c01147a4e99a201e404098503d92fa52ef7df75f222b6e17",
+        "sha256_in_prefix": "05b09c000198d062c01147a4e99a201e404098503d92fa52ef7df75f222b6e17",
+        "size_in_bytes": 2253
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/binding/common.py",
+        "path_type": "hardlink",
+        "sha256": "7824a79d8e2c72d81ea95c03bfd3eb1fa8e9308e399c93e6033e2b7e36cfb1ff",
+        "sha256_in_prefix": "7824a79d8e2c72d81ea95c03bfd3eb1fa8e9308e399c93e6033e2b7e36cfb1ff",
+        "size_in_bytes": 742
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/binding/context.py",
+        "path_type": "hardlink",
+        "sha256": "976bdd2ac274dfc3df48acda535ec50920d85ad072cc81584449b1f77270296f",
+        "sha256_in_prefix": "976bdd2ac274dfc3df48acda535ec50920d85ad072cc81584449b1f77270296f",
+        "size_in_bytes": 657
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/binding/dylib.py",
+        "path_type": "hardlink",
+        "sha256": "ca97e290e60a8964198bc874d0b84b057c263e527977ceb22ce527d35a438e63",
+        "sha256_in_prefix": "ca97e290e60a8964198bc874d0b84b057c263e527977ceb22ce527d35a438e63",
+        "size_in_bytes": 1300
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/binding/executionengine.py",
+        "path_type": "hardlink",
+        "sha256": "3e050509525d1afaf15c26407af32ff275002fc9f6f579b9f0560ed5760b69f7",
+        "sha256_in_prefix": "3e050509525d1afaf15c26407af32ff275002fc9f6f579b9f0560ed5760b69f7",
+        "size_in_bytes": 11022
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/binding/ffi.py",
+        "path_type": "hardlink",
+        "sha256": "b1b378bf00a56e0a672479f8f9e736cfc8267420bde7f4ccdecea48e4e8d5e9e",
+        "sha256_in_prefix": "b1b378bf00a56e0a672479f8f9e736cfc8267420bde7f4ccdecea48e4e8d5e9e",
+        "size_in_bytes": 12088
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/binding/initfini.py",
+        "path_type": "hardlink",
+        "sha256": "cc5f6d25798238d69b90fd1dfc8aa6894e8cfd69fc37c02b9307d70717f54c3a",
+        "sha256_in_prefix": "cc5f6d25798238d69b90fd1dfc8aa6894e8cfd69fc37c02b9307d70717f54c3a",
+        "size_in_bytes": 1595
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/binding/libllvmlite.dylib",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a1dv4fk0r3/croot/llvmlite_1706910711755/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "41f1e27f801f9ca69693c45f135328fd956a6f9cd7b61bd66cd829f13fd85d8c",
+        "sha256_in_prefix": "a1f67a33e4ef72fe5ce196a693e81db62039d3cefb817f87b06e8936e3dd33b0",
+        "size_in_bytes": 391328
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/binding/linker.py",
+        "path_type": "hardlink",
+        "sha256": "3386c0928c55014831a9a8b94b4fe20874b911c3513c15fff7395d56a14b57dd",
+        "sha256_in_prefix": "3386c0928c55014831a9a8b94b4fe20874b911c3513c15fff7395d56a14b57dd",
+        "size_in_bytes": 489
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/binding/module.py",
+        "path_type": "hardlink",
+        "sha256": "65ff4672e08415fd71b4e98ffa35ea2ad25b8f874ef25f5ad8d10f293c2c8a62",
+        "sha256_in_prefix": "65ff4672e08415fd71b4e98ffa35ea2ad25b8f874ef25f5ad8d10f293c2c8a62",
+        "size_in_bytes": 11174
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/binding/object_file.py",
+        "path_type": "hardlink",
+        "sha256": "a99313022ea071542ad9edca8211cdc551f722fcebef3c433de71f899d518b2f",
+        "sha256_in_prefix": "a99313022ea071542ad9edca8211cdc551f722fcebef3c433de71f899d518b2f",
+        "size_in_bytes": 2664
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/binding/options.py",
+        "path_type": "hardlink",
+        "sha256": "6831f848587a559d756a0b5424ef6f0318558509081800722bd20729eb917002",
+        "sha256_in_prefix": "6831f848587a559d756a0b5424ef6f0318558509081800722bd20729eb917002",
+        "size_in_bytes": 509
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/binding/orcjit.py",
+        "path_type": "hardlink",
+        "sha256": "1d45832a2731ad82b9b36b6b76b33f2849a47efc227eb3f813d3319826fc2523",
+        "sha256_in_prefix": "1d45832a2731ad82b9b36b6b76b33f2849a47efc227eb3f813d3319826fc2523",
+        "size_in_bytes": 11856
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/binding/passmanagers.py",
+        "path_type": "hardlink",
+        "sha256": "116fc325d1b9e2338785a5287e8c006daaf646fca2ee49d5e8c456928c7aa538",
+        "sha256_in_prefix": "116fc325d1b9e2338785a5287e8c006daaf646fca2ee49d5e8c456928c7aa538",
+        "size_in_bytes": 34769
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/binding/targets.py",
+        "path_type": "hardlink",
+        "sha256": "e67c439fbde92bf12542ef3a114f7de1071dfa4e496b6535dbb4ffa0bad6fe49",
+        "sha256_in_prefix": "e67c439fbde92bf12542ef3a114f7de1071dfa4e496b6535dbb4ffa0bad6fe49",
+        "size_in_bytes": 14802
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/binding/transforms.py",
+        "path_type": "hardlink",
+        "sha256": "0bf4e9d173d5fff68e1da5732cb2ff4056bec88f6f903c758306400e4fcac06f",
+        "sha256_in_prefix": "0bf4e9d173d5fff68e1da5732cb2ff4056bec88f6f903c758306400e4fcac06f",
+        "size_in_bytes": 4947
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/binding/typeref.py",
+        "path_type": "hardlink",
+        "sha256": "4ff6507ef8d374bb40443722db056e45f9da96012df4e736a9bed9522893149e",
+        "sha256_in_prefix": "4ff6507ef8d374bb40443722db056e45f9da96012df4e736a9bed9522893149e",
+        "size_in_bytes": 5534
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/binding/value.py",
+        "path_type": "hardlink",
+        "sha256": "586cdb4ede1b8b8d961e53a6fb0ac39332292c857e118889536131c237aa99f1",
+        "sha256_in_prefix": "586cdb4ede1b8b8d961e53a6fb0ac39332292c857e118889536131c237aa99f1",
+        "size_in_bytes": 18956
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/ir/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "acd3edacf2ec86c3c960ee067a058053eae96e9898a34c54f8241bdebb7426d1",
+        "sha256_in_prefix": "acd3edacf2ec86c3c960ee067a058053eae96e9898a34c54f8241bdebb7426d1",
+        "size_in_bytes": 258
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/ir/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "6ea30be585358ddcc5be3b27e4bb1e060e0bffc1d78c8d0171b88d6c26b8e432",
+        "sha256_in_prefix": "6ea30be585358ddcc5be3b27e4bb1e060e0bffc1d78c8d0171b88d6c26b8e432",
+        "size_in_bytes": 518
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/ir/__pycache__/_utils.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "1d76456473cc2d516d1b6be797d3186ec3e03208299f0536971845d9ccd3b7d8",
+        "sha256_in_prefix": "1d76456473cc2d516d1b6be797d3186ec3e03208299f0536971845d9ccd3b7d8",
+        "size_in_bytes": 5101
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/ir/__pycache__/builder.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "b10453088aa6c26533e5755bbaa38239cb406161adcc75ce252cc3a01f259c52",
+        "sha256_in_prefix": "b10453088aa6c26533e5755bbaa38239cb406161adcc75ce252cc3a01f259c52",
+        "size_in_bytes": 53089
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/ir/__pycache__/context.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "09c2567156be9e44719407cdf1d4670fa11ff02a9df4c39ce97e66731a874593",
+        "sha256_in_prefix": "09c2567156be9e44719407cdf1d4670fa11ff02a9df4c39ce97e66731a874593",
+        "size_in_bytes": 1259
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/ir/__pycache__/instructions.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "020a4435ecdda28d7785513b7d3b186c6c465229af21f0be27521deaa1ac7dde",
+        "sha256_in_prefix": "020a4435ecdda28d7785513b7d3b186c6c465229af21f0be27521deaa1ac7dde",
+        "size_in_bytes": 62186
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/ir/__pycache__/module.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "9071e3e27de1b0f95fe41f4f671cc77f61236dc9fac4dd252226a28e326ad15d",
+        "sha256_in_prefix": "9071e3e27de1b0f95fe41f4f671cc77f61236dc9fac4dd252226a28e326ad15d",
+        "size_in_bytes": 14393
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/ir/__pycache__/transforms.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "b0170038ceb400cad8390af8a9833337c2a4223bf3a9ad4d25760adfe72cf263",
+        "sha256_in_prefix": "b0170038ceb400cad8390af8a9833337c2a4223bf3a9ad4d25760adfe72cf263",
+        "size_in_bytes": 4173
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/ir/__pycache__/types.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "e5684f79de8235e8c0f13c2c595b44c6f661c9b858382da6bff1cd367f490d5c",
+        "sha256_in_prefix": "e5684f79de8235e8c0f13c2c595b44c6f661c9b858382da6bff1cd367f490d5c",
+        "size_in_bytes": 34013
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/ir/__pycache__/values.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "02b15cfd92f96429b81fcb1d387416c2b760feba14a16b35f459f1f10ea8f597",
+        "sha256_in_prefix": "02b15cfd92f96429b81fcb1d387416c2b760feba14a16b35f459f1f10ea8f597",
+        "size_in_bytes": 65106
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/ir/_utils.py",
+        "path_type": "hardlink",
+        "sha256": "9a4a7210c950f671cc716981301b099b84b5e98d017efc417f96ebb1d3262a2a",
+        "sha256_in_prefix": "9a4a7210c950f671cc716981301b099b84b5e98d017efc417f96ebb1d3262a2a",
+        "size_in_bytes": 2001
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/ir/builder.py",
+        "path_type": "hardlink",
+        "sha256": "b7a642be4c177758e66fe086a135b5da42ce4939f08df4bf798f4926cea28f78",
+        "sha256_in_prefix": "b7a642be4c177758e66fe086a135b5da42ce4939f08df4bf798f4926cea28f78",
+        "size_in_bytes": 33479
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/ir/context.py",
+        "path_type": "hardlink",
+        "sha256": "9e98046e8c743330a1987ee77c7a53752b0dfc6e3353e5eba46c7900863069f9",
+        "sha256_in_prefix": "9e98046e8c743330a1987ee77c7a53752b0dfc6e3353e5eba46c7900863069f9",
+        "size_in_bytes": 518
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/ir/instructions.py",
+        "path_type": "hardlink",
+        "sha256": "fdfa670b222da0680f24785cb82ad5c70903133e0ef5aff8e6d87172705c0ee4",
+        "sha256_in_prefix": "fdfa670b222da0680f24785cb82ad5c70903133e0ef5aff8e6d87172705c0ee4",
+        "size_in_bytes": 31767
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/ir/module.py",
+        "path_type": "hardlink",
+        "sha256": "a5fa4087eef758c2e9b4aab080047067b68b307a66f3c01c240d863df1afc953",
+        "sha256_in_prefix": "a5fa4087eef758c2e9b4aab080047067b68b307a66f3c01c240d863df1afc953",
+        "size_in_bytes": 9074
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/ir/transforms.py",
+        "path_type": "hardlink",
+        "sha256": "a55efda41db49b837f1cb981124b30e5554ff1cc727fb01818309b4b513b7ce4",
+        "sha256_in_prefix": "a55efda41db49b837f1cb981124b30e5554ff1cc727fb01818309b4b513b7ce4",
+        "size_in_bytes": 1552
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/ir/types.py",
+        "path_type": "hardlink",
+        "sha256": "d865fe3c8c7f8c3bede0621f1e4aa2124ac923f80f42a4a4b4eb24bb65194e04",
+        "sha256_in_prefix": "d865fe3c8c7f8c3bede0621f1e4aa2124ac923f80f42a4a4b4eb24bb65194e04",
+        "size_in_bytes": 16149
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/ir/values.py",
+        "path_type": "hardlink",
+        "sha256": "5c3525aef5629f4816903a5a5dde7ddd2fa85da0116d39cbabaf5b3002d1b1b2",
+        "sha256_in_prefix": "5c3525aef5629f4816903a5a5dde7ddd2fa85da0116d39cbabaf5b3002d1b1b2",
+        "size_in_bytes": 34001
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/tests/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "4c11c43ac12afbd33dac5f789c44b61f179f03eec6630344d3463b813907ac3f",
+        "sha256_in_prefix": "4c11c43ac12afbd33dac5f789c44b61f179f03eec6630344d3463b813907ac3f",
+        "size_in_bytes": 1378
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/tests/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "d74fce9f5acb8f8097d71b0127d4db8d42ef352a7f2b4aa4f54d4de9acd44d4c",
+        "sha256_in_prefix": "d74fce9f5acb8f8097d71b0127d4db8d42ef352a7f2b4aa4f54d4de9acd44d4c",
+        "size_in_bytes": 40
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/tests/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "9a1ac99048e670a17b31163602ba537499fa3bda4dc06bd86296bd95013f359a",
+        "sha256_in_prefix": "9a1ac99048e670a17b31163602ba537499fa3bda4dc06bd86296bd95013f359a",
+        "size_in_bytes": 2234
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/tests/__pycache__/__main__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "148173a5ea6098125f9d970601d5d53805b34b1656225fe6d23cac1e7448492e",
+        "sha256_in_prefix": "148173a5ea6098125f9d970601d5d53805b34b1656225fe6d23cac1e7448492e",
+        "size_in_bytes": 250
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/tests/__pycache__/customize.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "211392545cd24198372863352d99a3fc7c6dd7a900e768618b213f7c1e111cbb",
+        "sha256_in_prefix": "211392545cd24198372863352d99a3fc7c6dd7a900e768618b213f7c1e111cbb",
+        "size_in_bytes": 20075
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/tests/__pycache__/refprune_proto.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "bf94d5e927f903ae09cab8db158fd5f7e97a8f12feb8193a955104773f7d9147",
+        "sha256_in_prefix": "bf94d5e927f903ae09cab8db158fd5f7e97a8f12feb8193a955104773f7d9147",
+        "size_in_bytes": 12849
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/tests/__pycache__/test_binding.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "f7505f5131cf3efd91696cbe1dd98ae0b7f33019fed34dafe76cf0fd0311dd01",
+        "sha256_in_prefix": "f7505f5131cf3efd91696cbe1dd98ae0b7f33019fed34dafe76cf0fd0311dd01",
+        "size_in_bytes": 169128
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/tests/__pycache__/test_ir.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "4d3d0e1d11b07b711d2e1f121c8ada686cb8b7f3c7f4ce5ea1b4f96553784747",
+        "sha256_in_prefix": "4d3d0e1d11b07b711d2e1f121c8ada686cb8b7f3c7f4ce5ea1b4f96553784747",
+        "size_in_bytes": 197641
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/tests/__pycache__/test_refprune.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "c44568301496e18fd7c71ca6e05c27865b551f395bfef6a1ea3cd4d6f8e66b2f",
+        "sha256_in_prefix": "c44568301496e18fd7c71ca6e05c27865b551f395bfef6a1ea3cd4d6f8e66b2f",
+        "size_in_bytes": 22855
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/tests/__pycache__/test_valuerepr.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "46b2da5f98eaddf81ec8653937f70ff68ae898f80d1be242ebceb5ae7df0deb8",
+        "sha256_in_prefix": "46b2da5f98eaddf81ec8653937f70ff68ae898f80d1be242ebceb5ae7df0deb8",
+        "size_in_bytes": 5257
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/tests/customize.py",
+        "path_type": "hardlink",
+        "sha256": "f3901fd60c99e6bb575c8deaa5e4dcd835ccae01138efee1acb37eef703b1618",
+        "sha256_in_prefix": "f3901fd60c99e6bb575c8deaa5e4dcd835ccae01138efee1acb37eef703b1618",
+        "size_in_bytes": 13268
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/tests/refprune_proto.py",
+        "path_type": "hardlink",
+        "sha256": "2398348d61d896c2c2397dc2b7df9f039fee74b7e48a9cee040b0492b36c1489",
+        "sha256_in_prefix": "2398348d61d896c2c2397dc2b7df9f039fee74b7e48a9cee040b0492b36c1489",
+        "size_in_bytes": 8677
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/tests/test_binding.py",
+        "path_type": "hardlink",
+        "sha256": "9f2f676d8a314afa3f6fee99a70a4dedd454d6258e6f0a80d052399940a4d4a9",
+        "sha256_in_prefix": "9f2f676d8a314afa3f6fee99a70a4dedd454d6258e6f0a80d052399940a4d4a9",
+        "size_in_bytes": 86468
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/tests/test_ir.py",
+        "path_type": "hardlink",
+        "sha256": "05d3672704b335d1b702c045fefd317bb31364c377e8d6e1ac06125749875109",
+        "sha256_in_prefix": "05d3672704b335d1b702c045fefd317bb31364c377e8d6e1ac06125749875109",
+        "size_in_bytes": 105705
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/tests/test_refprune.py",
+        "path_type": "hardlink",
+        "sha256": "a329371c12c238c3f2446f9b8fea263b711cff5948eba4bc88d819c25f3566cd",
+        "sha256_in_prefix": "a329371c12c238c3f2446f9b8fea263b711cff5948eba4bc88d819c25f3566cd",
+        "size_in_bytes": 14235
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/tests/test_valuerepr.py",
+        "path_type": "hardlink",
+        "sha256": "e7b31a1b39c9527a827f47ad6a39ce0a8051b9ee7e9e6153c756ddb3fe5ab651",
+        "sha256_in_prefix": "e7b31a1b39c9527a827f47ad6a39ce0a8051b9ee7e9e6153c756ddb3fe5ab651",
+        "size_in_bytes": 1989
+      },
+      {
+        "_path": "lib/python3.11/site-packages/llvmlite/utils.py",
+        "path_type": "hardlink",
+        "sha256": "07082b03625a61a6621d169fb21a19047898481b24250306fcad85da36d6dbec",
+        "sha256_in_prefix": "07082b03625a61a6621d169fb21a19047898481b24250306fcad85da36d6dbec",
+        "size_in_bytes": 695
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "6d2f1f43d268125891ad8d0cd8e00b600aa567c0df7fc8ed550f4031fd20f76b",
+  "size": 407906,
+  "subdir": "osx-arm64",
+  "timestamp": 1706910762686,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/llvmlite-0.42.0-py311h313beb8_0.conda",
+  "version": "0.42.0"
+}

@@ -1,0 +1,200 @@
+{
+  "build": "py311hca03da5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "aiobotocore >=2.7.0,<2.8.0",
+    "aiohttp !=4.0.0a0,!=4.0.0a1",
+    "fsspec 2023.10.0.*",
+    "python >=3.11,<3.12.0a0"
+  ],
+  "extracted_package_dir": "/Users/anishmahapatra/anaconda3/pkgs/s3fs-2023.10.0-py311hca03da5_0",
+  "features": "",
+  "files": [
+    "lib/python3.11/site-packages/s3fs-2023.10.0.dist-info/INSTALLER",
+    "lib/python3.11/site-packages/s3fs-2023.10.0.dist-info/LICENSE.txt",
+    "lib/python3.11/site-packages/s3fs-2023.10.0.dist-info/METADATA",
+    "lib/python3.11/site-packages/s3fs-2023.10.0.dist-info/RECORD",
+    "lib/python3.11/site-packages/s3fs-2023.10.0.dist-info/REQUESTED",
+    "lib/python3.11/site-packages/s3fs-2023.10.0.dist-info/WHEEL",
+    "lib/python3.11/site-packages/s3fs-2023.10.0.dist-info/direct_url.json",
+    "lib/python3.11/site-packages/s3fs-2023.10.0.dist-info/top_level.txt",
+    "lib/python3.11/site-packages/s3fs/__init__.py",
+    "lib/python3.11/site-packages/s3fs/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/s3fs/__pycache__/_version.cpython-311.pyc",
+    "lib/python3.11/site-packages/s3fs/__pycache__/core.cpython-311.pyc",
+    "lib/python3.11/site-packages/s3fs/__pycache__/errors.cpython-311.pyc",
+    "lib/python3.11/site-packages/s3fs/__pycache__/mapping.cpython-311.pyc",
+    "lib/python3.11/site-packages/s3fs/__pycache__/utils.cpython-311.pyc",
+    "lib/python3.11/site-packages/s3fs/_version.py",
+    "lib/python3.11/site-packages/s3fs/core.py",
+    "lib/python3.11/site-packages/s3fs/errors.py",
+    "lib/python3.11/site-packages/s3fs/mapping.py",
+    "lib/python3.11/site-packages/s3fs/utils.py"
+  ],
+  "fn": "s3fs-2023.10.0-py311hca03da5_0.conda",
+  "legacy_bz2_md5": "4f453952603c8d965d26c5571fc79565",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Users/anishmahapatra/anaconda3/pkgs/s3fs-2023.10.0-py311hca03da5_0",
+    "type": 1
+  },
+  "md5": "ffa884b75b51947adabca03646c5acbb",
+  "name": "s3fs",
+  "package_tarball_full_path": "/Users/anishmahapatra/anaconda3/pkgs/s3fs-2023.10.0-py311hca03da5_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.11/site-packages/s3fs-2023.10.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.11/site-packages/s3fs-2023.10.0.dist-info/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "dc3599fa66bc1bcffa236838be2fb4e15f84ce4801244eec93d90e515cfc58d1",
+        "sha256_in_prefix": "dc3599fa66bc1bcffa236838be2fb4e15f84ce4801244eec93d90e515cfc58d1",
+        "size_in_bytes": 1505
+      },
+      {
+        "_path": "lib/python3.11/site-packages/s3fs-2023.10.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "2d4e940f7e54d4b5659f66285339f5c2c0b91030a4897cb4d817a5fddb574f75",
+        "sha256_in_prefix": "2d4e940f7e54d4b5659f66285339f5c2c0b91030a4897cb4d817a5fddb574f75",
+        "size_in_bytes": 1578
+      },
+      {
+        "_path": "lib/python3.11/site-packages/s3fs-2023.10.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "fd6e52fda50b8604cb28d52cf5fcadd8f913d75632138c29ac81ca494375f081",
+        "sha256_in_prefix": "fd6e52fda50b8604cb28d52cf5fcadd8f913d75632138c29ac81ca494375f081",
+        "size_in_bytes": 1366
+      },
+      {
+        "_path": "lib/python3.11/site-packages/s3fs-2023.10.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.11/site-packages/s3fs-2023.10.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+        "sha256_in_prefix": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "lib/python3.11/site-packages/s3fs-2023.10.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "b24a28ad74e83c02922deb54e26c5ab8f428edb4204de3b3f122b821325f249a",
+        "sha256_in_prefix": "b24a28ad74e83c02922deb54e26c5ab8f428edb4204de3b3f122b821325f249a",
+        "size_in_bytes": 135
+      },
+      {
+        "_path": "lib/python3.11/site-packages/s3fs-2023.10.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "2dfe842374dd8e53eeed337ef7620863a73e19dac79e4aca19bd67d22c0aa282",
+        "sha256_in_prefix": "2dfe842374dd8e53eeed337ef7620863a73e19dac79e4aca19bd67d22c0aa282",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.11/site-packages/s3fs/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "ffafd5b3fbdb961252270fbad8954804833c91328b86ec0f14022fb7785a9e5b",
+        "sha256_in_prefix": "ffafd5b3fbdb961252270fbad8954804833c91328b86ec0f14022fb7785a9e5b",
+        "size_in_bytes": 160
+      },
+      {
+        "_path": "lib/python3.11/site-packages/s3fs/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "44bde24a09a9f6b11d090ea867a7b3aaf8a35aa708a56f0abc6fad563b9756c8",
+        "sha256_in_prefix": "44bde24a09a9f6b11d090ea867a7b3aaf8a35aa708a56f0abc6fad563b9756c8",
+        "size_in_bytes": 419
+      },
+      {
+        "_path": "lib/python3.11/site-packages/s3fs/__pycache__/_version.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "2db45b6d2486abd1373db4edabada7a4a044b9443a5ff8afb3f8ab414063bfbd",
+        "sha256_in_prefix": "2db45b6d2486abd1373db4edabada7a4a044b9443a5ff8afb3f8ab414063bfbd",
+        "size_in_bytes": 563
+      },
+      {
+        "_path": "lib/python3.11/site-packages/s3fs/__pycache__/core.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "257c29ac9d2ba5aeab40ef483d82e5a34c620b200b0e9f76c218f0233fa94b07",
+        "sha256_in_prefix": "257c29ac9d2ba5aeab40ef483d82e5a34c620b200b0e9f76c218f0233fa94b07",
+        "size_in_bytes": 110554
+      },
+      {
+        "_path": "lib/python3.11/site-packages/s3fs/__pycache__/errors.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "fee29506fa63e43b3f30456ad65d3effc0fe6beb6ef655b511462144e0fc8ab5",
+        "sha256_in_prefix": "fee29506fa63e43b3f30456ad65d3effc0fe6beb6ef655b511462144e0fc8ab5",
+        "size_in_bytes": 10044
+      },
+      {
+        "_path": "lib/python3.11/site-packages/s3fs/__pycache__/mapping.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "06f13f6c0432678d82ee910bbe507050b69860fed5ccab49957bdbc5c9bd1ac6",
+        "sha256_in_prefix": "06f13f6c0432678d82ee910bbe507050b69860fed5ccab49957bdbc5c9bd1ac6",
+        "size_in_bytes": 572
+      },
+      {
+        "_path": "lib/python3.11/site-packages/s3fs/__pycache__/utils.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "aa5468fde9237b887c1115e7cd07ad5e68adb12bb55ab9f4f36b6579903ea86f",
+        "sha256_in_prefix": "aa5468fde9237b887c1115e7cd07ad5e68adb12bb55ab9f4f36b6579903ea86f",
+        "size_in_bytes": 9792
+      },
+      {
+        "_path": "lib/python3.11/site-packages/s3fs/_version.py",
+        "path_type": "hardlink",
+        "sha256": "79f5e84b576da67a2adf8901b12dc9eedb36a151062584b508ce6d50aa615cc7",
+        "sha256_in_prefix": "79f5e84b576da67a2adf8901b12dc9eedb36a151062584b508ce6d50aa615cc7",
+        "size_in_bytes": 501
+      },
+      {
+        "_path": "lib/python3.11/site-packages/s3fs/core.py",
+        "path_type": "hardlink",
+        "sha256": "f7a2b309c8f3a912727522f034f0e7188b96fc2a157bbdbc9926a9f1781048a9",
+        "sha256_in_prefix": "f7a2b309c8f3a912727522f034f0e7188b96fc2a157bbdbc9926a9f1781048a9",
+        "size_in_bytes": 85310
+      },
+      {
+        "_path": "lib/python3.11/site-packages/s3fs/errors.py",
+        "path_type": "hardlink",
+        "sha256": "b95dc4d612ef2f5f19ad91005cb68aa084edafc5fa0acd8d704f7bbf6526d966",
+        "sha256_in_prefix": "b95dc4d612ef2f5f19ad91005cb68aa084edafc5fa0acd8d704f7bbf6526d966",
+        "size_in_bytes": 7779
+      },
+      {
+        "_path": "lib/python3.11/site-packages/s3fs/mapping.py",
+        "path_type": "hardlink",
+        "sha256": "168a8474c9deecb5d42f81e03cde23e96b0cb2bc31a5be771b29c3857b3d5512",
+        "sha256_in_prefix": "168a8474c9deecb5d42f81e03cde23e96b0cb2bc31a5be771b29c3857b3d5512",
+        "size_in_bytes": 237
+      },
+      {
+        "_path": "lib/python3.11/site-packages/s3fs/utils.py",
+        "path_type": "hardlink",
+        "sha256": "812fc36e6f6d35d7090fe14e27a3dd8ef1da032c037c0d5afa4ec79f560f7404",
+        "sha256_in_prefix": "812fc36e6f6d35d7090fe14e27a3dd8ef1da032c037c0d5afa4ec79f560f7404",
+        "size_in_bytes": 5246
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "74cfbe497f00ebbfd586cab94784fc52240889df7dd3080813d42171e59078f3",
+  "size": 81467,
+  "subdir": "osx-arm64",
+  "timestamp": 1701294295166,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/s3fs-2023.10.0-py311hca03da5_0.conda",
+  "version": "2023.10.0"
+}
